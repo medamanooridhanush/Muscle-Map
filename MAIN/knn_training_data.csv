@@ -1,0 +1,5161 @@
+finger_x, finger_y, muscle, muscle_x, muscle_y
+801,467,Left Trapezius,772,472
+786,418,Right Trapezius,759,442
+775,407,Right Trapezius,754,433
+758,386,Right Trapezius,746,427
+501,488,Right Shoulder (Deltoid),544,501
+515,461,Right Shoulder (Deltoid),544,500
+512,482,Right Shoulder (Deltoid),543,502
+513,499,Right Shoulder (Deltoid),544,504
+519,505,Right Shoulder (Deltoid),544,503
+517,503,Right Shoulder (Deltoid),544,503
+516,505,Right Shoulder (Deltoid),545,502
+516,503,Right Shoulder (Deltoid),545,500
+518,503,Right Shoulder (Deltoid),545,500
+517,502,Right Shoulder (Deltoid),546,499
+517,503,Right Shoulder (Deltoid),546,499
+517,503,Right Shoulder (Deltoid),546,499
+517,503,Right Shoulder (Deltoid),546,499
+518,503,Right Shoulder (Deltoid),546,498
+518,504,Right Shoulder (Deltoid),546,498
+518,503,Right Shoulder (Deltoid),546,498
+517,503,Right Shoulder (Deltoid),546,498
+517,505,Right Shoulder (Deltoid),546,498
+517,505,Right Shoulder (Deltoid),547,497
+517,504,Right Shoulder (Deltoid),547,496
+518,506,Right Shoulder (Deltoid),548,496
+517,506,Right Shoulder (Deltoid),548,496
+516,507,Right Shoulder (Deltoid),549,496
+518,506,Right Shoulder (Deltoid),550,496
+517,506,Right Shoulder (Deltoid),550,496
+520,505,Right Shoulder (Deltoid),550,497
+729,509,Chest (Pectorals),688,519
+704,538,Chest (Pectorals),688,518
+676,561,Chest (Pectorals),687,518
+554,538,Right Shoulder (Deltoid),508,521
+496,486,Right Shoulder (Deltoid),508,511
+655,474,Chest (Pectorals),676,512
+704,475,Chest (Pectorals),678,513
+512,468,Right Shoulder (Deltoid),538,506
+503,481,Right Shoulder (Deltoid),537,506
+500,486,Right Shoulder (Deltoid),538,503
+502,492,Right Shoulder (Deltoid),537,500
+500,496,Right Shoulder (Deltoid),537,500
+511,500,Right Shoulder (Deltoid),537,500
+512,504,Right Shoulder (Deltoid),538,501
+520,512,Right Shoulder (Deltoid),538,502
+518,510,Right Shoulder (Deltoid),539,503
+519,510,Right Shoulder (Deltoid),539,505
+519,508,Right Shoulder (Deltoid),540,508
+518,508,Right Shoulder (Deltoid),540,508
+517,504,Right Shoulder (Deltoid),539,511
+539,500,Right Shoulder (Deltoid),534,514
+574,502,Right Shoulder (Deltoid),533,514
+662,540,Chest (Pectorals),698,508
+719,549,Chest (Pectorals),693,510
+714,534,Chest (Pectorals),694,511
+686,499,Chest (Pectorals),694,512
+669,499,Chest (Pectorals),696,516
+660,499,Chest (Pectorals),697,518
+661,499,Chest (Pectorals),699,518
+659,501,Chest (Pectorals),699,519
+663,499,Chest (Pectorals),701,519
+664,498,Chest (Pectorals),702,520
+665,492,Chest (Pectorals),702,520
+670,488,Chest (Pectorals),702,520
+653,436,Right Trapezius,699,418
+680,447,Right Trapezius,720,432
+542,467,Right Shoulder (Deltoid),544,511
+529,472,Right Shoulder (Deltoid),542,515
+565,483,Right Shoulder (Deltoid),547,518
+541,489,Right Shoulder (Deltoid),547,518
+516,485,Right Shoulder (Deltoid),545,516
+538,495,Right Shoulder (Deltoid),540,515
+514,496,Right Shoulder (Deltoid),538,515
+551,485,Right Shoulder (Deltoid),535,515
+515,485,Right Shoulder (Deltoid),533,516
+519,485,Right Shoulder (Deltoid),532,516
+561,504,Right Shoulder (Deltoid),531,518
+522,503,Right Shoulder (Deltoid),531,518
+528,513,Right Shoulder (Deltoid),532,519
+544,531,Right Shoulder (Deltoid),532,520
+550,541,Right Shoulder (Deltoid),535,520
+555,544,Right Shoulder (Deltoid),539,520
+559,543,Right Shoulder (Deltoid),543,518
+560,543,Right Shoulder (Deltoid),543,518
+561,544,Right Shoulder (Deltoid),543,518
+558,544,Right Shoulder (Deltoid),543,518
+554,544,Right Shoulder (Deltoid),543,518
+550,540,Right Shoulder (Deltoid),544,516
+542,533,Right Shoulder (Deltoid),543,516
+532,516,Right Shoulder (Deltoid),543,516
+544,514,Right Shoulder (Deltoid),542,516
+550,512,Right Shoulder (Deltoid),542,516
+569,505,Right Shoulder (Deltoid),542,513
+572,507,Right Shoulder (Deltoid),541,513
+576,509,Right Shoulder (Deltoid),539,513
+576,504,Right Shoulder (Deltoid),538,513
+576,502,Right Shoulder (Deltoid),537,513
+558,515,Right Shoulder (Deltoid),537,513
+553,522,Right Shoulder (Deltoid),539,511
+547,528,Right Shoulder (Deltoid),539,514
+543,528,Right Shoulder (Deltoid),539,515
+540,529,Right Shoulder (Deltoid),538,517
+539,529,Right Shoulder (Deltoid),535,518
+536,534,Right Shoulder (Deltoid),533,519
+530,545,Right Shoulder (Deltoid),533,521
+513,565,Right Shoulder (Deltoid),533,522
+496,589,Right Bicep,477,627
+487,600,Right Bicep,478,626
+480,607,Right Bicep,478,625
+471,607,Right Bicep,480,625
+466,604,Right Bicep,481,626
+463,602,Right Bicep,482,627
+462,600,Right Bicep,481,625
+463,601,Right Bicep,481,624
+464,601,Right Bicep,481,622
+465,602,Right Bicep,482,622
+465,602,Right Bicep,482,622
+466,600,Right Bicep,481,621
+466,600,Right Bicep,481,620
+466,600,Right Bicep,482,620
+466,599,Right Bicep,482,620
+472,577,Right Bicep,483,619
+475,578,Right Bicep,483,622
+500,518,Right Shoulder (Deltoid),545,513
+514,468,Right Shoulder (Deltoid),536,511
+532,463,Right Shoulder (Deltoid),535,512
+836,535,Left Shoulder (Deltoid),874,514
+827,514,Left Shoulder (Deltoid),874,514
+828,509,Left Shoulder (Deltoid),871,512
+831,515,Left Shoulder (Deltoid),864,500
+828,521,Left Shoulder (Deltoid),864,500
+831,518,Left Shoulder (Deltoid),863,499
+842,520,Left Shoulder (Deltoid),861,498
+827,522,Left Shoulder (Deltoid),861,497
+521,510,Right Shoulder (Deltoid),545,521
+527,507,Right Shoulder (Deltoid),542,520
+528,511,Right Shoulder (Deltoid),539,520
+527,507,Right Shoulder (Deltoid),537,520
+525,504,Right Shoulder (Deltoid),536,520
+526,502,Right Shoulder (Deltoid),535,520
+526,501,Right Shoulder (Deltoid),535,520
+526,502,Right Shoulder (Deltoid),534,520
+527,501,Right Shoulder (Deltoid),534,520
+527,499,Right Shoulder (Deltoid),534,520
+529,497,Right Shoulder (Deltoid),534,520
+530,495,Right Shoulder (Deltoid),534,520
+530,493,Right Shoulder (Deltoid),534,520
+531,494,Right Shoulder (Deltoid),534,520
+532,495,Right Shoulder (Deltoid),534,520
+532,492,Right Shoulder (Deltoid),534,520
+532,491,Right Shoulder (Deltoid),534,520
+532,491,Right Shoulder (Deltoid),534,519
+534,491,Right Shoulder (Deltoid),534,519
+536,491,Right Shoulder (Deltoid),534,519
+538,510,Right Shoulder (Deltoid),534,519
+540,550,Right Shoulder (Deltoid),533,519
+854,504,Left Shoulder (Deltoid),871,500
+855,506,Left Shoulder (Deltoid),869,500
+856,507,Left Shoulder (Deltoid),868,501
+856,509,Left Shoulder (Deltoid),867,502
+858,512,Left Shoulder (Deltoid),866,502
+859,511,Left Shoulder (Deltoid),864,502
+859,512,Left Shoulder (Deltoid),863,503
+858,512,Left Shoulder (Deltoid),863,503
+858,511,Left Shoulder (Deltoid),862,503
+858,511,Left Shoulder (Deltoid),862,504
+859,511,Left Shoulder (Deltoid),862,504
+859,512,Left Shoulder (Deltoid),862,504
+859,511,Left Shoulder (Deltoid),862,504
+858,511,Left Shoulder (Deltoid),862,504
+858,509,Left Shoulder (Deltoid),863,503
+857,510,Left Shoulder (Deltoid),863,503
+858,510,Left Shoulder (Deltoid),863,502
+857,510,Left Shoulder (Deltoid),864,502
+857,509,Left Shoulder (Deltoid),864,502
+857,509,Left Shoulder (Deltoid),864,502
+857,509,Left Shoulder (Deltoid),864,502
+857,510,Left Shoulder (Deltoid),864,502
+857,509,Left Shoulder (Deltoid),865,502
+856,509,Left Shoulder (Deltoid),866,502
+857,509,Left Shoulder (Deltoid),866,502
+857,510,Left Shoulder (Deltoid),866,502
+858,510,Left Shoulder (Deltoid),867,502
+858,509,Left Shoulder (Deltoid),867,502
+858,511,Left Shoulder (Deltoid),867,502
+857,509,Left Shoulder (Deltoid),867,502
+858,511,Left Shoulder (Deltoid),868,502
+858,510,Left Shoulder (Deltoid),868,501
+859,514,Left Shoulder (Deltoid),868,501
+865,529,Left Shoulder (Deltoid),870,501
+873,546,Left Shoulder (Deltoid),869,501
+890,575,Left Bicep,920,602
+895,594,Left Bicep,921,603
+895,608,Left Bicep,924,603
+895,629,Left Bicep,925,602
+894,632,Left Bicep,926,601
+894,634,Left Bicep,927,600
+893,635,Left Bicep,928,600
+896,637,Left Bicep,928,599
+895,635,Left Bicep,928,599
+894,633,Left Bicep,929,600
+894,625,Left Bicep,929,600
+902,603,Left Bicep,930,600
+895,515,Left Shoulder (Deltoid),871,502
+856,485,Left Shoulder (Deltoid),871,502
+838,498,Left Shoulder (Deltoid),871,501
+837,502,Left Shoulder (Deltoid),871,501
+831,504,Left Shoulder (Deltoid),870,500
+835,499,Left Shoulder (Deltoid),868,500
+728,443,Left Trapezius,698,408
+700,477,Chest (Pectorals),699,510
+700,496,Chest (Pectorals),699,510
+697,511,Chest (Pectorals),699,509
+699,519,Chest (Pectorals),698,509
+703,525,Chest (Pectorals),698,508
+706,534,Chest (Pectorals),698,508
+705,531,Chest (Pectorals),698,507
+707,531,Chest (Pectorals),698,507
+708,532,Chest (Pectorals),698,507
+707,529,Chest (Pectorals),698,506
+698,527,Chest (Pectorals),698,506
+685,503,Chest (Pectorals),699,507
+668,492,Chest (Pectorals),700,508
+679,452,Right Trapezius,706,420
+731,482,Chest (Pectorals),705,514
+727,476,Chest (Pectorals),701,508
+725,446,Right Trapezius,700,411
+716,452,Right Trapezius,701,412
+715,433,Right Trapezius,700,412
+700,459,Right Trapezius,700,412
+703,454,Right Trapezius,700,412
+710,434,Right Trapezius,700,412
+714,433,Right Trapezius,701,412
+715,434,Right Trapezius,701,412
+716,433,Right Trapezius,701,412
+717,433,Right Trapezius,702,412
+717,433,Right Trapezius,702,412
+717,435,Right Trapezius,702,412
+719,431,Right Trapezius,702,412
+719,432,Right Trapezius,702,412
+717,435,Right Trapezius,702,412
+718,433,Right Trapezius,702,412
+718,431,Right Trapezius,701,412
+716,434,Right Trapezius,702,412
+716,435,Right Trapezius,702,412
+716,435,Right Trapezius,702,413
+712,451,Right Trapezius,701,413
+718,442,Right Trapezius,701,413
+718,441,Right Trapezius,701,414
+688,458,Right Trapezius,700,415
+721,443,Right Trapezius,699,416
+689,471,Chest (Pectorals),700,514
+502,630,Right Bicep,461,639
+503,624,Right Bicep,461,638
+496,626,Right Bicep,461,638
+519,563,Right Shoulder (Deltoid),517,545
+860,546,Left Shoulder (Deltoid),832,525
+841,510,Left Shoulder (Deltoid),832,526
+837,495,Left Shoulder (Deltoid),835,529
+827,505,Left Shoulder (Deltoid),836,531
+833,494,Left Shoulder (Deltoid),836,532
+832,492,Left Shoulder (Deltoid),837,532
+832,494,Left Shoulder (Deltoid),837,532
+832,495,Left Shoulder (Deltoid),837,533
+831,492,Left Shoulder (Deltoid),837,533
+831,495,Left Shoulder (Deltoid),838,533
+830,493,Left Shoulder (Deltoid),839,533
+832,501,Left Shoulder (Deltoid),839,532
+833,503,Left Shoulder (Deltoid),840,532
+834,513,Left Shoulder (Deltoid),840,533
+834,518,Left Shoulder (Deltoid),840,533
+833,525,Left Shoulder (Deltoid),841,533
+834,528,Left Shoulder (Deltoid),842,533
+836,527,Left Shoulder (Deltoid),842,533
+836,527,Left Shoulder (Deltoid),843,534
+835,527,Left Shoulder (Deltoid),844,534
+835,527,Left Shoulder (Deltoid),844,534
+837,528,Left Shoulder (Deltoid),845,534
+839,529,Left Shoulder (Deltoid),845,534
+840,534,Left Shoulder (Deltoid),845,535
+483,619,Right Bicep,459,642
+456,606,Right Bicep,459,642
+447,610,Right Bicep,459,646
+445,616,Right Bicep,459,645
+451,617,Right Bicep,460,644
+455,623,Right Bicep,459,644
+464,657,Right Bicep,459,645
+848,577,Left Shoulder (Deltoid),841,532
+846,574,Left Shoulder (Deltoid),839,532
+849,574,Left Shoulder (Deltoid),835,531
+844,563,Left Shoulder (Deltoid),835,531
+846,554,Left Shoulder (Deltoid),833,531
+842,547,Left Shoulder (Deltoid),834,531
+844,547,Left Shoulder (Deltoid),834,531
+843,547,Left Shoulder (Deltoid),835,531
+843,546,Left Shoulder (Deltoid),835,531
+844,550,Left Shoulder (Deltoid),836,532
+845,550,Left Shoulder (Deltoid),836,532
+843,550,Left Shoulder (Deltoid),836,532
+843,550,Left Shoulder (Deltoid),836,533
+847,553,Left Shoulder (Deltoid),836,533
+857,565,Left Shoulder (Deltoid),836,533
+878,600,Left Bicep,907,619
+876,599,Left Bicep,907,619
+876,602,Left Bicep,907,619
+876,601,Left Bicep,908,619
+872,597,Left Bicep,906,619
+873,595,Left Bicep,907,619
+872,598,Left Bicep,904,619
+874,599,Left Bicep,903,620
+873,600,Left Bicep,902,619
+874,598,Left Bicep,906,620
+875,599,Left Bicep,905,621
+872,599,Left Bicep,906,620
+873,599,Left Bicep,907,621
+874,599,Left Bicep,907,618
+872,598,Left Bicep,905,622
+872,598,Left Bicep,904,624
+872,597,Left Bicep,905,628
+871,597,Left Bicep,907,629
+871,598,Left Bicep,909,629
+847,582,Left Shoulder (Deltoid),837,535
+839,578,Left Shoulder (Deltoid),837,534
+821,573,Left Shoulder (Deltoid),836,534
+683,580,Chest (Pectorals),675,545
+679,565,Chest (Pectorals),675,545
+653,556,Chest (Pectorals),675,545
+662,550,Chest (Pectorals),675,546
+667,549,Chest (Pectorals),675,546
+664,549,Chest (Pectorals),676,546
+662,550,Chest (Pectorals),676,547
+666,549,Chest (Pectorals),676,546
+669,546,Chest (Pectorals),676,546
+667,546,Chest (Pectorals),676,546
+675,544,Chest (Pectorals),676,547
+667,553,Chest (Pectorals),677,548
+675,546,Chest (Pectorals),677,548
+662,521,Chest (Pectorals),677,548
+653,509,Chest (Pectorals),679,548
+651,484,Right Trapezius,684,451
+669,487,Right Trapezius,683,450
+681,492,Right Trapezius,682,449
+691,496,Right Trapezius,680,449
+695,491,Right Trapezius,679,449
+695,484,Right Trapezius,679,449
+689,482,Right Trapezius,679,449
+690,482,Right Trapezius,679,448
+688,485,Right Trapezius,679,448
+688,484,Right Trapezius,679,448
+689,485,Right Trapezius,679,448
+688,486,Right Trapezius,679,448
+688,486,Right Trapezius,679,448
+687,488,Right Trapezius,679,448
+688,487,Right Trapezius,679,448
+688,486,Right Trapezius,679,448
+689,486,Right Trapezius,679,447
+688,488,Right Trapezius,679,447
+685,488,Right Trapezius,679,448
+687,493,Right Trapezius,678,448
+658,538,Chest (Pectorals),679,552
+657,552,Chest (Pectorals),680,552
+657,567,Chest (Pectorals),683,552
+659,578,Chest (Pectorals),684,551
+670,584,Chest (Pectorals),685,551
+672,581,Chest (Pectorals),686,551
+674,580,Chest (Pectorals),687,551
+670,576,Chest (Pectorals),687,551
+667,576,Chest (Pectorals),688,550
+654,576,Chest (Pectorals),688,550
+801,539,Left Shoulder (Deltoid),839,549
+825,527,Left Shoulder (Deltoid),840,551
+849,516,Left Shoulder (Deltoid),841,552
+859,518,Left Shoulder (Deltoid),842,555
+814,510,Left Shoulder (Deltoid),841,550
+813,509,Left Shoulder (Deltoid),842,549
+811,514,Left Shoulder (Deltoid),842,547
+812,514,Left Shoulder (Deltoid),842,545
+812,514,Left Shoulder (Deltoid),841,544
+811,515,Left Shoulder (Deltoid),841,544
+813,518,Left Shoulder (Deltoid),841,543
+821,525,Left Shoulder (Deltoid),841,543
+827,532,Left Shoulder (Deltoid),841,543
+849,560,Left Shoulder (Deltoid),841,543
+880,606,Left Bicep,890,636
+889,623,Left Bicep,889,636
+891,629,Left Bicep,890,636
+889,633,Left Bicep,891,636
+882,643,Left Bicep,891,636
+881,641,Left Bicep,891,636
+880,641,Left Bicep,891,636
+881,639,Left Bicep,892,636
+881,641,Left Bicep,892,636
+881,639,Left Bicep,892,636
+881,639,Left Bicep,893,636
+882,639,Left Bicep,893,636
+882,641,Left Bicep,893,636
+881,639,Left Bicep,892,637
+880,637,Left Bicep,892,636
+881,636,Left Bicep,892,635
+881,636,Left Bicep,892,634
+876,631,Left Bicep,882,633
+871,632,Left Bicep,875,632
+865,634,Left Bicep,871,632
+859,638,Left Bicep,844,626
+854,638,Left Bicep,830,622
+838,646,Left Bicep,833,616
+837,650,Left Bicep,833,612
+836,667,Left Tricep,851,703
+837,669,Left Tricep,845,702
+843,675,Left Tricep,842,702
+844,676,Left Tricep,840,701
+844,681,Left Tricep,837,701
+845,683,Left Tricep,835,701
+844,684,Left Tricep,833,700
+846,684,Left Tricep,833,700
+843,682,Left Tricep,833,699
+840,680,Left Tricep,833,699
+843,681,Left Tricep,832,699
+846,684,Left Tricep,833,700
+847,683,Left Tricep,834,700
+845,682,Left Tricep,835,700
+844,682,Left Tricep,836,701
+844,684,Left Tricep,836,701
+840,679,Left Tricep,836,700
+839,678,Left Tricep,835,697
+840,683,Left Tricep,835,697
+837,683,Left Tricep,833,696
+833,682,Left Tricep,833,696
+833,683,Left Tricep,832,694
+832,682,Left Tricep,832,694
+832,684,Left Tricep,832,694
+829,681,Left Tricep,831,694
+831,683,Left Tricep,832,694
+831,683,Left Tricep,832,694
+828,682,Left Tricep,832,693
+833,684,Left Tricep,832,692
+831,683,Left Tricep,832,692
+829,683,Left Tricep,833,692
+831,682,Left Tricep,834,692
+830,681,Left Tricep,834,692
+836,685,Left Tricep,833,692
+834,680,Left Tricep,833,692
+834,680,Left Tricep,832,691
+837,681,Left Tricep,832,691
+867,673,Left Tricep,845,695
+875,669,Left Tricep,869,704
+873,658,Left Bicep,850,614
+865,657,Left Bicep,863,620
+639,461,Right Trapezius,686,456
+672,501,Chest (Pectorals),682,540
+693,505,Chest (Pectorals),667,529
+881,513,Left Shoulder (Deltoid),842,533
+882,518,Left Shoulder (Deltoid),843,533
+884,515,Left Shoulder (Deltoid),844,533
+879,518,Left Shoulder (Deltoid),844,533
+875,532,Left Shoulder (Deltoid),844,533
+879,521,Left Shoulder (Deltoid),844,533
+872,526,Left Shoulder (Deltoid),842,533
+881,530,Left Shoulder (Deltoid),840,533
+859,568,Left Shoulder (Deltoid),839,534
+889,574,Left Bicep,913,596
+900,594,Left Bicep,915,593
+903,595,Left Bicep,922,592
+904,594,Left Bicep,925,591
+903,593,Left Bicep,927,585
+903,588,Left Bicep,929,585
+905,587,Left Bicep,931,586
+904,585,Left Bicep,934,586
+905,583,Left Bicep,935,587
+903,580,Left Bicep,936,588
+902,575,Left Bicep,936,588
+894,569,Left Bicep,935,589
+893,570,Left Bicep,934,589
+891,567,Left Bicep,929,594
+889,568,Left Bicep,925,594
+613,433,Left Trapezius,658,453
+615,434,Left Trapezius,655,452
+621,435,Right Trapezius,654,450
+624,438,Right Trapezius,654,448
+623,439,Right Trapezius,654,448
+618,429,Left Trapezius,655,451
+852,634,Left Bicep,862,647
+849,645,Left Bicep,864,647
+846,657,Left Bicep,866,646
+850,644,Left Bicep,865,646
+844,656,Left Bicep,865,646
+849,648,Left Bicep,864,644
+847,655,Left Bicep,863,644
+848,645,Left Bicep,863,644
+846,647,Left Bicep,861,644
+846,648,Left Bicep,861,643
+846,640,Left Bicep,861,644
+844,646,Left Bicep,861,645
+845,630,Left Bicep,863,646
+842,617,Left Bicep,864,646
+843,600,Left Bicep,875,638
+846,620,Left Bicep,879,638
+846,622,Left Bicep,882,641
+846,616,Left Bicep,881,641
+843,624,Left Bicep,882,642
+844,624,Left Bicep,884,643
+843,625,Left Bicep,883,643
+844,626,Left Bicep,883,643
+844,628,Left Bicep,878,641
+845,628,Left Bicep,873,640
+846,629,Left Bicep,871,640
+845,633,Left Bicep,869,640
+845,634,Left Bicep,869,640
+845,636,Left Bicep,867,641
+844,636,Left Bicep,867,642
+844,636,Left Bicep,867,644
+843,635,Left Bicep,868,644
+844,635,Left Bicep,868,645
+844,634,Left Bicep,868,645
+842,634,Left Bicep,868,646
+843,634,Left Bicep,869,648
+843,634,Left Bicep,868,648
+843,634,Left Bicep,869,648
+843,634,Left Bicep,869,649
+844,634,Left Bicep,869,649
+845,636,Left Bicep,869,649
+843,638,Left Bicep,868,648
+846,636,Left Bicep,867,648
+844,641,Left Bicep,867,648
+844,642,Left Bicep,866,647
+843,643,Left Bicep,864,648
+843,643,Left Bicep,861,646
+844,644,Left Bicep,858,645
+844,644,Left Bicep,849,643
+843,644,Left Bicep,832,636
+844,644,Left Bicep,821,633
+844,645,Left Bicep,823,633
+847,648,Left Tricep,813,675
+845,647,Left Tricep,830,662
+846,643,Left Bicep,820,628
+849,640,Left Bicep,829,628
+848,639,Left Bicep,840,633
+851,639,Left Bicep,851,636
+852,640,Left Bicep,854,639
+850,641,Left Bicep,851,637
+848,649,Left Bicep,845,637
+848,650,Left Bicep,842,636
+851,649,Left Bicep,841,635
+850,649,Left Bicep,840,635
+849,651,Left Bicep,841,636
+849,650,Left Bicep,843,638
+848,650,Left Bicep,843,638
+848,648,Left Bicep,842,638
+848,649,Left Bicep,845,641
+848,649,Left Bicep,840,641
+848,646,Left Bicep,842,644
+853,643,Left Bicep,842,644
+850,645,Left Bicep,839,640
+846,646,Left Bicep,842,641
+849,637,Left Bicep,843,641
+845,644,Left Bicep,813,625
+845,643,Left Bicep,815,623
+843,637,Left Bicep,814,622
+843,639,Left Bicep,816,622
+845,640,Left Bicep,816,622
+843,639,Left Bicep,815,623
+844,636,Left Tricep,845,680
+842,637,Left Bicep,816,626
+843,635,Left Bicep,817,626
+842,640,Left Bicep,812,625
+843,635,Left Bicep,812,625
+842,640,Left Bicep,811,625
+843,639,Left Bicep,812,626
+842,640,Left Bicep,811,625
+842,640,Left Bicep,813,625
+842,640,Left Bicep,813,625
+841,638,Left Bicep,824,627
+842,638,Left Bicep,824,627
+841,639,Left Bicep,824,627
+840,639,Left Bicep,824,627
+841,641,Left Bicep,821,627
+841,642,Left Bicep,807,626
+842,646,Left Bicep,808,628
+841,647,Left Bicep,814,630
+841,647,Left Bicep,823,631
+839,649,Left Bicep,824,631
+836,643,Left Bicep,826,631
+836,643,Left Bicep,824,631
+837,645,Left Bicep,823,632
+836,642,Left Bicep,821,632
+836,645,Left Bicep,820,632
+835,641,Left Bicep,820,633
+836,643,Left Bicep,820,633
+833,644,Left Bicep,806,632
+834,643,Left Bicep,808,632
+834,640,Left Bicep,803,630
+833,641,Left Bicep,816,632
+832,641,Left Bicep,820,631
+834,643,Left Bicep,823,630
+833,642,Left Bicep,825,629
+833,642,Left Bicep,830,630
+834,644,Left Bicep,830,630
+833,644,Left Bicep,830,630
+832,646,Left Bicep,833,631
+832,646,Left Bicep,834,631
+834,648,Left Bicep,833,631
+833,649,Left Bicep,829,630
+833,647,Left Bicep,831,631
+835,649,Left Bicep,832,634
+834,650,Left Bicep,833,635
+834,650,Left Bicep,832,635
+834,650,Left Bicep,830,635
+835,651,Left Bicep,828,634
+835,651,Left Bicep,827,633
+836,651,Left Bicep,826,633
+836,650,Left Bicep,825,633
+837,650,Left Bicep,822,632
+836,651,Left Bicep,820,632
+837,651,Left Bicep,819,631
+835,652,Left Bicep,818,631
+836,652,Left Bicep,818,631
+836,653,Left Bicep,818,631
+839,653,Left Bicep,819,631
+839,652,Left Bicep,819,631
+836,649,Left Bicep,818,632
+834,650,Left Bicep,818,632
+831,650,Left Bicep,818,632
+830,652,Left Bicep,817,632
+829,654,Left Bicep,817,633
+829,656,Left Bicep,817,633
+828,658,Left Bicep,815,633
+828,659,Left Bicep,813,633
+830,660,Left Bicep,814,633
+823,648,Left Bicep,814,633
+826,664,Left Bicep,814,633
+827,658,Left Bicep,814,633
+827,657,Left Bicep,815,632
+830,660,Left Bicep,815,632
+830,660,Left Bicep,815,632
+829,659,Left Bicep,818,632
+831,658,Left Bicep,823,634
+830,659,Left Bicep,824,635
+830,664,Left Bicep,823,635
+832,665,Left Bicep,823,635
+833,667,Left Bicep,823,636
+832,667,Left Bicep,823,636
+833,667,Left Bicep,823,636
+830,667,Left Bicep,821,636
+833,669,Left Bicep,817,634
+825,608,Left Bicep,849,642
+825,616,Left Bicep,848,642
+825,605,Left Bicep,846,642
+827,608,Left Bicep,846,642
+827,606,Left Bicep,845,642
+829,609,Left Bicep,837,637
+838,617,Left Bicep,843,637
+842,634,Left Bicep,853,640
+841,635,Left Bicep,857,644
+839,629,Left Bicep,861,645
+839,631,Left Bicep,863,648
+839,634,Left Bicep,863,648
+836,641,Left Bicep,862,647
+623,447,Right Trapezius,671,457
+481,612,Right Bicep,466,645
+468,615,Right Bicep,462,644
+477,608,Right Bicep,458,643
+475,610,Right Bicep,457,643
+478,608,Right Bicep,457,644
+480,607,Right Bicep,457,644
+472,615,Right Bicep,457,644
+474,622,Right Bicep,457,644
+482,608,Right Bicep,457,643
+474,623,Right Bicep,456,643
+481,615,Right Bicep,456,643
+477,627,Right Bicep,456,643
+478,625,Right Bicep,455,643
+492,628,Right Bicep,456,643
+688,560,Chest (Pectorals),669,555
+696,567,Chest (Pectorals),668,557
+690,584,Chest (Pectorals),666,557
+684,587,Chest (Pectorals),666,557
+685,599,Chest (Pectorals),666,557
+686,583,Chest (Pectorals),664,553
+676,608,Chest (Pectorals),662,570
+684,603,Chest (Pectorals),662,570
+677,611,Chest (Pectorals),662,569
+677,612,Chest (Pectorals),662,569
+676,610,Chest (Pectorals),662,569
+675,609,Chest (Pectorals),662,569
+674,609,Chest (Pectorals),662,569
+674,609,Chest (Pectorals),662,568
+673,609,Chest (Pectorals),662,568
+674,609,Chest (Pectorals),662,568
+673,609,Chest (Pectorals),662,568
+685,610,Chest (Pectorals),662,568
+798,536,Left Shoulder (Deltoid),801,568
+802,550,Left Shoulder (Deltoid),801,564
+804,550,Left Shoulder (Deltoid),800,562
+804,548,Left Shoulder (Deltoid),799,562
+806,548,Left Shoulder (Deltoid),798,562
+805,547,Left Shoulder (Deltoid),797,562
+807,546,Left Shoulder (Deltoid),796,562
+807,546,Left Shoulder (Deltoid),795,562
+806,547,Left Shoulder (Deltoid),795,561
+806,547,Left Shoulder (Deltoid),794,561
+806,547,Left Shoulder (Deltoid),793,561
+807,548,Left Shoulder (Deltoid),792,563
+810,554,Left Shoulder (Deltoid),792,565
+525,575,Right Shoulder (Deltoid),523,570
+518,573,Right Shoulder (Deltoid),522,570
+520,570,Right Shoulder (Deltoid),522,569
+519,571,Right Shoulder (Deltoid),522,568
+515,570,Right Shoulder (Deltoid),517,566
+517,570,Right Shoulder (Deltoid),516,566
+516,570,Right Shoulder (Deltoid),515,565
+521,568,Right Shoulder (Deltoid),515,568
+521,556,Right Shoulder (Deltoid),515,570
+537,555,Right Shoulder (Deltoid),515,571
+539,491,Right Shoulder (Deltoid),527,536
+560,520,Right Shoulder (Deltoid),530,539
+567,513,Right Shoulder (Deltoid),530,540
+569,513,Right Shoulder (Deltoid),531,540
+570,516,Right Shoulder (Deltoid),533,540
+572,516,Right Shoulder (Deltoid),533,540
+568,520,Right Shoulder (Deltoid),533,540
+561,551,Right Shoulder (Deltoid),537,540
+573,543,Right Shoulder (Deltoid),537,540
+577,542,Right Shoulder (Deltoid),537,536
+666,559,Chest (Pectorals),662,551
+667,559,Chest (Pectorals),662,551
+666,560,Chest (Pectorals),662,552
+670,551,Chest (Pectorals),662,552
+671,546,Chest (Pectorals),663,551
+672,536,Chest (Pectorals),663,552
+674,532,Chest (Pectorals),664,551
+673,532,Chest (Pectorals),665,551
+669,531,Chest (Pectorals),666,550
+669,527,Chest (Pectorals),666,552
+656,531,Chest (Pectorals),666,555
+637,528,Chest (Pectorals),645,569
+634,518,Chest (Pectorals),641,566
+630,521,Chest (Pectorals),638,565
+637,529,Chest (Pectorals),639,566
+639,530,Chest (Pectorals),649,568
+639,530,Chest (Pectorals),661,569
+640,528,Chest (Pectorals),662,567
+643,532,Chest (Pectorals),669,566
+641,530,Chest (Pectorals),673,566
+637,503,Right Trapezius,658,461
+636,503,Right Trapezius,660,460
+639,500,Right Trapezius,660,460
+641,505,Right Trapezius,661,460
+642,503,Right Trapezius,661,460
+641,501,Right Trapezius,661,460
+640,503,Right Trapezius,661,460
+641,501,Right Trapezius,661,460
+642,502,Right Trapezius,661,460
+642,501,Right Trapezius,660,460
+643,501,Right Trapezius,660,460
+642,503,Right Trapezius,660,460
+643,504,Right Trapezius,660,460
+619,478,Right Trapezius,660,460
+697,462,Left Trapezius,667,452
+702,470,Left Trapezius,667,452
+696,472,Left Trapezius,666,452
+695,473,Left Trapezius,664,452
+695,476,Left Trapezius,663,452
+698,477,Left Trapezius,663,454
+696,475,Left Trapezius,664,454
+696,475,Left Trapezius,665,455
+697,480,Left Trapezius,665,454
+678,613,Chest (Pectorals),664,568
+671,616,Chest (Pectorals),664,567
+708,347,Left Bicep,738,359
+723,359,Left Bicep,740,348
+719,359,Left Bicep,743,344
+744,349,Left Bicep,741,338
+747,349,Left Bicep,742,337
+751,352,Left Bicep,744,338
+750,345,Left Bicep,745,339
+749,341,Left Bicep,745,339
+754,352,Left Bicep,745,338
+753,354,Left Bicep,744,337
+756,355,Left Bicep,745,337
+758,356,Left Bicep,745,337
+759,356,Left Bicep,745,338
+760,357,Left Bicep,744,336
+761,356,Left Bicep,743,335
+753,346,Left Bicep,743,335
+751,350,Left Bicep,741,335
+753,351,Left Bicep,742,335
+754,355,Left Bicep,741,336
+745,349,Left Bicep,741,339
+752,404,Left Tricep,799,392
+762,375,Left Tricep,798,394
+759,363,Left Bicep,740,344
+763,375,Left Bicep,740,344
+767,379,Left Tricep,797,404
+767,383,Left Tricep,795,403
+768,383,Left Tricep,794,403
+768,384,Left Tricep,794,403
+769,384,Left Tricep,794,403
+767,383,Left Tricep,793,403
+765,385,Left Tricep,791,403
+458,378,Right Bicep,434,346
+449,362,Right Bicep,436,345
+437,359,Right Bicep,436,343
+431,359,Right Bicep,435,345
+412,357,Right Bicep,434,344
+408,358,Right Bicep,431,341
+408,358,Right Bicep,431,340
+401,423,Right Tricep,372,383
+404,406,Right Tricep,368,376
+409,375,Right Bicep,421,331
+418,391,Right Bicep,430,357
+426,386,Right Bicep,432,339
+428,387,Right Tricep,419,384
+431,383,Right Bicep,460,362
+474,430,Right Tricep,461,458
+634,222,Left Trapezius,595,237
+556,296,Chest (Pectorals),593,300
+528,296,Right Shoulder (Deltoid),495,306
+448,432,Right Tricep,410,409
+438,433,Right Tricep,411,425
+418,421,Right Tricep,410,426
+403,433,Right Tricep,411,424
+401,431,Right Tricep,412,420
+401,433,Right Tricep,412,420
+401,436,Right Tricep,413,419
+400,439,Right Tricep,414,420
+403,439,Right Tricep,416,418
+405,440,Right Tricep,424,417
+406,440,Right Tricep,424,417
+407,441,Right Tricep,427,415
+415,443,Right Tricep,431,429
+418,446,Right Tricep,433,438
+420,446,Right Tricep,446,439
+425,448,Right Tricep,460,438
+428,449,Right Tricep,468,435
+434,454,Right Tricep,479,435
+436,454,Right Tricep,480,436
+436,453,Right Tricep,478,445
+436,453,Right Tricep,482,449
+438,452,Right Tricep,482,451
+440,451,Right Tricep,483,450
+441,449,Right Tricep,486,450
+440,449,Right Tricep,489,451
+440,448,Right Tricep,488,451
+439,448,Right Tricep,487,450
+438,450,Right Tricep,487,453
+437,451,Right Tricep,484,455
+437,452,Right Tricep,484,455
+435,453,Right Tricep,484,454
+435,453,Right Tricep,483,455
+433,453,Right Tricep,481,454
+430,449,Right Tricep,473,430
+426,446,Right Tricep,457,414
+427,447,Right Tricep,459,412
+427,448,Right Tricep,458,414
+425,451,Right Tricep,459,423
+425,451,Right Tricep,461,429
+424,451,Right Tricep,456,430
+425,450,Right Tricep,456,431
+426,448,Right Tricep,446,432
+424,456,Right Tricep,397,431
+424,455,Right Tricep,394,428
+422,455,Right Tricep,392,428
+421,454,Right Tricep,397,428
+419,453,Right Tricep,435,430
+422,455,Right Tricep,413,430
+421,453,Right Tricep,404,430
+422,454,Right Tricep,407,430
+423,455,Right Tricep,407,429
+423,454,Right Tricep,412,428
+426,453,Right Tricep,414,428
+425,452,Right Tricep,412,428
+426,453,Right Tricep,408,426
+426,453,Right Tricep,407,429
+427,454,Right Tricep,407,433
+427,455,Right Tricep,408,439
+428,455,Right Tricep,410,444
+428,456,Right Tricep,423,448
+427,457,Right Tricep,433,448
+427,458,Right Tricep,432,448
+427,459,Right Tricep,437,449
+428,460,Right Tricep,446,451
+429,461,Right Tricep,464,452
+427,462,Right Tricep,474,452
+426,459,Right Tricep,468,452
+426,457,Right Tricep,473,450
+431,447,Right Tricep,478,450
+432,446,Right Tricep,480,453
+431,443,Right Tricep,480,445
+416,448,Right Tricep,456,434
+421,450,Right Tricep,443,432
+452,457,Right Tricep,445,417
+533,414,Right Bicep,521,379
+531,411,Right Bicep,524,382
+543,394,Right Bicep,528,384
+544,393,Right Bicep,530,384
+544,403,Right Bicep,507,382
+561,424,Right Tricep,587,411
+563,422,Right Tricep,579,411
+564,423,Right Tricep,579,410
+564,425,Right Tricep,580,411
+564,426,Right Tricep,576,396
+564,427,Right Tricep,575,408
+564,427,Right Tricep,576,412
+564,426,Right Tricep,577,417
+564,426,Right Tricep,577,427
+563,424,Right Tricep,584,424
+562,424,Right Tricep,577,423
+562,425,Right Tricep,573,427
+559,426,Right Tricep,572,426
+559,426,Right Tricep,570,439
+559,425,Right Tricep,567,435
+554,426,Right Tricep,569,463
+554,423,Right Tricep,561,453
+571,417,Right Bicep,555,371
+566,416,Right Bicep,554,373
+557,423,Right Tricep,561,471
+565,418,Right Bicep,552,371
+568,417,Right Bicep,552,371
+568,415,Right Bicep,551,371
+571,414,Right Bicep,554,376
+573,416,Right Bicep,555,379
+525,418,Right Bicep,532,375
+511,416,Right Bicep,532,376
+506,418,Right Bicep,530,379
+487,412,Right Bicep,524,379
+484,403,Right Bicep,519,375
+701,410,Left Bicep,703,371
+703,413,Left Bicep,702,372
+703,421,Left Tricep,718,458
+706,437,Left Tricep,717,461
+676,544,Chest (Pectorals),657,502
+652,489,Chest (Pectorals),645,492
+762,458,Left Shoulder (Deltoid),798,491
+785,482,Left Shoulder (Deltoid),798,496
+794,486,Left Shoulder (Deltoid),798,496
+788,483,Left Shoulder (Deltoid),799,496
+785,482,Left Shoulder (Deltoid),799,497
+785,481,Left Shoulder (Deltoid),799,498
+785,480,Left Shoulder (Deltoid),799,499
+784,479,Left Shoulder (Deltoid),799,499
+785,478,Left Shoulder (Deltoid),798,499
+785,477,Left Shoulder (Deltoid),798,499
+788,479,Left Shoulder (Deltoid),798,500
+789,484,Left Shoulder (Deltoid),798,501
+789,483,Left Shoulder (Deltoid),798,501
+788,483,Left Shoulder (Deltoid),798,502
+787,485,Left Shoulder (Deltoid),798,503
+785,483,Left Shoulder (Deltoid),798,503
+785,482,Left Shoulder (Deltoid),798,504
+784,485,Left Shoulder (Deltoid),797,505
+784,485,Left Shoulder (Deltoid),797,505
+783,480,Left Shoulder (Deltoid),797,506
+785,479,Left Shoulder (Deltoid),796,506
+783,478,Left Shoulder (Deltoid),796,506
+784,478,Left Shoulder (Deltoid),796,506
+786,476,Left Shoulder (Deltoid),796,506
+787,476,Left Shoulder (Deltoid),796,506
+786,475,Left Shoulder (Deltoid),796,506
+785,477,Left Shoulder (Deltoid),796,505
+623,403,Left Trapezius,671,409
+625,401,Left Trapezius,671,411
+639,413,Left Trapezius,672,412
+657,414,Left Trapezius,673,412
+666,406,Right Trapezius,674,407
+666,413,Left Trapezius,676,412
+672,420,Left Trapezius,678,413
+671,425,Left Trapezius,680,413
+676,419,Left Trapezius,682,413
+677,423,Left Trapezius,684,413
+676,423,Left Trapezius,685,415
+673,418,Left Trapezius,686,415
+664,430,Left Trapezius,689,417
+668,459,Left Trapezius,690,417
+672,558,Chest (Pectorals),691,512
+668,552,Chest (Pectorals),692,512
+669,555,Chest (Pectorals),684,509
+670,549,Chest (Pectorals),683,507
+669,547,Chest (Pectorals),682,506
+667,544,Chest (Pectorals),682,505
+707,449,Right Trapezius,688,404
+684,436,Right Trapezius,690,399
+696,442,Chest (Pectorals),692,487
+687,428,Right Trapezius,689,396
+679,432,Right Trapezius,688,396
+683,420,Right Trapezius,685,392
+663,427,Right Trapezius,680,392
+659,423,Right Trapezius,675,393
+668,466,Chest (Pectorals),667,498
+678,499,Chest (Pectorals),667,497
+680,432,Right Trapezius,664,409
+785,493,Left Shoulder (Deltoid),819,501
+792,504,Left Shoulder (Deltoid),819,502
+793,506,Left Shoulder (Deltoid),819,503
+795,513,Left Shoulder (Deltoid),818,504
+794,510,Left Shoulder (Deltoid),818,504
+794,510,Left Shoulder (Deltoid),819,505
+792,507,Left Shoulder (Deltoid),819,505
+791,506,Left Shoulder (Deltoid),819,505
+789,504,Left Shoulder (Deltoid),819,505
+791,507,Left Shoulder (Deltoid),820,506
+791,508,Left Shoulder (Deltoid),820,507
+791,504,Left Shoulder (Deltoid),820,507
+791,504,Left Shoulder (Deltoid),820,507
+790,504,Left Shoulder (Deltoid),820,507
+788,502,Left Shoulder (Deltoid),820,506
+790,503,Left Shoulder (Deltoid),819,505
+790,504,Left Shoulder (Deltoid),819,505
+790,503,Left Shoulder (Deltoid),819,505
+790,503,Left Shoulder (Deltoid),819,505
+789,502,Left Shoulder (Deltoid),819,505
+787,501,Left Shoulder (Deltoid),819,505
+788,502,Left Shoulder (Deltoid),819,505
+788,501,Left Shoulder (Deltoid),819,505
+785,501,Left Shoulder (Deltoid),819,506
+784,501,Left Shoulder (Deltoid),819,506
+785,499,Left Shoulder (Deltoid),820,507
+784,499,Left Shoulder (Deltoid),821,507
+783,499,Left Shoulder (Deltoid),821,508
+781,500,Left Shoulder (Deltoid),821,508
+782,502,Left Shoulder (Deltoid),820,508
+780,500,Left Shoulder (Deltoid),820,508
+783,501,Left Shoulder (Deltoid),820,509
+788,503,Left Shoulder (Deltoid),822,510
+787,503,Left Shoulder (Deltoid),823,510
+788,503,Left Shoulder (Deltoid),823,510
+787,503,Left Shoulder (Deltoid),824,510
+786,504,Left Shoulder (Deltoid),824,510
+789,505,Left Shoulder (Deltoid),823,510
+785,505,Left Shoulder (Deltoid),823,511
+789,507,Left Shoulder (Deltoid),823,511
+789,508,Left Shoulder (Deltoid),823,512
+792,510,Left Shoulder (Deltoid),823,512
+792,510,Left Shoulder (Deltoid),823,513
+794,512,Left Shoulder (Deltoid),824,514
+795,511,Left Shoulder (Deltoid),824,514
+795,511,Left Shoulder (Deltoid),824,514
+793,510,Left Shoulder (Deltoid),824,514
+793,510,Left Shoulder (Deltoid),824,514
+793,509,Left Shoulder (Deltoid),824,514
+792,509,Left Shoulder (Deltoid),824,514
+792,509,Left Shoulder (Deltoid),824,514
+791,508,Left Shoulder (Deltoid),823,513
+792,509,Left Shoulder (Deltoid),823,513
+791,508,Left Shoulder (Deltoid),823,513
+792,508,Left Shoulder (Deltoid),823,512
+791,508,Left Shoulder (Deltoid),823,512
+792,507,Left Shoulder (Deltoid),823,512
+791,507,Left Shoulder (Deltoid),823,512
+791,507,Left Shoulder (Deltoid),823,512
+791,507,Left Shoulder (Deltoid),823,512
+791,507,Left Shoulder (Deltoid),823,512
+790,506,Left Shoulder (Deltoid),823,511
+789,506,Left Shoulder (Deltoid),822,511
+789,506,Left Shoulder (Deltoid),822,511
+789,506,Left Shoulder (Deltoid),822,510
+789,506,Left Shoulder (Deltoid),822,510
+788,505,Left Shoulder (Deltoid),821,510
+788,506,Left Shoulder (Deltoid),822,510
+790,506,Left Shoulder (Deltoid),822,511
+789,505,Left Shoulder (Deltoid),823,511
+790,505,Left Shoulder (Deltoid),823,511
+789,504,Left Shoulder (Deltoid),823,511
+788,504,Left Shoulder (Deltoid),823,511
+790,506,Left Shoulder (Deltoid),823,511
+789,506,Left Shoulder (Deltoid),823,511
+789,506,Left Shoulder (Deltoid),823,511
+789,506,Left Shoulder (Deltoid),823,511
+789,506,Left Shoulder (Deltoid),823,511
+788,506,Left Shoulder (Deltoid),823,511
+788,506,Left Shoulder (Deltoid),823,511
+788,506,Left Shoulder (Deltoid),823,511
+788,505,Left Shoulder (Deltoid),822,510
+787,505,Left Shoulder (Deltoid),821,510
+787,506,Left Shoulder (Deltoid),821,510
+786,505,Left Shoulder (Deltoid),821,511
+786,505,Left Shoulder (Deltoid),820,511
+785,505,Left Shoulder (Deltoid),820,511
+787,505,Left Shoulder (Deltoid),820,511
+785,504,Left Shoulder (Deltoid),820,511
+784,503,Left Shoulder (Deltoid),820,511
+786,502,Left Shoulder (Deltoid),820,510
+784,501,Left Shoulder (Deltoid),820,510
+785,501,Left Shoulder (Deltoid),820,510
+784,500,Left Shoulder (Deltoid),821,510
+785,502,Left Shoulder (Deltoid),821,509
+786,502,Left Shoulder (Deltoid),821,509
+786,503,Left Shoulder (Deltoid),821,509
+786,502,Left Shoulder (Deltoid),821,509
+785,502,Left Shoulder (Deltoid),821,509
+784,501,Left Shoulder (Deltoid),821,509
+784,501,Left Shoulder (Deltoid),821,509
+783,501,Left Shoulder (Deltoid),821,508
+784,501,Left Shoulder (Deltoid),822,508
+783,499,Left Shoulder (Deltoid),822,508
+783,500,Left Shoulder (Deltoid),822,508
+783,500,Left Shoulder (Deltoid),821,508
+784,500,Left Shoulder (Deltoid),821,508
+783,500,Left Shoulder (Deltoid),821,508
+783,499,Left Shoulder (Deltoid),820,508
+782,498,Left Shoulder (Deltoid),820,508
+781,498,Left Shoulder (Deltoid),819,507
+781,498,Left Shoulder (Deltoid),819,507
+782,499,Left Shoulder (Deltoid),819,507
+781,498,Left Shoulder (Deltoid),819,507
+781,497,Left Shoulder (Deltoid),818,507
+781,498,Left Shoulder (Deltoid),818,507
+781,498,Left Shoulder (Deltoid),818,507
+782,498,Left Shoulder (Deltoid),818,507
+781,498,Left Shoulder (Deltoid),817,507
+781,497,Left Shoulder (Deltoid),817,506
+781,497,Left Shoulder (Deltoid),817,506
+781,497,Left Shoulder (Deltoid),817,506
+781,497,Left Shoulder (Deltoid),817,506
+781,497,Left Shoulder (Deltoid),817,506
+780,498,Left Shoulder (Deltoid),817,506
+781,497,Left Shoulder (Deltoid),817,506
+779,497,Left Shoulder (Deltoid),817,506
+780,498,Left Shoulder (Deltoid),816,506
+780,497,Left Shoulder (Deltoid),816,506
+781,497,Left Shoulder (Deltoid),816,506
+782,497,Left Shoulder (Deltoid),816,505
+782,497,Left Shoulder (Deltoid),816,505
+781,496,Left Shoulder (Deltoid),816,504
+781,496,Left Shoulder (Deltoid),816,504
+782,497,Left Shoulder (Deltoid),816,504
+781,494,Left Shoulder (Deltoid),815,504
+781,494,Left Shoulder (Deltoid),814,504
+780,493,Left Shoulder (Deltoid),814,503
+781,494,Left Shoulder (Deltoid),813,502
+782,494,Left Shoulder (Deltoid),813,501
+783,495,Left Shoulder (Deltoid),814,501
+781,495,Left Shoulder (Deltoid),814,501
+781,496,Left Shoulder (Deltoid),814,501
+783,498,Left Shoulder (Deltoid),814,500
+782,497,Left Shoulder (Deltoid),814,499
+781,497,Left Shoulder (Deltoid),814,498
+782,497,Left Shoulder (Deltoid),814,497
+782,497,Left Shoulder (Deltoid),814,497
+782,497,Left Shoulder (Deltoid),813,496
+782,496,Left Shoulder (Deltoid),813,496
+781,496,Left Shoulder (Deltoid),813,496
+783,497,Left Shoulder (Deltoid),813,497
+783,497,Left Shoulder (Deltoid),813,497
+782,497,Left Shoulder (Deltoid),812,497
+781,496,Left Shoulder (Deltoid),812,497
+783,497,Left Shoulder (Deltoid),812,497
+781,496,Left Shoulder (Deltoid),812,497
+781,497,Left Shoulder (Deltoid),812,497
+780,497,Left Shoulder (Deltoid),812,497
+780,496,Left Shoulder (Deltoid),811,497
+781,496,Left Shoulder (Deltoid),811,497
+780,496,Left Shoulder (Deltoid),811,496
+781,496,Left Shoulder (Deltoid),811,496
+780,496,Left Shoulder (Deltoid),811,496
+780,495,Left Shoulder (Deltoid),811,496
+781,496,Left Shoulder (Deltoid),810,496
+780,496,Left Shoulder (Deltoid),810,496
+780,496,Left Shoulder (Deltoid),810,496
+780,496,Left Shoulder (Deltoid),810,495
+781,496,Left Shoulder (Deltoid),810,495
+780,496,Left Shoulder (Deltoid),810,495
+781,497,Left Shoulder (Deltoid),810,495
+784,499,Left Shoulder (Deltoid),810,496
+830,516,Left Shoulder (Deltoid),812,503
+574,533,Right Shoulder (Deltoid),552,497
+565,519,Right Shoulder (Deltoid),562,494
+569,485,Right Shoulder (Deltoid),560,482
+577,442,Right Shoulder (Deltoid),561,480
+516,523,Right Shoulder (Deltoid),502,517
+540,477,Right Shoulder (Deltoid),508,508
+863,580,Left Bicep,885,624
+872,584,Left Bicep,879,624
+872,588,Left Bicep,874,625
+871,587,Left Bicep,871,625
+868,593,Left Bicep,871,626
+870,596,Left Bicep,873,630
+871,592,Left Bicep,875,633
+871,594,Left Bicep,874,636
+873,591,Left Bicep,876,637
+873,591,Left Bicep,878,638
+873,591,Left Bicep,886,639
+877,590,Left Bicep,890,638
+875,589,Left Bicep,887,637
+876,590,Left Bicep,888,638
+698,517,Chest (Pectorals),676,525
+508,472,Right Shoulder (Deltoid),515,518
+480,494,Right Shoulder (Deltoid),506,527
+488,497,Right Shoulder (Deltoid),505,527
+490,493,Right Shoulder (Deltoid),505,526
+487,494,Right Shoulder (Deltoid),504,523
+488,494,Right Shoulder (Deltoid),503,522
+486,496,Right Shoulder (Deltoid),503,523
+483,499,Right Shoulder (Deltoid),503,524
+479,504,Right Shoulder (Deltoid),503,525
+481,509,Right Shoulder (Deltoid),503,527
+482,510,Right Shoulder (Deltoid),503,527
+479,511,Right Shoulder (Deltoid),503,527
+480,509,Right Shoulder (Deltoid),504,528
+480,510,Right Shoulder (Deltoid),505,528
+479,508,Right Shoulder (Deltoid),505,528
+480,507,Right Shoulder (Deltoid),505,528
+480,510,Right Shoulder (Deltoid),505,528
+480,509,Right Shoulder (Deltoid),505,528
+479,510,Right Shoulder (Deltoid),506,528
+478,510,Right Shoulder (Deltoid),506,528
+478,510,Right Shoulder (Deltoid),506,528
+477,510,Right Shoulder (Deltoid),506,528
+478,509,Right Shoulder (Deltoid),506,529
+478,510,Right Shoulder (Deltoid),506,530
+476,510,Right Shoulder (Deltoid),506,530
+477,511,Right Shoulder (Deltoid),506,530
+477,511,Right Shoulder (Deltoid),506,530
+476,515,Right Shoulder (Deltoid),506,529
+475,515,Right Shoulder (Deltoid),506,529
+475,515,Right Shoulder (Deltoid),506,529
+476,516,Right Shoulder (Deltoid),506,529
+476,515,Right Shoulder (Deltoid),506,529
+474,516,Right Shoulder (Deltoid),506,529
+477,512,Right Shoulder (Deltoid),505,529
+477,512,Right Shoulder (Deltoid),505,529
+477,513,Right Shoulder (Deltoid),505,529
+478,512,Right Shoulder (Deltoid),504,529
+478,514,Right Shoulder (Deltoid),504,529
+478,514,Right Shoulder (Deltoid),503,529
+488,529,Right Shoulder (Deltoid),503,529
+718,400,Right Trapezius,675,425
+682,389,Right Trapezius,670,423
+662,428,Right Trapezius,683,433
+683,413,Right Trapezius,682,433
+696,395,Right Trapezius,676,433
+692,393,Right Trapezius,675,433
+687,396,Right Trapezius,675,432
+671,406,Right Trapezius,677,429
+658,409,Right Trapezius,678,428
+638,416,Right Trapezius,679,426
+880,540,Left Shoulder (Deltoid),843,513
+831,544,Left Shoulder (Deltoid),843,513
+883,515,Left Shoulder (Deltoid),877,523
+885,518,Left Shoulder (Deltoid),878,523
+890,520,Left Shoulder (Deltoid),880,523
+894,521,Left Shoulder (Deltoid),879,522
+893,514,Left Shoulder (Deltoid),876,520
+890,509,Left Shoulder (Deltoid),876,520
+888,512,Left Shoulder (Deltoid),875,521
+877,513,Left Shoulder (Deltoid),873,520
+873,512,Left Shoulder (Deltoid),873,519
+866,510,Left Shoulder (Deltoid),871,518
+868,510,Left Shoulder (Deltoid),870,515
+856,506,Left Shoulder (Deltoid),869,514
+861,506,Left Shoulder (Deltoid),868,514
+860,506,Left Shoulder (Deltoid),867,514
+857,506,Left Shoulder (Deltoid),865,514
+862,502,Left Shoulder (Deltoid),864,512
+858,504,Left Shoulder (Deltoid),864,511
+858,504,Left Shoulder (Deltoid),864,511
+865,507,Left Shoulder (Deltoid),864,511
+862,509,Left Shoulder (Deltoid),864,509
+863,507,Left Shoulder (Deltoid),864,509
+864,505,Left Shoulder (Deltoid),864,509
+864,507,Left Shoulder (Deltoid),864,509
+853,509,Left Shoulder (Deltoid),864,508
+856,510,Left Shoulder (Deltoid),864,508
+854,509,Left Shoulder (Deltoid),865,508
+859,507,Left Shoulder (Deltoid),866,508
+855,509,Left Shoulder (Deltoid),866,508
+856,508,Left Shoulder (Deltoid),866,508
+860,506,Left Shoulder (Deltoid),865,508
+856,505,Left Shoulder (Deltoid),865,507
+862,504,Left Shoulder (Deltoid),865,507
+861,509,Left Shoulder (Deltoid),866,507
+852,505,Left Shoulder (Deltoid),866,507
+860,505,Left Shoulder (Deltoid),866,507
+858,506,Left Shoulder (Deltoid),866,508
+855,506,Left Shoulder (Deltoid),866,508
+858,507,Left Shoulder (Deltoid),866,508
+857,507,Left Shoulder (Deltoid),866,508
+856,504,Left Shoulder (Deltoid),866,509
+856,508,Left Shoulder (Deltoid),866,509
+856,508,Left Shoulder (Deltoid),866,509
+851,508,Left Shoulder (Deltoid),866,510
+857,508,Left Shoulder (Deltoid),866,510
+855,507,Left Shoulder (Deltoid),866,510
+857,508,Left Shoulder (Deltoid),866,510
+855,507,Left Shoulder (Deltoid),867,510
+855,507,Left Shoulder (Deltoid),867,510
+854,501,Left Shoulder (Deltoid),867,510
+854,507,Left Shoulder (Deltoid),867,510
+851,505,Left Shoulder (Deltoid),867,510
+850,501,Left Shoulder (Deltoid),867,510
+842,505,Left Shoulder (Deltoid),866,510
+842,506,Left Shoulder (Deltoid),866,510
+851,501,Left Shoulder (Deltoid),865,510
+859,490,Left Shoulder (Deltoid),865,510
+847,484,Left Shoulder (Deltoid),865,512
+829,492,Left Shoulder (Deltoid),866,514
+702,567,Chest (Pectorals),683,525
+703,559,Chest (Pectorals),684,524
+704,547,Chest (Pectorals),685,523
+692,526,Chest (Pectorals),686,522
+679,523,Chest (Pectorals),686,521
+676,523,Chest (Pectorals),685,521
+679,525,Chest (Pectorals),685,521
+679,519,Chest (Pectorals),685,521
+678,520,Chest (Pectorals),685,521
+683,520,Chest (Pectorals),686,520
+681,521,Chest (Pectorals),685,520
+683,520,Chest (Pectorals),685,521
+680,520,Chest (Pectorals),684,521
+678,519,Chest (Pectorals),683,522
+681,515,Chest (Pectorals),683,522
+687,517,Chest (Pectorals),683,522
+695,514,Chest (Pectorals),683,522
+693,515,Chest (Pectorals),683,522
+695,514,Chest (Pectorals),683,522
+691,514,Chest (Pectorals),683,522
+691,515,Chest (Pectorals),683,522
+685,516,Chest (Pectorals),683,521
+689,514,Chest (Pectorals),683,521
+687,513,Chest (Pectorals),683,521
+687,515,Chest (Pectorals),683,521
+692,513,Chest (Pectorals),683,522
+689,513,Chest (Pectorals),683,521
+686,513,Chest (Pectorals),683,521
+687,513,Chest (Pectorals),683,521
+690,514,Chest (Pectorals),683,522
+691,513,Chest (Pectorals),683,522
+691,512,Chest (Pectorals),683,522
+691,512,Chest (Pectorals),683,521
+693,512,Chest (Pectorals),683,521
+693,511,Chest (Pectorals),683,521
+692,511,Chest (Pectorals),683,521
+695,510,Chest (Pectorals),683,521
+693,510,Chest (Pectorals),684,521
+691,512,Chest (Pectorals),684,521
+689,513,Chest (Pectorals),684,521
+692,512,Chest (Pectorals),684,521
+687,515,Chest (Pectorals),684,520
+689,514,Chest (Pectorals),684,520
+689,514,Chest (Pectorals),684,520
+693,512,Chest (Pectorals),684,520
+695,511,Chest (Pectorals),684,520
+697,510,Chest (Pectorals),684,519
+693,512,Chest (Pectorals),684,519
+694,511,Chest (Pectorals),684,519
+692,513,Chest (Pectorals),684,519
+688,514,Chest (Pectorals),684,519
+697,506,Chest (Pectorals),684,519
+696,503,Chest (Pectorals),683,519
+694,498,Chest (Pectorals),684,518
+652,518,Chest (Pectorals),684,517
+655,449,Right Trapezius,689,435
+668,453,Left Trapezius,689,432
+681,465,Left Trapezius,688,432
+699,472,Left Trapezius,688,430
+701,472,Left Trapezius,688,428
+702,470,Left Trapezius,688,427
+701,466,Left Trapezius,688,425
+699,465,Left Trapezius,688,424
+699,463,Left Trapezius,687,424
+698,462,Left Trapezius,687,422
+697,463,Left Trapezius,687,420
+697,461,Left Trapezius,688,420
+696,457,Left Trapezius,688,419
+697,458,Left Trapezius,688,417
+691,451,Left Trapezius,688,416
+691,452,Left Trapezius,688,418
+691,453,Left Trapezius,687,419
+691,455,Left Trapezius,687,420
+692,454,Left Trapezius,687,420
+690,455,Left Trapezius,686,420
+691,455,Left Trapezius,686,420
+690,455,Left Trapezius,686,420
+692,456,Left Trapezius,685,420
+693,457,Left Trapezius,684,420
+693,458,Left Trapezius,684,420
+693,457,Left Trapezius,684,420
+692,457,Left Trapezius,683,420
+692,457,Left Trapezius,683,420
+692,455,Left Trapezius,683,420
+692,456,Left Trapezius,683,420
+691,456,Left Trapezius,683,420
+692,456,Left Trapezius,683,420
+693,458,Left Trapezius,684,420
+693,458,Left Trapezius,684,420
+691,457,Left Trapezius,684,419
+692,456,Left Trapezius,684,419
+692,457,Left Trapezius,683,418
+691,455,Left Trapezius,684,418
+690,454,Left Trapezius,684,418
+690,456,Left Trapezius,683,418
+689,456,Left Trapezius,683,418
+688,455,Left Trapezius,683,418
+690,458,Left Trapezius,683,418
+691,456,Left Trapezius,682,418
+689,456,Left Trapezius,682,418
+690,457,Left Trapezius,682,418
+690,456,Left Trapezius,681,418
+689,457,Right Trapezius,680,420
+688,456,Right Trapezius,679,420
+687,457,Right Trapezius,679,420
+661,449,Left Trapezius,691,419
+503,522,Left Shoulder (Deltoid),519,566
+590,601,Left Shoulder (Deltoid),594,568
+641,447,Left Trapezius,672,485
+674,439,Right Trapezius,702,465
+800,549,Left Shoulder (Deltoid),800,579
+527,561,Right Shoulder (Deltoid),484,562
+489,577,Right Shoulder (Deltoid),486,554
+495,567,Right Shoulder (Deltoid),486,553
+501,554,Right Shoulder (Deltoid),486,548
+525,553,Right Shoulder (Deltoid),490,541
+530,546,Right Shoulder (Deltoid),491,537
+507,497,Right Shoulder (Deltoid),491,537
+507,527,Right Shoulder (Deltoid),493,537
+675,595,Chest (Pectorals),674,553
+626,588,Chest (Pectorals),650,550
+627,578,Chest (Pectorals),651,550
+625,577,Chest (Pectorals),651,549
+625,576,Chest (Pectorals),651,549
+624,574,Chest (Pectorals),651,549
+624,576,Chest (Pectorals),652,549
+624,575,Chest (Pectorals),652,548
+624,574,Chest (Pectorals),653,548
+624,576,Chest (Pectorals),654,548
+624,576,Chest (Pectorals),656,548
+622,575,Chest (Pectorals),657,548
+623,578,Chest (Pectorals),657,548
+623,576,Chest (Pectorals),657,548
+624,578,Chest (Pectorals),657,548
+623,579,Chest (Pectorals),658,548
+622,578,Chest (Pectorals),658,548
+621,576,Chest (Pectorals),657,548
+621,578,Chest (Pectorals),657,547
+622,580,Chest (Pectorals),657,547
+622,580,Chest (Pectorals),658,547
+622,580,Chest (Pectorals),658,547
+622,580,Chest (Pectorals),658,547
+620,577,Chest (Pectorals),658,547
+620,579,Chest (Pectorals),658,548
+621,580,Chest (Pectorals),659,548
+622,580,Chest (Pectorals),660,548
+622,580,Chest (Pectorals),660,548
+623,578,Chest (Pectorals),660,548
+622,580,Chest (Pectorals),659,548
+620,577,Chest (Pectorals),659,548
+620,579,Chest (Pectorals),659,548
+619,578,Chest (Pectorals),658,548
+618,578,Chest (Pectorals),657,549
+619,579,Chest (Pectorals),656,550
+617,579,Chest (Pectorals),654,550
+617,582,Chest (Pectorals),650,550
+618,582,Chest (Pectorals),649,550
+616,581,Chest (Pectorals),647,550
+616,582,Chest (Pectorals),643,550
+616,584,Chest (Pectorals),642,550
+616,582,Chest (Pectorals),641,550
+617,580,Chest (Pectorals),640,550
+617,581,Chest (Pectorals),640,551
+617,580,Chest (Pectorals),640,551
+617,579,Chest (Pectorals),640,551
+618,580,Chest (Pectorals),641,550
+618,579,Chest (Pectorals),641,550
+619,578,Chest (Pectorals),641,550
+620,580,Chest (Pectorals),644,550
+620,578,Chest (Pectorals),647,550
+619,578,Chest (Pectorals),649,550
+618,580,Chest (Pectorals),649,550
+619,580,Chest (Pectorals),651,549
+621,579,Chest (Pectorals),652,550
+623,577,Chest (Pectorals),654,550
+616,574,Chest (Pectorals),656,550
+432,609,Right Bicep,441,632
+417,608,Right Bicep,443,619
+415,631,Right Bicep,444,618
+417,631,Right Bicep,445,616
+416,626,Right Bicep,446,617
+416,621,Right Bicep,445,613
+418,618,Right Bicep,443,612
+418,613,Right Bicep,441,610
+418,612,Right Bicep,442,610
+419,612,Right Bicep,442,610
+419,617,Right Bicep,443,611
+421,619,Right Bicep,443,611
+421,620,Right Bicep,443,611
+420,621,Right Bicep,443,612
+419,618,Right Bicep,443,613
+419,617,Right Bicep,443,613
+418,617,Right Bicep,443,613
+419,617,Right Bicep,443,613
+420,616,Right Bicep,443,613
+422,611,Right Bicep,443,610
+423,610,Right Bicep,443,610
+421,609,Right Bicep,443,610
+422,610,Right Bicep,442,610
+422,603,Right Bicep,441,610
+423,601,Right Bicep,441,609
+440,562,Right Bicep,441,611
+456,505,Right Shoulder (Deltoid),502,519
+455,507,Right Shoulder (Deltoid),502,520
+460,510,Right Shoulder (Deltoid),502,520
+460,511,Right Shoulder (Deltoid),502,520
+457,509,Right Shoulder (Deltoid),502,520
+456,509,Right Shoulder (Deltoid),503,521
+457,510,Right Shoulder (Deltoid),502,521
+459,511,Right Shoulder (Deltoid),502,521
+458,511,Right Shoulder (Deltoid),502,521
+458,511,Right Shoulder (Deltoid),503,521
+459,511,Right Shoulder (Deltoid),504,521
+464,502,Right Shoulder (Deltoid),507,518
+466,495,Right Shoulder (Deltoid),507,514
+522,483,Right Shoulder (Deltoid),519,492
+535,478,Right Shoulder (Deltoid),533,494
+486,518,Right Shoulder (Deltoid),524,488
+544,540,Right Bicep,561,584
+554,539,Right Bicep,562,578
+541,533,Right Bicep,578,565
+532,527,Right Bicep,568,557
+530,541,Right Bicep,563,552
+528,557,Right Bicep,562,546
+529,573,Right Bicep,560,566
+531,573,Right Bicep,558,562
+528,573,Right Bicep,550,568
+527,573,Right Bicep,550,569
+526,573,Right Bicep,553,574
+524,573,Right Bicep,554,575
+524,574,Right Bicep,553,558
+526,573,Right Bicep,557,561
+526,574,Right Bicep,557,553
+526,574,Right Bicep,557,555
+526,576,Right Bicep,557,552
+526,619,Right Tricep,538,662
+524,621,Right Tricep,535,661
+526,619,Right Tricep,535,660
+523,621,Right Tricep,535,660
+522,620,Right Tricep,535,661
+522,620,Right Tricep,535,661
+522,620,Right Tricep,535,662
+521,619,Right Tricep,535,662
+521,619,Right Tricep,538,663
+521,620,Right Tricep,538,663
+521,620,Right Tricep,538,663
+521,620,Right Tricep,538,663
+520,620,Right Tricep,537,663
+519,620,Right Tricep,536,663
+520,620,Right Tricep,536,662
+520,620,Right Tricep,536,661
+520,619,Right Tricep,536,660
+520,619,Right Tricep,535,660
+520,619,Right Tricep,535,659
+520,619,Right Tricep,535,654
+520,619,Right Tricep,535,654
+521,621,Right Tricep,527,655
+521,622,Right Tricep,527,657
+519,621,Right Tricep,527,657
+518,623,Right Tricep,525,659
+516,622,Right Tricep,523,659
+516,621,Right Tricep,522,658
+517,621,Right Tricep,521,658
+515,621,Right Tricep,519,658
+513,622,Right Tricep,518,658
+513,622,Right Tricep,518,663
+511,625,Right Tricep,516,663
+509,625,Right Tricep,516,665
+509,626,Right Tricep,515,667
+505,625,Right Tricep,515,668
+505,626,Right Tricep,515,670
+503,625,Right Tricep,512,674
+504,626,Right Tricep,512,674
+503,626,Right Tricep,511,674
+501,626,Right Tricep,507,674
+498,566,Right Bicep,529,563
+495,560,Right Bicep,530,563
+498,562,Right Bicep,532,563
+501,563,Right Bicep,532,575
+502,565,Right Bicep,535,572
+502,564,Right Bicep,535,570
+502,565,Right Bicep,534,569
+501,565,Right Bicep,535,569
+501,565,Right Bicep,535,569
+501,565,Right Bicep,537,567
+500,566,Right Bicep,533,573
+501,566,Right Bicep,532,579
+503,566,Right Bicep,525,580
+502,567,Right Bicep,521,578
+494,567,Right Bicep,525,573
+494,570,Right Bicep,525,575
+487,592,Right Bicep,515,584
+484,616,Right Bicep,499,591
+482,624,Right Bicep,491,593
+485,632,Right Bicep,486,601
+490,637,Right Bicep,486,603
+484,643,Right Bicep,481,605
+483,641,Right Bicep,480,606
+486,642,Right Bicep,481,605
+494,636,Right Bicep,486,605
+491,651,Right Bicep,488,605
+484,642,Right Bicep,487,606
+475,632,Right Bicep,481,608
+469,631,Right Bicep,477,611
+464,632,Right Bicep,472,613
+467,629,Right Bicep,470,612
+469,630,Right Bicep,467,612
+469,631,Right Bicep,467,612
+471,635,Right Bicep,468,611
+471,636,Right Bicep,468,610
+466,648,Right Bicep,468,609
+465,650,Right Bicep,468,610
+812,462,Left Bicep,809,505
+815,464,Left Bicep,813,503
+804,460,Left Bicep,819,494
+801,469,Left Bicep,821,497
+805,491,Left Bicep,827,503
+805,486,Left Bicep,830,504
+807,470,Left Bicep,828,504
+807,470,Left Bicep,828,504
+809,471,Left Bicep,828,505
+805,470,Left Bicep,827,504
+805,470,Left Bicep,827,504
+804,472,Left Bicep,827,504
+805,473,Left Bicep,827,504
+803,473,Left Bicep,826,504
+804,475,Left Bicep,826,505
+804,476,Left Bicep,826,505
+804,479,Left Bicep,826,504
+810,482,Left Bicep,826,506
+815,484,Left Bicep,826,507
+811,482,Left Bicep,826,509
+806,478,Left Bicep,827,508
+807,476,Left Bicep,827,507
+804,476,Left Bicep,827,507
+805,475,Left Bicep,827,504
+801,475,Left Bicep,826,504
+801,476,Left Bicep,826,504
+798,478,Left Bicep,826,506
+799,478,Left Bicep,825,506
+803,479,Left Bicep,825,506
+804,481,Left Bicep,825,507
+807,483,Left Bicep,826,508
+808,483,Left Bicep,827,508
+809,482,Left Bicep,828,509
+808,481,Left Bicep,829,510
+808,481,Left Bicep,829,512
+809,480,Left Bicep,830,513
+809,480,Left Bicep,831,514
+809,480,Left Bicep,832,514
+809,480,Left Bicep,832,514
+809,480,Left Bicep,833,514
+809,478,Left Bicep,833,513
+808,477,Left Bicep,833,513
+809,475,Left Bicep,833,513
+808,476,Left Bicep,833,514
+809,474,Left Bicep,834,514
+807,474,Left Bicep,834,514
+809,473,Left Bicep,834,514
+806,471,Left Bicep,833,512
+806,472,Left Bicep,833,512
+805,471,Left Bicep,833,511
+803,471,Left Bicep,832,510
+804,470,Left Bicep,831,509
+803,470,Left Bicep,830,509
+802,471,Left Bicep,830,509
+803,472,Left Bicep,830,509
+802,472,Left Bicep,830,509
+802,471,Left Bicep,830,509
+802,472,Left Bicep,829,508
+801,471,Left Bicep,829,507
+799,469,Left Bicep,829,507
+798,468,Left Bicep,829,507
+798,469,Left Bicep,828,507
+796,471,Left Bicep,826,507
+794,472,Left Bicep,825,507
+794,472,Left Bicep,825,507
+794,472,Left Bicep,824,505
+795,474,Left Bicep,824,506
+796,474,Left Bicep,824,506
+796,474,Left Bicep,824,506
+798,471,Left Bicep,824,506
+808,473,Left Bicep,824,506
+818,474,Left Bicep,816,506
+802,456,Left Bicep,791,494
+777,428,Left Bicep,755,471
+770,427,Left Bicep,757,452
+761,420,Left Bicep,742,449
+755,421,Left Bicep,740,442
+761,424,Left Bicep,745,448
+767,426,Left Bicep,747,454
+769,427,Left Bicep,748,455
+770,424,Left Bicep,749,461
+757,428,Left Bicep,749,461
+750,428,Left Bicep,747,449
+752,435,Left Bicep,744,436
+735,434,Left Bicep,740,436
+737,433,Left Bicep,736,421
+742,432,Left Bicep,727,420
+745,427,Left Bicep,714,421
+748,425,Left Bicep,727,424
+755,422,Left Bicep,729,425
+751,410,Left Bicep,729,426
+748,408,Left Bicep,730,430
+745,433,Left Bicep,729,434
+745,439,Left Bicep,729,437
+736,454,Left Bicep,726,437
+710,458,Left Bicep,725,438
+717,425,Left Bicep,691,443
+704,425,Left Bicep,691,445
+711,422,Left Bicep,692,445
+726,413,Left Bicep,691,444
+724,415,Left Bicep,692,444
+714,418,Left Bicep,693,444
+712,419,Left Bicep,701,450
+710,419,Left Bicep,708,450
+717,416,Left Bicep,697,450
+720,415,Left Bicep,698,448
+739,408,Left Bicep,716,443
+748,406,Left Bicep,717,431
+756,404,Left Bicep,720,428
+763,403,Left Bicep,722,430
+781,412,Left Bicep,743,427
+786,410,Left Bicep,754,420
+792,407,Left Bicep,752,434
+791,408,Left Bicep,753,435
+780,411,Left Bicep,752,449
+799,400,Left Bicep,762,433
+791,402,Left Bicep,760,416
+795,400,Left Bicep,762,415
+804,400,Left Bicep,764,409
+804,402,Left Bicep,764,408
+781,393,Left Bicep,738,417
+720,446,Left Bicep,740,455
+730,460,Left Bicep,747,467
+736,455,Left Bicep,756,481
+748,434,Left Bicep,775,473
+748,431,Left Bicep,774,473
+753,426,Left Bicep,778,464
+760,428,Left Bicep,783,464
+764,442,Left Bicep,787,466
+762,457,Left Bicep,786,489
+764,465,Left Bicep,788,484
+768,471,Left Bicep,795,483
+768,468,Left Bicep,800,483
+765,462,Left Bicep,799,480
+766,462,Left Bicep,796,478
+770,463,Left Bicep,795,477
+771,459,Left Bicep,791,477
+770,455,Left Bicep,792,476
+768,457,Left Bicep,794,476
+769,458,Left Bicep,794,477
+766,459,Left Bicep,793,477
+766,458,Left Bicep,793,476
+763,457,Left Bicep,794,480
+764,457,Left Bicep,794,480
+763,458,Left Bicep,794,480
+763,459,Left Bicep,794,480
+762,460,Left Bicep,794,480
+761,460,Left Bicep,794,481
+760,458,Left Bicep,794,481
+759,458,Left Bicep,793,481
+759,459,Left Bicep,794,482
+761,462,Left Bicep,794,483
+771,469,Left Bicep,798,488
+778,475,Left Bicep,804,493
+639,379,Chest (Pectorals),648,330
+628,366,Chest (Pectorals),646,326
+628,369,Chest (Pectorals),645,325
+675,453,Chest (Pectorals),694,445
+671,484,Chest (Pectorals),679,441
+673,474,Chest (Pectorals),678,441
+681,458,Chest (Pectorals),678,441
+678,452,Chest (Pectorals),678,441
+676,451,Chest (Pectorals),678,441
+674,461,Chest (Pectorals),678,441
+673,463,Chest (Pectorals),678,441
+674,464,Chest (Pectorals),678,441
+673,464,Chest (Pectorals),678,440
+673,465,Chest (Pectorals),678,440
+673,465,Chest (Pectorals),678,440
+672,466,Chest (Pectorals),679,440
+672,465,Chest (Pectorals),679,440
+673,465,Chest (Pectorals),679,440
+672,463,Chest (Pectorals),679,439
+671,463,Chest (Pectorals),680,439
+669,463,Chest (Pectorals),680,438
+670,463,Chest (Pectorals),680,439
+671,464,Chest (Pectorals),680,439
+672,464,Chest (Pectorals),680,439
+674,464,Chest (Pectorals),679,439
+674,464,Chest (Pectorals),679,439
+674,466,Chest (Pectorals),679,440
+674,466,Chest (Pectorals),679,440
+672,465,Chest (Pectorals),679,440
+670,466,Chest (Pectorals),679,441
+662,466,Chest (Pectorals),679,441
+660,465,Chest (Pectorals),678,441
+657,464,Chest (Pectorals),678,441
+652,462,Chest (Pectorals),676,441
+649,462,Chest (Pectorals),671,441
+635,463,Chest (Pectorals),667,438
+617,457,Chest (Pectorals),659,436
+745,492,Left Bicep,773,487
+729,498,Left Bicep,713,506
+699,482,Left Bicep,674,507
+695,471,Left Bicep,675,484
+690,469,Left Bicep,676,493
+689,458,Left Bicep,669,492
+682,471,Left Bicep,647,481
+654,477,Left Bicep,647,477
+702,459,Left Bicep,658,473
+705,465,Left Bicep,656,474
+702,463,Left Bicep,656,474
+711,468,Left Bicep,662,477
+711,468,Left Bicep,666,478
+712,466,Left Bicep,668,478
+715,467,Left Bicep,670,478
+715,468,Left Bicep,671,478
+718,469,Left Bicep,674,480
+720,468,Left Bicep,677,481
+722,469,Left Bicep,680,482
+723,468,Left Bicep,681,483
+724,470,Left Bicep,681,483
+726,471,Left Bicep,681,483
+709,492,Left Bicep,682,483
+725,484,Left Bicep,682,484
+700,502,Left Bicep,681,488
+724,489,Left Bicep,681,489
+719,494,Left Bicep,681,491
+721,493,Left Bicep,686,491
+723,491,Left Bicep,690,492
+723,490,Left Bicep,690,492
+731,486,Left Bicep,692,491
+725,488,Left Bicep,693,491
+717,491,Left Bicep,694,491
+723,487,Left Bicep,693,491
+720,485,Left Bicep,689,491
+724,483,Left Bicep,687,491
+726,481,Left Bicep,686,491
+724,483,Left Bicep,684,491
+725,482,Left Bicep,684,491
+724,481,Left Bicep,683,491
+724,482,Left Bicep,681,491
+725,481,Left Bicep,681,491
+725,481,Left Bicep,681,491
+723,482,Left Bicep,681,491
+721,483,Left Bicep,681,492
+722,483,Left Bicep,681,492
+721,484,Left Bicep,681,494
+725,481,Left Bicep,680,495
+720,485,Left Bicep,680,496
+723,485,Left Bicep,680,496
+731,484,Left Bicep,682,490
+729,490,Left Bicep,682,490
+728,492,Left Bicep,683,491
+704,507,Left Bicep,684,489
+729,492,Left Bicep,686,489
+729,500,Left Bicep,746,499
+635,407,Right Shoulder (Deltoid),635,375
+577,491,Right Bicep,609,516
+580,494,Right Bicep,611,506
+585,493,Right Bicep,623,501
+588,491,Right Bicep,623,501
+585,494,Right Bicep,627,513
+577,500,Right Bicep,624,514
+571,500,Right Bicep,614,519
+572,501,Right Bicep,612,514
+573,502,Right Bicep,609,519
+573,502,Right Bicep,605,517
+572,502,Right Bicep,603,515
+571,501,Right Bicep,605,520
+570,500,Right Bicep,603,517
+571,501,Right Bicep,603,518
+571,500,Right Bicep,600,515
+571,500,Right Bicep,599,513
+571,500,Right Bicep,600,513
+572,499,Right Bicep,600,515
+573,499,Right Bicep,603,514
+574,499,Right Bicep,603,514
+575,502,Right Bicep,602,514
+593,500,Right Bicep,612,512
+601,497,Right Bicep,628,508
+623,508,Right Bicep,656,531
+666,521,Right Bicep,655,506
+676,527,Right Bicep,691,512
+696,524,Right Bicep,716,510
+701,530,Right Bicep,720,500
+698,556,Right Bicep,715,516
+692,554,Right Bicep,711,515
+682,546,Right Bicep,704,503
+669,505,Right Bicep,718,511
+671,518,Right Bicep,718,509
+682,520,Right Bicep,721,508
+672,531,Right Bicep,711,505
+694,328,Right Shoulder (Deltoid),702,371
+689,500,Right Bicep,698,535
+698,556,Right Bicep,707,533
+673,555,Right Bicep,707,528
+675,556,Right Bicep,710,525
+602,513,Right Bicep,650,513
+603,521,Right Bicep,625,514
+584,529,Right Bicep,617,521
+591,543,Right Bicep,614,521
+1001,636,Left Bicep,992,626
+1008,644,Left Bicep,981,613
+1000,665,Left Bicep,981,640
+984,659,Left Bicep,966,621
+981,658,Left Bicep,965,621
+976,659,Left Bicep,965,623
+980,660,Left Bicep,963,618
+984,658,Left Bicep,964,617
+1006,642,Left Bicep,976,654
+962,633,Left Bicep,985,669
+811,565,Left Shoulder (Deltoid),789,599
+460,523,Right Shoulder (Deltoid),473,565
+603,468,Chest (Pectorals),605,437
+606,459,Chest (Pectorals),610,438
+606,460,Chest (Pectorals),609,440
+605,461,Chest (Pectorals),607,436
+606,461,Chest (Pectorals),610,438
+606,461,Chest (Pectorals),613,439
+605,461,Chest (Pectorals),616,439
+604,463,Chest (Pectorals),615,435
+604,465,Chest (Pectorals),619,436
+604,466,Chest (Pectorals),613,432
+603,466,Chest (Pectorals),610,430
+603,467,Chest (Pectorals),609,429
+601,468,Chest (Pectorals),603,426
+600,469,Chest (Pectorals),600,425
+600,469,Chest (Pectorals),593,425
+600,470,Chest (Pectorals),594,428
+602,470,Chest (Pectorals),594,429
+601,471,Chest (Pectorals),599,440
+598,470,Chest (Pectorals),607,438
+596,470,Chest (Pectorals),608,440
+594,471,Chest (Pectorals),608,442
+594,471,Chest (Pectorals),613,444
+593,471,Chest (Pectorals),625,450
+590,471,Chest (Pectorals),630,452
+588,470,Chest (Pectorals),627,453
+585,470,Chest (Pectorals),623,453
+586,469,Chest (Pectorals),603,454
+587,469,Chest (Pectorals),598,454
+589,469,Chest (Pectorals),590,453
+593,469,Chest (Pectorals),591,451
+595,471,Chest (Pectorals),597,451
+597,470,Chest (Pectorals),617,451
+597,469,Chest (Pectorals),620,451
+598,469,Chest (Pectorals),617,451
+597,469,Chest (Pectorals),617,448
+598,469,Chest (Pectorals),627,447
+598,469,Chest (Pectorals),624,446
+598,469,Chest (Pectorals),615,446
+599,470,Chest (Pectorals),615,446
+598,469,Chest (Pectorals),616,442
+599,468,Chest (Pectorals),604,443
+598,469,Chest (Pectorals),604,441
+598,466,Chest (Pectorals),606,441
+597,466,Chest (Pectorals),606,439
+597,466,Chest (Pectorals),611,439
+596,467,Chest (Pectorals),615,439
+598,468,Chest (Pectorals),616,439
+599,467,Chest (Pectorals),616,439
+600,468,Chest (Pectorals),612,438
+601,469,Chest (Pectorals),612,438
+602,469,Chest (Pectorals),612,438
+602,469,Chest (Pectorals),609,437
+602,470,Chest (Pectorals),615,437
+603,469,Chest (Pectorals),619,437
+603,470,Chest (Pectorals),619,441
+604,469,Chest (Pectorals),619,440
+604,469,Chest (Pectorals),619,442
+604,469,Chest (Pectorals),616,443
+605,468,Chest (Pectorals),612,441
+605,468,Chest (Pectorals),607,438
+605,467,Chest (Pectorals),606,437
+605,467,Chest (Pectorals),602,437
+605,467,Chest (Pectorals),597,437
+605,468,Chest (Pectorals),592,439
+604,468,Chest (Pectorals),593,442
+604,468,Chest (Pectorals),594,446
+603,468,Chest (Pectorals),594,450
+603,469,Chest (Pectorals),594,455
+604,469,Chest (Pectorals),596,459
+602,468,Chest (Pectorals),598,463
+601,468,Chest (Pectorals),599,463
+602,469,Chest (Pectorals),600,464
+602,468,Chest (Pectorals),603,463
+602,466,Chest (Pectorals),601,464
+607,466,Chest (Pectorals),599,467
+609,468,Chest (Pectorals),596,470
+614,472,Chest (Pectorals),592,470
+614,473,Chest (Pectorals),593,471
+614,474,Chest (Pectorals),602,470
+613,474,Chest (Pectorals),604,469
+626,468,Chest (Pectorals),608,469
+631,465,Chest (Pectorals),605,469
+631,466,Chest (Pectorals),608,467
+631,466,Chest (Pectorals),609,467
+630,466,Chest (Pectorals),610,467
+641,469,Chest (Pectorals),611,466
+674,324,Right Trapezius,655,358
+632,341,Right Trapezius,659,358
+512,441,Right Shoulder (Deltoid),493,449
+506,458,Right Shoulder (Deltoid),515,439
+516,459,Right Shoulder (Deltoid),510,433
+531,459,Right Shoulder (Deltoid),507,432
+528,469,Right Shoulder (Deltoid),507,433
+525,474,Right Shoulder (Deltoid),510,433
+519,475,Right Shoulder (Deltoid),514,432
+517,474,Right Shoulder (Deltoid),517,431
+498,478,Right Shoulder (Deltoid),505,430
+498,472,Right Shoulder (Deltoid),495,433
+497,468,Right Shoulder (Deltoid),490,436
+499,471,Right Shoulder (Deltoid),489,438
+498,469,Right Shoulder (Deltoid),489,439
+498,469,Right Shoulder (Deltoid),487,440
+499,470,Right Shoulder (Deltoid),487,441
+497,470,Right Shoulder (Deltoid),487,441
+497,471,Right Shoulder (Deltoid),486,441
+496,471,Right Shoulder (Deltoid),486,441
+496,471,Right Shoulder (Deltoid),485,441
+496,471,Right Shoulder (Deltoid),485,441
+496,471,Right Shoulder (Deltoid),486,441
+496,471,Right Shoulder (Deltoid),486,441
+496,472,Right Shoulder (Deltoid),485,441
+496,472,Right Shoulder (Deltoid),484,441
+497,471,Right Shoulder (Deltoid),477,443
+496,471,Right Shoulder (Deltoid),476,445
+496,472,Right Shoulder (Deltoid),476,446
+496,472,Right Shoulder (Deltoid),475,447
+496,473,Right Shoulder (Deltoid),475,448
+494,474,Right Shoulder (Deltoid),479,449
+494,474,Right Shoulder (Deltoid),483,450
+494,474,Right Shoulder (Deltoid),483,450
+495,474,Right Shoulder (Deltoid),483,450
+495,474,Right Shoulder (Deltoid),480,450
+496,474,Right Shoulder (Deltoid),477,451
+495,474,Right Shoulder (Deltoid),471,454
+495,474,Right Shoulder (Deltoid),472,454
+495,474,Right Shoulder (Deltoid),469,456
+495,474,Right Shoulder (Deltoid),469,454
+495,474,Right Shoulder (Deltoid),471,452
+496,473,Right Shoulder (Deltoid),475,452
+498,471,Right Shoulder (Deltoid),481,452
+504,467,Right Shoulder (Deltoid),497,452
+496,469,Right Shoulder (Deltoid),497,451
+503,460,Right Shoulder (Deltoid),507,466
+495,456,Right Shoulder (Deltoid),514,468
+513,472,Right Shoulder (Deltoid),514,460
+517,464,Right Shoulder (Deltoid),522,466
+527,441,Right Shoulder (Deltoid),537,480
+534,439,Right Shoulder (Deltoid),543,481
+538,436,Right Shoulder (Deltoid),549,480
+530,505,Right Shoulder (Deltoid),547,461
+534,491,Right Shoulder (Deltoid),547,472
+536,464,Right Shoulder (Deltoid),548,479
+530,455,Right Shoulder (Deltoid),547,480
+530,459,Right Shoulder (Deltoid),546,480
+530,450,Right Shoulder (Deltoid),542,480
+527,449,Right Shoulder (Deltoid),538,481
+519,451,Right Shoulder (Deltoid),537,481
+519,452,Right Shoulder (Deltoid),537,456
+516,453,Right Shoulder (Deltoid),521,448
+521,425,Right Shoulder (Deltoid),523,449
+530,416,Right Shoulder (Deltoid),528,462
+530,416,Right Shoulder (Deltoid),526,450
+529,409,Right Shoulder (Deltoid),525,449
+526,408,Right Shoulder (Deltoid),521,448
+528,399,Right Shoulder (Deltoid),525,446
+526,399,Right Shoulder (Deltoid),525,438
+528,424,Right Shoulder (Deltoid),525,424
+521,444,Right Shoulder (Deltoid),524,424
+527,445,Right Shoulder (Deltoid),525,423
+528,445,Right Shoulder (Deltoid),527,423
+529,444,Right Shoulder (Deltoid),535,416
+527,446,Right Shoulder (Deltoid),562,415
+566,435,Right Shoulder (Deltoid),573,403
+567,426,Right Shoulder (Deltoid),578,404
+564,445,Right Shoulder (Deltoid),572,430
+556,472,Right Shoulder (Deltoid),564,450
+547,472,Right Shoulder (Deltoid),562,451
+553,466,Right Shoulder (Deltoid),561,456
+548,466,Right Shoulder (Deltoid),558,460
+547,466,Right Shoulder (Deltoid),553,458
+551,427,Right Shoulder (Deltoid),549,460
+545,404,Right Shoulder (Deltoid),546,450
+543,404,Right Shoulder (Deltoid),546,453
+540,407,Right Shoulder (Deltoid),543,452
+542,412,Right Shoulder (Deltoid),543,452
+553,436,Right Shoulder (Deltoid),547,408
+559,446,Right Shoulder (Deltoid),549,409
+557,450,Right Shoulder (Deltoid),552,404
+585,424,Right Shoulder (Deltoid),563,386
+572,368,Right Shoulder (Deltoid),562,411
+548,392,Right Shoulder (Deltoid),540,436
+541,397,Right Shoulder (Deltoid),544,424
+542,415,Right Shoulder (Deltoid),549,415
+524,446,Right Shoulder (Deltoid),547,417
+527,445,Right Shoulder (Deltoid),547,418
+521,442,Right Shoulder (Deltoid),546,442
+523,444,Right Shoulder (Deltoid),544,465
+523,445,Right Shoulder (Deltoid),543,476
+526,460,Right Shoulder (Deltoid),546,477
+530,471,Right Shoulder (Deltoid),545,475
+532,467,Right Shoulder (Deltoid),558,474
+526,470,Right Shoulder (Deltoid),574,470
+524,472,Right Shoulder (Deltoid),570,467
+533,474,Right Shoulder (Deltoid),554,460
+534,475,Right Shoulder (Deltoid),560,450
+535,476,Right Shoulder (Deltoid),556,441
+536,478,Right Shoulder (Deltoid),547,437
+535,478,Right Shoulder (Deltoid),552,436
+537,479,Right Shoulder (Deltoid),560,435
+542,473,Right Shoulder (Deltoid),536,436
+541,474,Right Shoulder (Deltoid),519,437
+541,475,Right Shoulder (Deltoid),520,431
+505,447,Right Shoulder (Deltoid),514,425
+508,447,Right Shoulder (Deltoid),514,426
+522,454,Right Shoulder (Deltoid),512,431
+502,446,Right Shoulder (Deltoid),512,431
+505,446,Right Shoulder (Deltoid),508,432
+486,445,Right Shoulder (Deltoid),503,432
+509,460,Right Shoulder (Deltoid),518,435
+498,457,Right Shoulder (Deltoid),522,417
+479,512,Right Bicep,484,540
+478,535,Right Bicep,485,544
+499,574,Right Bicep,480,551
+709,476,Right Shoulder (Deltoid),698,440
+719,578,Right Bicep,695,598
+328,324,Left Trapezius,335,324
+319,353,Chest (Pectorals),344,372
+311,361,Chest (Pectorals),341,372
+324,356,Chest (Pectorals),335,371
+327,352,Chest (Pectorals),325,370
+325,361,Chest (Pectorals),322,369
+323,364,Chest (Pectorals),323,369
+321,368,Chest (Pectorals),323,372
+323,373,Chest (Pectorals),324,369
+321,371,Chest (Pectorals),327,363
+325,370,Chest (Pectorals),329,361
+322,371,Chest (Pectorals),330,361
+329,370,Chest (Pectorals),329,359
+326,372,Chest (Pectorals),330,357
+332,371,Chest (Pectorals),333,357
+333,371,Chest (Pectorals),338,357
+336,373,Chest (Pectorals),341,360
+335,375,Chest (Pectorals),342,361
+337,376,Chest (Pectorals),337,361
+337,376,Chest (Pectorals),335,361
+336,375,Chest (Pectorals),337,362
+339,376,Chest (Pectorals),347,364
+339,376,Chest (Pectorals),348,363
+339,376,Chest (Pectorals),347,363
+337,376,Chest (Pectorals),355,366
+337,377,Chest (Pectorals),356,367
+338,377,Chest (Pectorals),354,370
+337,379,Chest (Pectorals),353,372
+337,379,Chest (Pectorals),350,371
+336,379,Chest (Pectorals),346,372
+333,381,Chest (Pectorals),345,372
+333,381,Chest (Pectorals),345,372
+331,382,Chest (Pectorals),351,376
+331,382,Chest (Pectorals),351,376
+335,383,Chest (Pectorals),370,374
+335,380,Chest (Pectorals),378,375
+335,380,Chest (Pectorals),379,381
+334,379,Chest (Pectorals),376,383
+326,381,Chest (Pectorals),375,381
+327,381,Chest (Pectorals),354,378
+325,380,Chest (Pectorals),366,364
+322,379,Chest (Pectorals),359,360
+321,379,Chest (Pectorals),357,361
+318,379,Chest (Pectorals),341,364
+318,379,Chest (Pectorals),331,365
+314,379,Chest (Pectorals),332,366
+313,378,Chest (Pectorals),331,367
+312,377,Chest (Pectorals),337,367
+308,377,Chest (Pectorals),328,356
+310,375,Chest (Pectorals),330,355
+315,371,Chest (Pectorals),337,358
+315,365,Chest (Pectorals),334,356
+312,364,Chest (Pectorals),329,356
+327,378,Chest (Pectorals),322,362
+329,380,Chest (Pectorals),321,365
+321,404,Chest (Pectorals),308,368
+295,477,Left Bicep,324,509
+299,476,Left Bicep,327,490
+307,474,Left Bicep,318,489
+309,476,Left Bicep,321,483
+313,477,Left Bicep,328,493
+319,478,Left Bicep,346,487
+317,469,Left Bicep,366,460
+316,477,Left Bicep,363,461
+317,478,Left Bicep,353,463
+322,479,Left Bicep,347,464
+321,495,Left Bicep,344,488
+321,502,Left Bicep,344,496
+321,504,Left Bicep,347,498
+323,506,Left Bicep,350,500
+324,506,Left Bicep,351,503
+325,506,Left Bicep,352,503
+325,506,Left Bicep,351,503
+326,507,Left Bicep,352,505
+327,508,Left Bicep,353,507
+327,509,Left Bicep,352,507
+326,509,Left Bicep,353,508
+324,508,Left Bicep,352,510
+318,504,Left Bicep,360,508
+307,508,Left Bicep,345,477
+306,515,Left Bicep,342,486
+806,525,Left Bicep,819,537
+782,482,Left Shoulder (Deltoid),761,443
+758,510,Left Bicep,805,527
+710,497,Left Bicep,737,530
+731,483,Left Bicep,772,511
+733,485,Left Bicep,771,509
+732,496,Left Bicep,763,514
+724,500,Left Bicep,755,518
+722,500,Left Bicep,747,519
+721,497,Left Bicep,742,520
+721,496,Left Bicep,740,519
+720,496,Left Bicep,732,513
+721,498,Left Bicep,753,511
+721,510,Left Bicep,749,513
+723,511,Left Bicep,746,515
+677,531,Left Bicep,718,535
+359,515,Right Bicep,338,538
+372,502,Right Bicep,350,525
+375,498,Right Bicep,351,517
+379,494,Right Bicep,354,517
+380,493,Right Bicep,359,514
+381,491,Right Bicep,364,509
+383,492,Right Bicep,361,506
+384,492,Right Bicep,369,510
+386,495,Right Bicep,385,513
+384,501,Right Bicep,378,515
+381,506,Right Bicep,378,524
+385,513,Right Bicep,373,526
+382,545,Right Bicep,379,555
+388,562,Right Bicep,383,565
+420,607,Right Bicep,406,567
+409,611,Right Bicep,414,566
+419,599,Right Bicep,443,566
+418,596,Right Bicep,436,567
+414,591,Right Bicep,449,564
+417,575,Right Bicep,441,564
+424,576,Right Bicep,437,566
+462,592,Right Bicep,424,571
+819,579,Left Shoulder (Deltoid),849,596
+823,571,Left Shoulder (Deltoid),850,596
+833,558,Left Shoulder (Deltoid),851,597
+843,558,Left Shoulder (Deltoid),856,597
+842,558,Left Shoulder (Deltoid),854,597
+853,554,Left Shoulder (Deltoid),853,597
+559,509,Left Trapezius,535,484
+582,501,Left Trapezius,538,480
+897,680,Left Bicep,887,715
+882,640,Left Bicep,879,674
+868,582,Left Bicep,876,609
+852,575,Left Shoulder (Deltoid),833,555
+857,578,Left Bicep,850,607
+857,587,Left Bicep,856,582
+856,589,Left Bicep,872,592
+852,599,Left Bicep,880,603
+843,611,Left Bicep,882,599
+856,611,Left Bicep,889,603
+850,658,Left Bicep,895,648
+671,628,Chest (Pectorals),690,595
+525,612,Right Bicep,531,648
+534,596,Right Bicep,519,623
+536,586,Right Bicep,508,606
+537,586,Right Bicep,509,611
+538,581,Right Shoulder (Deltoid),557,548
+535,582,Right Bicep,517,615
+525,588,Right Bicep,512,612
+522,590,Right Bicep,500,603
+529,594,Right Bicep,496,602
+510,621,Right Bicep,488,613
+511,630,Right Bicep,477,616
+855,636,Left Shoulder (Deltoid),875,603
+852,627,Left Shoulder (Deltoid),855,602
+849,619,Left Bicep,856,620
+850,617,Left Bicep,857,626
+848,620,Left Bicep,854,622
+858,621,Left Bicep,867,621
+855,621,Left Bicep,864,622
+856,621,Left Bicep,869,625
+856,619,Left Bicep,882,621
+854,620,Left Shoulder (Deltoid),852,577
+550,602,Right Shoulder (Deltoid),526,584
+675,640,Chest (Pectorals),679,598
+662,606,Chest (Pectorals),674,593
+657,598,Chest (Pectorals),655,593
+657,598,Chest (Pectorals),654,593
+657,600,Chest (Pectorals),650,592
+655,601,Chest (Pectorals),647,592
+657,600,Chest (Pectorals),642,592
+656,599,Chest (Pectorals),643,593
+655,599,Chest (Pectorals),646,594
+656,598,Chest (Pectorals),648,594
+686,578,Chest (Pectorals),648,587
+537,271,Chest (Pectorals),523,227
+538,252,Chest (Pectorals),517,218
+538,249,Chest (Pectorals),515,213
+528,239,Chest (Pectorals),507,220
+529,223,Chest (Pectorals),506,219
+517,236,Chest (Pectorals),506,219
+516,228,Chest (Pectorals),506,217
+515,225,Chest (Pectorals),505,217
+515,227,Chest (Pectorals),505,217
+511,229,Chest (Pectorals),504,216
+517,223,Chest (Pectorals),504,217
+514,227,Chest (Pectorals),503,217
+514,226,Chest (Pectorals),503,217
+511,231,Chest (Pectorals),503,217
+507,235,Chest (Pectorals),503,217
+511,230,Chest (Pectorals),503,217
+511,229,Chest (Pectorals),503,217
+510,231,Chest (Pectorals),504,217
+508,232,Chest (Pectorals),506,217
+507,235,Chest (Pectorals),506,217
+503,242,Chest (Pectorals),506,216
+509,235,Chest (Pectorals),505,215
+509,241,Chest (Pectorals),506,215
+511,235,Chest (Pectorals),506,215
+512,237,Chest (Pectorals),507,215
+514,235,Chest (Pectorals),509,216
+518,233,Chest (Pectorals),509,219
+517,235,Chest (Pectorals),509,220
+518,232,Chest (Pectorals),509,222
+521,229,Chest (Pectorals),509,222
+519,231,Chest (Pectorals),508,222
+521,230,Chest (Pectorals),508,222
+522,228,Chest (Pectorals),508,222
+518,233,Chest (Pectorals),508,222
+519,232,Chest (Pectorals),508,223
+519,231,Chest (Pectorals),508,224
+519,231,Chest (Pectorals),507,224
+518,231,Chest (Pectorals),506,224
+517,234,Chest (Pectorals),506,224
+517,232,Chest (Pectorals),506,224
+518,231,Chest (Pectorals),506,224
+517,232,Chest (Pectorals),506,224
+519,229,Chest (Pectorals),506,224
+512,236,Chest (Pectorals),505,227
+507,238,Chest (Pectorals),502,228
+599,260,Left Shoulder (Deltoid),599,242
+608,258,Left Shoulder (Deltoid),584,238
+613,240,Left Bicep,631,253
+612,235,Left Bicep,634,251
+617,233,Left Bicep,636,247
+620,235,Left Bicep,633,249
+616,242,Left Bicep,623,247
+611,245,Left Bicep,623,250
+608,246,Left Bicep,621,252
+602,248,Left Bicep,615,252
+600,248,Left Bicep,611,252
+597,248,Left Bicep,602,253
+595,247,Left Bicep,600,248
+594,247,Left Bicep,596,247
+594,246,Left Bicep,588,246
+594,246,Left Bicep,588,243
+594,246,Left Bicep,589,241
+597,248,Left Bicep,587,241
+598,250,Left Bicep,587,242
+598,250,Left Bicep,588,240
+600,251,Left Bicep,594,240
+600,251,Left Bicep,600,239
+604,250,Left Bicep,599,237
+604,250,Left Bicep,596,236
+604,248,Left Bicep,596,235
+605,247,Left Bicep,595,234
+608,249,Left Bicep,593,232
+609,251,Left Bicep,593,233
+616,255,Left Bicep,593,236
+617,255,Left Bicep,601,238
+627,257,Left Bicep,623,240
+636,259,Left Bicep,617,242
+649,262,Left Tricep,622,299
+669,268,Left Bicep,629,266
+672,270,Left Bicep,645,271
+676,269,Left Bicep,667,270
+686,271,Left Bicep,670,269
+688,274,Left Bicep,688,270
+692,274,Left Bicep,681,270
+694,275,Left Bicep,672,270
+694,275,Left Bicep,655,268
+696,273,Left Tricep,690,318
+696,272,Left Bicep,669,268
+695,270,Left Bicep,669,266
+693,269,Left Bicep,685,266
+694,269,Left Bicep,685,266
+692,272,Left Bicep,689,267
+692,273,Left Bicep,691,267
+691,280,Left Bicep,691,274
+688,284,Left Bicep,694,279
+681,296,Left Bicep,694,287
+659,349,Left Bicep,674,308
+656,394,Left Tricep,670,426
+565,302,Left Bicep,599,327
+562,295,Left Bicep,602,317
+564,296,Left Bicep,600,312
+561,296,Left Bicep,595,304
+561,297,Left Bicep,591,298
+548,299,Left Bicep,589,293
+546,299,Left Bicep,583,290
+540,302,Left Bicep,577,289
+538,304,Left Bicep,577,284
+530,310,Left Bicep,568,285
+525,312,Left Bicep,563,286
+521,314,Left Bicep,558,286
+521,322,Left Bicep,555,287
+489,235,Left Shoulder (Deltoid),501,187
+489,231,Left Shoulder (Deltoid),496,187
+595,181,Left Shoulder (Deltoid),565,200
+602,185,Left Shoulder (Deltoid),565,201
+601,177,Left Shoulder (Deltoid),571,203
+603,182,Left Shoulder (Deltoid),571,203
+604,184,Left Shoulder (Deltoid),572,204
+604,185,Left Shoulder (Deltoid),571,204
+602,184,Left Shoulder (Deltoid),571,204
+602,183,Left Shoulder (Deltoid),571,204
+603,183,Left Shoulder (Deltoid),569,202
+603,182,Left Shoulder (Deltoid),569,202
+604,180,Left Shoulder (Deltoid),569,202
+607,178,Left Shoulder (Deltoid),569,202
+611,174,Left Shoulder (Deltoid),570,202
+616,171,Left Shoulder (Deltoid),580,200
+629,166,Left Shoulder (Deltoid),594,200
+636,167,Left Shoulder (Deltoid),602,199
+644,164,Left Shoulder (Deltoid),612,198
+655,163,Left Shoulder (Deltoid),621,196
+657,162,Left Shoulder (Deltoid),625,191
+654,167,Left Shoulder (Deltoid),623,188
+654,165,Left Shoulder (Deltoid),622,188
+657,166,Left Shoulder (Deltoid),627,188
+659,172,Left Shoulder (Deltoid),629,189
+659,188,Left Shoulder (Deltoid),634,189
+663,188,Left Shoulder (Deltoid),634,190
+672,194,Left Shoulder (Deltoid),643,191
+682,196,Left Shoulder (Deltoid),650,198
+681,198,Left Shoulder (Deltoid),659,199
+675,203,Left Shoulder (Deltoid),657,202
+670,202,Left Shoulder (Deltoid),654,211
+669,201,Left Shoulder (Deltoid),648,235
+673,169,Left Shoulder (Deltoid),636,179
+676,169,Left Shoulder (Deltoid),631,173
+699,180,Left Shoulder (Deltoid),651,182
+705,183,Left Shoulder (Deltoid),669,185
+708,186,Left Shoulder (Deltoid),671,187
+709,187,Left Shoulder (Deltoid),669,187
+709,192,Left Shoulder (Deltoid),667,189
+710,193,Left Shoulder (Deltoid),665,189
+709,194,Left Shoulder (Deltoid),665,190
+707,194,Left Shoulder (Deltoid),664,193
+711,196,Left Shoulder (Deltoid),672,193
+712,200,Left Shoulder (Deltoid),685,193
+719,207,Left Shoulder (Deltoid),692,196
+652,419,Left Bicep,680,414
+477,137,Right Trapezius,493,176
+456,123,Right Trapezius,471,166
+612,465,Right Bicep,656,482
+610,463,Right Bicep,652,488
+600,433,Right Bicep,638,462
+601,434,Right Bicep,634,462
+601,434,Right Bicep,630,462
+603,443,Right Bicep,630,466
+604,448,Right Bicep,631,473
+605,454,Right Bicep,632,477
+605,457,Right Bicep,633,479
+606,457,Right Bicep,634,480
+607,457,Right Bicep,634,482
+605,457,Right Bicep,636,484
+607,458,Right Bicep,637,484
+610,463,Right Bicep,638,487
+607,463,Right Bicep,639,489
+609,464,Right Bicep,639,491
+609,469,Right Bicep,640,492
+610,473,Right Bicep,639,494
+610,472,Right Bicep,639,496
+609,473,Right Bicep,639,498
+609,474,Right Bicep,639,499
+608,475,Right Bicep,639,500
+609,475,Right Bicep,639,502
+610,476,Right Bicep,640,503
+609,477,Right Bicep,639,504
+610,476,Right Bicep,639,505
+610,477,Right Bicep,639,505
+610,478,Right Bicep,639,505
+611,481,Right Bicep,639,505
+608,478,Right Bicep,639,505
+609,481,Right Bicep,639,505
+609,481,Right Bicep,639,504
+608,481,Right Bicep,639,505
+608,479,Right Bicep,639,505
+609,480,Right Bicep,640,505
+609,481,Right Bicep,640,504
+606,482,Right Bicep,640,504
+609,483,Right Bicep,640,505
+608,483,Right Bicep,640,507
+609,484,Right Bicep,640,507
+609,485,Right Bicep,640,508
+610,485,Right Bicep,639,508
+609,484,Right Bicep,638,507
+609,483,Right Bicep,637,506
+609,482,Right Bicep,637,505
+613,483,Right Bicep,638,505
+612,485,Right Bicep,638,505
+619,491,Right Bicep,638,506
+630,517,Right Bicep,642,522
+630,575,Right Bicep,652,548
+782,646,Right Bicep,747,652
+761,646,Right Bicep,732,650
+746,670,Right Bicep,734,645
+735,682,Right Bicep,733,642
+705,666,Right Bicep,738,640
+900,512,Right Shoulder (Deltoid),893,506
+922,499,Right Shoulder (Deltoid),900,490
+955,339,Left Trapezius,973,382
+956,339,Left Trapezius,974,383
+995,345,Left Trapezius,974,384
+993,339,Left Trapezius,973,384
+1001,366,Left Trapezius,976,382
+1011,353,Left Trapezius,979,384
+1038,410,Left Trapezius,1002,416
+992,388,Left Trapezius,991,408
+997,398,Left Trapezius,992,407
+1019,416,Left Trapezius,992,407
+1031,416,Left Trapezius,995,408
+1035,418,Left Trapezius,1001,408
+1040,423,Left Trapezius,1007,411
+1046,425,Left Trapezius,1010,413
+1015,405,Left Trapezius,1012,413
+648,627,Right Bicep,620,612
+587,502,Right Shoulder (Deltoid),612,521
+753,530,Right Bicep,743,483
+634,577,Chest (Pectorals),674,606
+631,578,Chest (Pectorals),672,606
+630,578,Chest (Pectorals),671,605
+633,580,Chest (Pectorals),670,605
+634,583,Chest (Pectorals),669,605
+638,582,Chest (Pectorals),668,606
+636,580,Chest (Pectorals),668,607
+635,578,Chest (Pectorals),669,607
+636,577,Chest (Pectorals),670,607
+636,579,Chest (Pectorals),670,607
+638,578,Chest (Pectorals),670,608
+638,579,Chest (Pectorals),670,608
+637,577,Chest (Pectorals),670,608
+636,579,Chest (Pectorals),670,609
+646,584,Chest (Pectorals),670,609
+655,588,Chest (Pectorals),671,609
+671,595,Chest (Pectorals),672,609
+678,599,Chest (Pectorals),672,610
+686,599,Chest (Pectorals),672,609
+689,606,Chest (Pectorals),672,609
+692,606,Chest (Pectorals),673,609
+688,607,Chest (Pectorals),673,608
+688,606,Chest (Pectorals),673,607
+694,606,Chest (Pectorals),673,607
+710,597,Chest (Pectorals),674,607
+681,585,Chest (Pectorals),675,605
+674,559,Chest (Pectorals),675,606
+678,528,Left Trapezius,675,488
+667,527,Left Trapezius,675,487
+662,524,Left Trapezius,676,486
+670,505,Left Trapezius,675,484
+665,516,Left Trapezius,676,484
+673,506,Left Trapezius,676,483
+667,523,Left Trapezius,676,482
+664,528,Left Trapezius,675,482
+674,524,Left Trapezius,674,482
+672,525,Left Trapezius,674,482
+676,522,Left Trapezius,674,482
+671,528,Left Trapezius,673,482
+670,531,Left Trapezius,673,482
+677,532,Left Trapezius,672,484
+681,558,Chest (Pectorals),673,600
+695,556,Chest (Pectorals),669,595
+674,522,Left Trapezius,668,479
+693,563,Chest (Pectorals),678,602
+677,576,Chest (Pectorals),678,602
+689,600,Chest (Pectorals),677,605
+700,612,Chest (Pectorals),675,605
+712,610,Chest (Pectorals),674,605
+695,602,Chest (Pectorals),673,606
+700,599,Chest (Pectorals),673,606
+693,601,Chest (Pectorals),674,606
+701,603,Chest (Pectorals),673,606
+709,605,Chest (Pectorals),673,606
+700,605,Chest (Pectorals),673,606
+702,606,Chest (Pectorals),673,606
+699,604,Chest (Pectorals),673,606
+708,601,Chest (Pectorals),673,606
+705,604,Chest (Pectorals),673,606
+699,606,Chest (Pectorals),673,605
+701,598,Chest (Pectorals),673,605
+701,606,Chest (Pectorals),673,605
+711,610,Chest (Pectorals),673,605
+715,604,Chest (Pectorals),673,601
+711,600,Chest (Pectorals),673,598
+790,327,Left Shoulder (Deltoid),780,314
+782,305,Left Shoulder (Deltoid),757,316
+756,281,Left Shoulder (Deltoid),741,311
+745,260,Left Shoulder (Deltoid),729,306
+746,262,Left Shoulder (Deltoid),728,302
+748,267,Left Shoulder (Deltoid),729,298
+746,272,Left Shoulder (Deltoid),732,297
+742,276,Left Shoulder (Deltoid),734,297
+740,278,Left Shoulder (Deltoid),735,298
+723,310,Left Shoulder (Deltoid),734,299
+516,333,Right Shoulder (Deltoid),502,320
+512,321,Right Shoulder (Deltoid),502,320
+488,324,Right Shoulder (Deltoid),502,320
+464,307,Right Shoulder (Deltoid),499,320
+455,304,Right Shoulder (Deltoid),495,322
+455,305,Right Shoulder (Deltoid),495,322
+456,305,Right Shoulder (Deltoid),493,322
+456,305,Right Shoulder (Deltoid),492,322
+455,305,Right Shoulder (Deltoid),492,322
+455,305,Right Shoulder (Deltoid),491,322
+455,304,Right Shoulder (Deltoid),491,323
+455,305,Right Shoulder (Deltoid),491,323
+455,306,Right Shoulder (Deltoid),491,323
+465,321,Right Shoulder (Deltoid),491,324
+485,375,Right Shoulder (Deltoid),492,326
+735,346,Left Shoulder (Deltoid),732,303
+593,278,Right Trapezius,619,256
+628,289,Chest (Pectorals),618,311
+623,256,Right Trapezius,618,256
+621,254,Right Trapezius,618,257
+622,254,Right Trapezius,618,259
+622,255,Right Trapezius,617,259
+623,255,Right Trapezius,617,260
+623,256,Right Trapezius,617,260
+624,256,Right Trapezius,617,260
+624,256,Right Trapezius,617,261
+624,255,Left Trapezius,618,250
+623,255,Left Trapezius,618,250
+623,252,Left Trapezius,618,250
+622,251,Left Trapezius,618,250
+623,250,Left Trapezius,618,250
+620,249,Left Trapezius,617,250
+621,248,Left Trapezius,617,250
+620,250,Left Trapezius,617,250
+621,252,Left Trapezius,617,250
+623,250,Left Trapezius,617,251
+624,253,Left Trapezius,617,251
+627,253,Left Trapezius,617,251
+651,270,Right Trapezius,617,260
+653,279,Right Trapezius,617,260
+650,295,Chest (Pectorals),617,319
+652,301,Chest (Pectorals),617,320
+654,312,Chest (Pectorals),618,320
+652,313,Chest (Pectorals),618,320
+652,314,Chest (Pectorals),619,320
+654,315,Chest (Pectorals),619,321
+657,316,Chest (Pectorals),619,321
+652,350,Chest (Pectorals),619,321
+737,349,Left Shoulder (Deltoid),727,313
+726,360,Left Bicep,752,398
+727,347,Left Shoulder (Deltoid),730,315
+703,358,Left Shoulder (Deltoid),730,316
+736,334,Left Shoulder (Deltoid),729,316
+735,334,Left Shoulder (Deltoid),729,318
+733,337,Left Shoulder (Deltoid),729,317
+735,336,Left Shoulder (Deltoid),728,317
+719,343,Left Shoulder (Deltoid),728,317
+728,333,Left Shoulder (Deltoid),728,318
+703,350,Left Shoulder (Deltoid),727,319
+731,327,Left Shoulder (Deltoid),727,320
+733,328,Left Shoulder (Deltoid),727,320
+709,352,Left Shoulder (Deltoid),727,321
+729,331,Left Shoulder (Deltoid),726,321
+707,357,Left Shoulder (Deltoid),724,320
+724,356,Left Shoulder (Deltoid),724,318
+706,374,Left Bicep,747,399
+702,387,Left Bicep,748,397
+710,400,Left Bicep,749,395
+726,390,Left Bicep,750,394
+741,380,Left Bicep,750,394
+738,380,Left Bicep,750,394
+741,374,Left Bicep,752,394
+739,375,Left Bicep,753,394
+737,374,Left Bicep,753,394
+741,373,Left Bicep,754,394
+716,389,Left Bicep,754,394
+738,369,Left Bicep,754,394
+739,371,Left Bicep,754,394
+738,372,Left Bicep,755,394
+729,378,Left Bicep,754,394
+740,372,Left Bicep,754,393
+738,372,Left Bicep,754,393
+778,389,Left Bicep,748,391
+776,370,Left Bicep,746,387
+770,345,Left Bicep,746,386
+770,350,Left Bicep,744,386
+771,351,Left Bicep,745,386
+770,353,Left Bicep,745,386
+769,351,Left Bicep,745,386
+769,347,Left Bicep,742,387
+768,346,Left Bicep,741,388
+766,345,Left Bicep,741,387
+756,354,Left Bicep,746,387
+740,361,Left Bicep,751,386
+720,373,Left Bicep,751,384
+723,372,Left Bicep,754,384
+726,371,Left Bicep,755,382
+724,370,Left Bicep,755,382
+723,371,Left Bicep,756,382
+725,371,Left Bicep,756,382
+730,371,Left Bicep,755,382
+737,370,Left Bicep,755,381
+767,378,Left Bicep,740,380
+776,384,Left Bicep,738,380
+782,390,Left Bicep,740,381
+783,388,Left Bicep,740,381
+779,382,Left Bicep,740,381
+778,381,Left Bicep,739,379
+782,380,Left Bicep,739,379
+778,379,Left Bicep,740,379
+754,368,Left Bicep,740,375
+756,359,Left Bicep,740,374
+749,340,Left Bicep,739,374
+742,330,Left Shoulder (Deltoid),723,298
+743,323,Left Shoulder (Deltoid),722,299
+716,314,Left Shoulder (Deltoid),723,303
+723,287,Left Shoulder (Deltoid),724,303
+717,278,Left Shoulder (Deltoid),724,303
+714,276,Left Shoulder (Deltoid),725,303
+713,273,Left Shoulder (Deltoid),725,303
+709,273,Left Shoulder (Deltoid),723,302
+709,273,Left Shoulder (Deltoid),720,301
+713,270,Left Shoulder (Deltoid),713,301
+712,256,Left Shoulder (Deltoid),708,301
+700,262,Left Shoulder (Deltoid),707,301
+707,282,Left Shoulder (Deltoid),710,301
+690,303,Left Shoulder (Deltoid),711,301
+603,208,Left Trapezius,616,251
+608,209,Left Trapezius,615,251
+610,221,Left Trapezius,613,249
+612,227,Left Trapezius,612,244
+601,257,Right Trapezius,609,264
+599,264,Right Trapezius,607,264
+600,267,Right Trapezius,606,264
+600,265,Right Trapezius,605,264
+600,265,Right Trapezius,604,264
+600,266,Right Trapezius,602,264
+621,286,Right Trapezius,601,264
+722,351,Left Shoulder (Deltoid),714,309
+716,348,Left Shoulder (Deltoid),713,309
+719,344,Left Shoulder (Deltoid),713,310
+722,334,Left Shoulder (Deltoid),711,310
+722,339,Left Shoulder (Deltoid),711,311
+742,312,Left Shoulder (Deltoid),703,302
+747,307,Left Shoulder (Deltoid),703,304
+747,310,Left Shoulder (Deltoid),704,304
+748,307,Left Shoulder (Deltoid),704,304
+748,309,Left Shoulder (Deltoid),704,304
+748,309,Left Shoulder (Deltoid),704,304
+747,309,Left Shoulder (Deltoid),704,304
+747,316,Left Shoulder (Deltoid),704,303
+747,317,Left Shoulder (Deltoid),704,302
+755,351,Left Bicep,731,384
+752,366,Left Bicep,731,380
+753,383,Left Bicep,736,379
+722,414,Left Bicep,738,378
+729,379,Left Bicep,736,381
+728,372,Left Bicep,733,381
+741,355,Left Bicep,730,383
+743,358,Left Bicep,727,383
+742,357,Left Bicep,726,384
+733,355,Left Bicep,729,384
+732,356,Left Bicep,729,385
+729,357,Left Bicep,727,388
+725,365,Left Bicep,725,389
+729,360,Left Bicep,726,389
+728,359,Left Bicep,726,390
+731,357,Left Bicep,725,390
+733,359,Left Bicep,724,390
+733,359,Left Bicep,722,389
+735,357,Left Bicep,723,389
+739,359,Left Bicep,722,389
+738,399,Left Bicep,719,385
+653,229,Left Trapezius,613,247
+585,332,Chest (Pectorals),548,316
+536,315,Chest (Pectorals),578,310
+698,184,Left Trapezius,664,220
+624,217,Left Trapezius,663,219
+619,265,Chest (Pectorals),664,276
+584,260,Right Shoulder (Deltoid),547,280
+574,251,Right Shoulder (Deltoid),547,280
+572,254,Right Shoulder (Deltoid),548,280
+575,253,Right Shoulder (Deltoid),548,280
+576,252,Right Shoulder (Deltoid),547,280
+576,251,Right Shoulder (Deltoid),547,280
+576,253,Right Shoulder (Deltoid),547,280
+577,257,Right Shoulder (Deltoid),547,280
+577,258,Right Shoulder (Deltoid),547,280
+571,266,Right Shoulder (Deltoid),547,279
+571,265,Right Shoulder (Deltoid),547,279
+574,263,Right Shoulder (Deltoid),547,279
+583,258,Right Shoulder (Deltoid),547,279
+584,259,Right Shoulder (Deltoid),547,279
+585,261,Right Shoulder (Deltoid),547,279
+583,259,Right Shoulder (Deltoid),547,279
+572,265,Right Shoulder (Deltoid),548,279
+569,266,Right Shoulder (Deltoid),548,279
+562,265,Right Shoulder (Deltoid),548,278
+562,267,Right Shoulder (Deltoid),548,278
+561,269,Right Shoulder (Deltoid),548,278
+559,270,Right Shoulder (Deltoid),548,279
+559,270,Right Shoulder (Deltoid),548,279
+559,270,Right Shoulder (Deltoid),548,279
+561,269,Right Shoulder (Deltoid),548,279
+564,266,Right Shoulder (Deltoid),548,278
+564,266,Right Shoulder (Deltoid),547,278
+563,260,Right Shoulder (Deltoid),547,279
+564,258,Right Shoulder (Deltoid),546,279
+560,262,Right Shoulder (Deltoid),546,279
+558,262,Right Shoulder (Deltoid),546,279
+556,267,Right Shoulder (Deltoid),546,279
+564,268,Right Shoulder (Deltoid),545,279
+563,272,Right Shoulder (Deltoid),545,280
+585,288,Right Shoulder (Deltoid),545,280
+630,261,Chest (Pectorals),668,275
+642,252,Chest (Pectorals),668,275
+671,258,Chest (Pectorals),668,276
+687,261,Chest (Pectorals),667,276
+747,265,Left Shoulder (Deltoid),791,272
+694,259,Chest (Pectorals),667,282
+663,261,Chest (Pectorals),665,281
+655,261,Chest (Pectorals),665,280
+636,266,Chest (Pectorals),666,276
+638,268,Chest (Pectorals),667,276
+642,271,Chest (Pectorals),667,275
+630,268,Chest (Pectorals),668,274
+631,270,Chest (Pectorals),669,273
+632,270,Chest (Pectorals),669,272
+634,271,Chest (Pectorals),669,270
+640,271,Chest (Pectorals),669,270
+640,270,Chest (Pectorals),670,269
+650,263,Chest (Pectorals),671,270
+671,256,Chest (Pectorals),670,270
+704,221,Right Trapezius,667,221
+704,219,Right Trapezius,667,222
+710,226,Right Trapezius,667,222
+706,222,Right Trapezius,667,222
+704,226,Right Trapezius,667,222
+705,224,Right Trapezius,667,222
+706,225,Right Trapezius,666,222
+705,226,Right Trapezius,666,223
+677,222,Right Trapezius,665,222
+679,235,Right Trapezius,666,222
+643,232,Right Trapezius,670,222
+646,234,Right Trapezius,671,222
+647,238,Right Trapezius,673,221
+637,236,Right Trapezius,675,220
+643,239,Right Trapezius,675,220
+642,241,Right Trapezius,676,220
+646,240,Right Trapezius,675,220
+645,238,Right Trapezius,675,220
+642,241,Right Trapezius,675,220
+640,238,Right Trapezius,675,220
+641,242,Right Trapezius,675,220
+637,242,Right Trapezius,675,220
+635,245,Chest (Pectorals),674,266
+637,245,Chest (Pectorals),674,266
+636,245,Chest (Pectorals),673,266
+630,251,Chest (Pectorals),673,266
+632,250,Chest (Pectorals),673,267
+636,251,Chest (Pectorals),673,268
+626,252,Chest (Pectorals),673,268
+629,249,Chest (Pectorals),674,268
+641,252,Chest (Pectorals),674,268
+627,251,Chest (Pectorals),674,267
+632,253,Chest (Pectorals),674,267
+645,255,Chest (Pectorals),674,266
+639,249,Chest (Pectorals),674,266
+643,247,Chest (Pectorals),674,266
+658,242,Right Trapezius,674,220
+659,240,Right Trapezius,674,220
+659,244,Chest (Pectorals),674,267
+649,231,Right Trapezius,674,220
+659,239,Right Trapezius,674,220
+653,239,Right Trapezius,674,220
+654,238,Right Trapezius,674,220
+652,236,Right Trapezius,673,220
+657,239,Right Trapezius,673,220
+653,239,Right Trapezius,673,220
+659,236,Right Trapezius,672,220
+660,238,Right Trapezius,672,220
+658,236,Right Trapezius,672,220
+659,237,Right Trapezius,672,220
+659,236,Right Trapezius,672,220
+662,236,Right Trapezius,672,220
+662,238,Right Trapezius,672,220
+661,238,Right Trapezius,672,220
+659,238,Right Trapezius,672,220
+662,240,Right Trapezius,672,221
+661,241,Right Trapezius,672,221
+662,241,Right Trapezius,672,221
+662,241,Right Trapezius,672,221
+661,241,Right Trapezius,672,221
+661,241,Right Trapezius,672,221
+656,240,Right Trapezius,672,221
+662,224,Right Trapezius,672,221
+674,223,Right Trapezius,670,222
+682,214,Left Trapezius,667,209
+683,211,Left Trapezius,666,210
+683,214,Left Trapezius,665,211
+686,213,Left Trapezius,664,211
+689,214,Left Trapezius,664,211
+705,213,Left Trapezius,664,211
+709,217,Right Trapezius,664,223
+704,214,Left Trapezius,665,209
+705,212,Left Trapezius,665,209
+703,211,Left Trapezius,665,209
+704,211,Left Trapezius,665,209
+704,210,Left Trapezius,665,209
+703,212,Left Trapezius,665,209
+698,213,Left Trapezius,666,210
+689,216,Left Trapezius,666,212
+517,345,Right Bicep,498,366
+518,352,Right Bicep,500,366
+530,354,Right Bicep,500,366
+531,354,Right Bicep,500,366
+543,343,Right Bicep,499,366
+532,284,Right Shoulder (Deltoid),548,280
+533,286,Right Shoulder (Deltoid),548,280
+533,288,Right Shoulder (Deltoid),548,280
+536,288,Right Shoulder (Deltoid),548,280
+534,291,Right Shoulder (Deltoid),549,280
+537,294,Right Shoulder (Deltoid),550,279
+516,320,Right Bicep,517,359
+787,469,Left Trapezius,767,463
+795,466,Right Trapezius,761,464
+799,464,Right Trapezius,761,464
+798,460,Left Trapezius,762,463
+801,456,Left Trapezius,762,462
+801,455,Left Trapezius,762,462
+799,449,Right Trapezius,763,461
+791,442,Right Trapezius,762,461
+780,453,Right Trapezius,741,458
+737,468,Left Trapezius,734,462
+756,490,Left Trapezius,733,462
+766,496,Left Trapezius,731,462
+762,494,Left Trapezius,726,462
+753,480,Left Trapezius,727,462
+732,452,Right Trapezius,730,446
+731,451,Right Trapezius,732,448
+732,452,Right Trapezius,734,448
+735,459,Left Trapezius,735,462
+733,460,Left Trapezius,735,463
+734,458,Left Trapezius,735,463
+734,461,Left Trapezius,736,464
+734,461,Left Trapezius,736,464
+734,461,Left Trapezius,736,464
+735,465,Left Trapezius,736,464
+735,467,Left Trapezius,737,464
+736,469,Left Trapezius,736,464
+733,471,Left Trapezius,735,464
+732,471,Left Trapezius,735,464
+730,473,Left Trapezius,736,464
+691,475,Left Trapezius,736,464
+714,505,Left Trapezius,733,463
+713,502,Left Trapezius,733,462
+714,503,Left Trapezius,734,462
+713,503,Left Trapezius,735,461
+725,524,Chest (Pectorals),740,567
+725,528,Chest (Pectorals),741,567
+725,526,Chest (Pectorals),742,567
+726,524,Chest (Pectorals),746,567
+726,524,Chest (Pectorals),747,567
+727,524,Chest (Pectorals),747,568
+727,524,Chest (Pectorals),747,567
+727,525,Chest (Pectorals),747,566
+728,523,Chest (Pectorals),747,565
+728,524,Chest (Pectorals),747,565
+727,524,Chest (Pectorals),747,564
+728,524,Chest (Pectorals),747,563
+728,525,Chest (Pectorals),747,563
+725,527,Chest (Pectorals),747,563
+727,530,Chest (Pectorals),746,564
+727,530,Chest (Pectorals),745,564
+728,530,Chest (Pectorals),745,564
+731,534,Chest (Pectorals),743,564
+736,538,Chest (Pectorals),742,564
+748,543,Chest (Pectorals),742,564
+898,571,Left Shoulder (Deltoid),929,573
+913,587,Left Shoulder (Deltoid),929,572
+933,604,Left Shoulder (Deltoid),928,572
+942,604,Left Shoulder (Deltoid),927,572
+944,600,Left Shoulder (Deltoid),927,572
+942,599,Left Shoulder (Deltoid),927,572
+940,596,Left Shoulder (Deltoid),927,572
+939,599,Left Shoulder (Deltoid),927,572
+943,603,Left Shoulder (Deltoid),927,572
+955,661,Left Bicep,997,683
+958,662,Left Bicep,991,672
+962,660,Left Bicep,991,698
+965,660,Left Bicep,990,673
+965,658,Left Bicep,990,659
+960,657,Left Bicep,989,657
+964,657,Left Bicep,987,656
+961,655,Left Bicep,992,683
+962,655,Left Bicep,989,663
+963,653,Left Bicep,988,657
+962,654,Left Bicep,987,655
+945,617,Left Bicep,972,656
+932,618,Left Shoulder (Deltoid),919,571
+931,548,Left Shoulder (Deltoid),919,562
+891,551,Left Shoulder (Deltoid),915,562
+905,543,Left Shoulder (Deltoid),914,563
+961,635,Left Bicep,979,613
+942,607,Left Bicep,972,614
+974,588,Left Bicep,970,622
+893,497,Left Shoulder (Deltoid),863,527
+855,489,Left Shoulder (Deltoid),866,525
+845,481,Left Shoulder (Deltoid),867,523
+844,479,Left Shoulder (Deltoid),867,523
+852,489,Left Shoulder (Deltoid),866,525
+861,498,Left Shoulder (Deltoid),861,524
+878,507,Left Shoulder (Deltoid),861,527
+882,507,Left Shoulder (Deltoid),861,528
+880,508,Left Shoulder (Deltoid),860,528
+866,524,Left Shoulder (Deltoid),861,529
+857,523,Left Shoulder (Deltoid),861,530
+881,510,Left Shoulder (Deltoid),861,529
+841,516,Left Shoulder (Deltoid),859,529
+847,520,Left Shoulder (Deltoid),854,529
+875,515,Left Shoulder (Deltoid),854,529
+891,518,Left Shoulder (Deltoid),856,536
+883,520,Left Shoulder (Deltoid),843,518
+871,524,Left Shoulder (Deltoid),843,519
+852,514,Left Shoulder (Deltoid),843,519
+846,513,Left Shoulder (Deltoid),843,519
+855,517,Left Shoulder (Deltoid),843,519
+854,517,Left Shoulder (Deltoid),843,518
+850,513,Left Shoulder (Deltoid),843,519
+853,512,Left Shoulder (Deltoid),843,520
+882,516,Left Shoulder (Deltoid),843,520
+873,519,Left Shoulder (Deltoid),843,519
+1008,627,Left Tricep,1000,662
+1015,636,Left Tricep,1000,663
+1018,659,Left Tricep,998,663
+1013,659,Left Tricep,997,664
+1020,655,Left Tricep,996,664
+1022,651,Left Tricep,996,664
+1012,653,Left Tricep,997,664
+1014,649,Left Tricep,999,665
+1017,645,Left Tricep,1000,665
+1017,642,Left Tricep,1000,665
+1010,637,Left Tricep,996,664
+1006,631,Left Tricep,996,663
+1006,631,Left Tricep,996,661
+1010,633,Left Tricep,996,659
+1007,633,Left Tricep,996,658
+1007,633,Left Tricep,996,657
+1010,631,Left Tricep,997,658
+1009,624,Left Tricep,999,658
+1015,615,Left Tricep,1007,663
+740,427,Left Trapezius,760,451
+531,563,Right Shoulder (Deltoid),574,545
+508,608,Right Bicep,534,650
+578,673,Right Bicep,540,644
+539,643,Right Bicep,542,641
+575,677,Right Bicep,541,642
+571,673,Right Bicep,541,642
+571,672,Right Bicep,542,641
+515,620,Right Bicep,541,640
+501,613,Right Bicep,541,640
+499,615,Right Bicep,540,640
+504,621,Right Bicep,540,637
+517,636,Right Bicep,539,637
+521,638,Right Bicep,540,630
+514,644,Right Bicep,539,636
+515,644,Right Bicep,538,638
+519,649,Right Bicep,537,638
+517,660,Right Bicep,536,644
+527,675,Right Bicep,537,638
+521,676,Right Bicep,537,638
+519,678,Right Bicep,536,639
+521,679,Right Bicep,536,641
+518,678,Right Bicep,539,641
+522,693,Right Tricep,496,734
+527,692,Right Bicep,525,660
+531,698,Right Bicep,518,666
+523,691,Right Bicep,523,660
+517,685,Right Bicep,525,656
+522,684,Right Bicep,527,655
+525,688,Right Bicep,527,656
+517,680,Right Bicep,515,665
+517,679,Right Bicep,516,664
+517,678,Right Bicep,518,663
+516,679,Right Bicep,519,661
+518,679,Right Bicep,519,659
+518,676,Right Bicep,521,654
+518,676,Right Bicep,521,654
+517,675,Right Bicep,522,654
+513,675,Right Bicep,522,654
+512,676,Right Bicep,523,649
+494,694,Right Bicep,526,660
+492,664,Right Bicep,537,649
+541,660,Right Bicep,533,656
+542,661,Right Bicep,532,658
+542,659,Right Bicep,531,660
+540,660,Right Bicep,531,662
+541,662,Right Bicep,530,662
+544,661,Right Bicep,530,662
+541,658,Right Bicep,530,662
+548,665,Right Bicep,530,662
+521,656,Right Bicep,530,663
+521,628,Right Bicep,529,660
+515,622,Right Bicep,529,658
+571,660,Right Bicep,530,658
+566,672,Right Bicep,533,658
+513,630,Right Bicep,533,657
+538,626,Right Bicep,542,656
+578,503,Right Shoulder (Deltoid),587,548
+588,522,Right Shoulder (Deltoid),587,548
+592,526,Right Shoulder (Deltoid),587,549
+593,528,Right Shoulder (Deltoid),587,550
+593,526,Right Shoulder (Deltoid),586,551
+594,521,Right Shoulder (Deltoid),586,551
+595,519,Right Shoulder (Deltoid),585,551
+597,519,Right Shoulder (Deltoid),584,551
+597,521,Right Shoulder (Deltoid),584,551
+614,524,Right Shoulder (Deltoid),583,551
+620,583,Right Shoulder (Deltoid),589,552
+620,579,Right Shoulder (Deltoid),590,550
+617,574,Right Shoulder (Deltoid),591,550
+621,560,Right Shoulder (Deltoid),592,550
+625,559,Right Shoulder (Deltoid),592,550
+630,561,Right Shoulder (Deltoid),593,550
+629,564,Right Shoulder (Deltoid),593,550
+626,567,Right Shoulder (Deltoid),595,550
+609,581,Right Shoulder (Deltoid),596,549
+605,594,Right Shoulder (Deltoid),596,549
+585,596,Right Shoulder (Deltoid),597,549
+590,596,Right Shoulder (Deltoid),597,549
+592,594,Right Shoulder (Deltoid),597,549
+596,595,Right Shoulder (Deltoid),597,549
+596,597,Right Shoulder (Deltoid),597,549
+601,593,Right Shoulder (Deltoid),598,549
+613,587,Right Shoulder (Deltoid),598,548
+474,169,Right Shoulder (Deltoid),473,215
+504,181,Right Shoulder (Deltoid),482,214
+514,177,Right Shoulder (Deltoid),502,215
+654,147,Left Trapezius,691,176
+694,135,Left Trapezius,690,176
+732,168,Left Trapezius,684,175
+706,193,Right Trapezius,684,176
+691,200,Chest (Pectorals),684,217
+678,202,Chest (Pectorals),684,215
+655,210,Chest (Pectorals),684,214
+654,210,Chest (Pectorals),685,214
+653,215,Chest (Pectorals),686,215
+654,216,Chest (Pectorals),686,215
+652,215,Chest (Pectorals),686,214
+653,217,Chest (Pectorals),686,215
+652,221,Chest (Pectorals),686,214
+650,229,Chest (Pectorals),687,215
+605,254,Right Shoulder (Deltoid),572,224
+605,251,Right Shoulder (Deltoid),572,224
+604,244,Right Shoulder (Deltoid),572,224
+603,242,Right Shoulder (Deltoid),572,224
+600,237,Right Shoulder (Deltoid),572,225
+601,235,Right Shoulder (Deltoid),572,225
+603,236,Right Shoulder (Deltoid),573,224
+602,236,Right Shoulder (Deltoid),574,223
+602,235,Right Shoulder (Deltoid),575,222
+602,236,Right Shoulder (Deltoid),576,220
+603,236,Right Shoulder (Deltoid),577,219
+602,236,Right Shoulder (Deltoid),577,219
+603,239,Right Shoulder (Deltoid),577,219
+602,238,Right Shoulder (Deltoid),577,219
+603,239,Right Shoulder (Deltoid),577,219
+602,239,Right Shoulder (Deltoid),577,219
+595,242,Right Shoulder (Deltoid),577,219
+591,246,Right Shoulder (Deltoid),577,221
+580,247,Right Shoulder (Deltoid),577,222
+577,248,Right Shoulder (Deltoid),576,224
+577,249,Right Shoulder (Deltoid),576,224
+576,250,Right Shoulder (Deltoid),577,224
+577,252,Right Shoulder (Deltoid),578,224
+576,272,Right Bicep,562,308
+577,280,Right Bicep,563,309
+570,279,Right Bicep,563,310
+568,277,Right Bicep,563,309
+570,265,Right Shoulder (Deltoid),579,224
+576,267,Right Shoulder (Deltoid),579,224
+582,265,Right Shoulder (Deltoid),579,223
+597,266,Right Shoulder (Deltoid),579,223
+604,264,Right Shoulder (Deltoid),579,223
+671,251,Chest (Pectorals),704,224
+677,239,Chest (Pectorals),705,223
+683,236,Chest (Pectorals),706,223
+694,226,Chest (Pectorals),706,221
+698,225,Chest (Pectorals),708,220
+700,224,Chest (Pectorals),708,221
+697,226,Chest (Pectorals),708,221
+695,229,Chest (Pectorals),709,221
+692,232,Chest (Pectorals),709,221
+688,233,Chest (Pectorals),709,221
+686,235,Chest (Pectorals),708,221
+684,234,Chest (Pectorals),708,220
+681,233,Chest (Pectorals),708,220
+681,236,Chest (Pectorals),707,221
+676,237,Chest (Pectorals),707,220
+674,238,Chest (Pectorals),707,220
+673,239,Chest (Pectorals),707,221
+671,240,Chest (Pectorals),707,221
+672,240,Chest (Pectorals),707,221
+671,240,Chest (Pectorals),707,221
+670,240,Chest (Pectorals),707,221
+670,241,Chest (Pectorals),706,221
+669,242,Chest (Pectorals),706,221
+668,242,Chest (Pectorals),705,221
+666,242,Chest (Pectorals),705,221
+665,241,Chest (Pectorals),705,222
+665,241,Chest (Pectorals),704,222
+663,241,Chest (Pectorals),704,222
+663,241,Chest (Pectorals),704,222
+660,243,Chest (Pectorals),704,222
+619,250,Right Shoulder (Deltoid),586,219
+607,252,Right Shoulder (Deltoid),586,219
+593,257,Right Shoulder (Deltoid),586,218
+566,303,Right Bicep,561,303
+556,285,Right Bicep,565,298
+554,295,Right Bicep,570,296
+554,293,Right Bicep,571,296
+553,294,Right Bicep,570,295
+553,295,Right Bicep,569,295
+553,294,Right Bicep,569,295
+553,294,Right Bicep,569,296
+553,294,Right Bicep,568,296
+554,294,Right Bicep,568,296
+553,295,Right Bicep,568,297
+554,295,Right Bicep,568,296
+552,296,Right Bicep,569,296
+554,298,Right Bicep,569,296
+553,297,Right Bicep,570,294
+552,295,Right Bicep,571,294
+553,295,Right Bicep,572,294
+557,296,Right Bicep,572,294
+563,291,Right Bicep,572,294
+566,285,Right Bicep,571,295
+568,283,Right Bicep,570,295
+569,281,Right Bicep,567,295
+571,280,Right Bicep,566,295
+567,280,Right Bicep,565,296
+562,291,Right Bicep,567,295
+550,294,Right Bicep,568,295
+555,354,Right Tricep,560,374
+545,317,Right Bicep,575,289
+540,350,Right Tricep,566,366
+537,345,Right Tricep,567,365
+534,365,Right Tricep,566,365
+527,361,Right Tricep,566,365
+539,372,Right Tricep,562,368
+528,363,Right Tricep,560,369
+529,342,Right Tricep,559,370
+529,307,Right Bicep,573,291
+531,300,Right Bicep,578,288
+531,304,Right Bicep,578,288
+531,300,Right Bicep,577,288
+530,299,Right Bicep,577,288
+529,301,Right Bicep,577,288
+534,340,Right Tricep,578,360
+536,329,Right Tricep,578,355
+540,333,Right Tricep,579,352
+534,289,Right Bicep,583,282
+537,284,Right Bicep,584,282
+535,281,Right Bicep,584,282
+535,290,Right Bicep,584,282
+535,276,Right Bicep,584,281
+535,280,Right Bicep,582,278
+546,312,Right Tricep,577,345
+546,318,Right Tricep,574,348
+552,271,Right Bicep,581,281
+559,300,Right Bicep,581,282
+560,246,Right Bicep,579,287
+561,239,Right Shoulder (Deltoid),590,210
+566,274,Right Bicep,581,289
+565,240,Right Shoulder (Deltoid),591,210
+569,248,Right Shoulder (Deltoid),592,211
+571,279,Right Bicep,582,295
+569,282,Right Bicep,582,297
+568,269,Right Bicep,582,299
+571,280,Right Bicep,581,301
+568,268,Right Bicep,578,303
+572,280,Right Bicep,578,304
+572,271,Right Bicep,576,304
+571,277,Right Bicep,574,304
+570,279,Right Bicep,573,306
+574,263,Right Bicep,571,305
+575,243,Right Shoulder (Deltoid),595,214
+573,256,Right Shoulder (Deltoid),594,214
+574,256,Right Shoulder (Deltoid),595,214
+578,241,Right Shoulder (Deltoid),594,213
+581,209,Right Shoulder (Deltoid),595,213
+576,245,Right Shoulder (Deltoid),595,213
+580,249,Right Shoulder (Deltoid),594,213
+577,240,Right Shoulder (Deltoid),594,213
+582,208,Right Shoulder (Deltoid),594,213
+578,243,Right Shoulder (Deltoid),594,213
+577,248,Right Shoulder (Deltoid),594,213
+579,250,Right Shoulder (Deltoid),594,213
+578,229,Right Shoulder (Deltoid),594,213
+579,248,Right Shoulder (Deltoid),594,213
+578,239,Right Shoulder (Deltoid),594,213
+576,256,Right Bicep,570,302
+579,251,Right Shoulder (Deltoid),594,212
+578,245,Right Shoulder (Deltoid),594,212
+577,256,Right Shoulder (Deltoid),594,213
+578,255,Right Shoulder (Deltoid),594,213
+579,258,Right Bicep,574,303
+578,259,Right Bicep,576,301
+574,259,Right Bicep,578,300
+576,253,Right Shoulder (Deltoid),598,215
+577,206,Right Shoulder (Deltoid),598,215
+583,201,Right Shoulder (Deltoid),599,215
+640,360,Left Bicep,684,368
+640,360,Left Bicep,684,363
+640,360,Left Bicep,661,343
+640,360,Left Bicep,644,354
+640,360,Left Bicep,647,330
+640,360,Left Bicep,647,332
+640,360,Left Bicep,644,331
+640,360,Left Bicep,647,334
+640,360,Left Bicep,657,349
+640,360,Left Bicep,664,349
+640,360,Left Bicep,678,356
+640,360,Left Bicep,687,350
+640,360,Left Bicep,674,324
+640,360,Left Bicep,664,331
+640,360,Left Bicep,659,333
+640,360,Left Bicep,658,347
+640,360,Left Bicep,654,352
+640,360,Left Bicep,653,354
+640,360,Left Bicep,654,359
+640,360,Left Bicep,655,364
+640,360,Left Bicep,654,362
+640,360,Left Bicep,655,360
+640,360,Left Bicep,656,349
+640,360,Left Bicep,656,347
+640,360,Left Bicep,659,350
+640,360,Left Bicep,668,360
+640,360,Left Bicep,670,360
+640,360,Left Bicep,676,362
+640,360,Left Bicep,682,363
+640,360,Left Bicep,687,363
+640,360,Left Bicep,687,345
+640,360,Left Bicep,686,345
+640,360,Left Bicep,685,345
+640,360,Right Bicep,593,356
+640,360,Right Bicep,596,356
+640,360,Right Bicep,597,356
+640,360,Right Bicep,597,356
+640,360,Right Bicep,598,356
+640,360,Right Bicep,597,357
+640,360,Right Bicep,596,357
+640,360,Right Bicep,596,357
+640,360,Right Bicep,595,357
+640,360,Right Bicep,596,357
+640,360,Right Bicep,595,357
+640,360,Right Bicep,595,356
+640,360,Right Bicep,595,354
+640,360,Right Bicep,594,354
+640,360,Right Bicep,593,352
+640,360,Right Bicep,591,351
+640,360,Left Bicep,685,362
+640,360,Left Bicep,641,362
+640,360,Left Bicep,624,360
+640,360,Left Bicep,612,360
+640,360,Left Bicep,605,360
+640,360,Left Bicep,601,358
+640,360,Left Bicep,591,354
+640,360,Left Bicep,604,352
+640,360,Left Bicep,611,351
+640,360,Left Bicep,615,351
+640,360,Left Bicep,626,351
+640,360,Left Bicep,631,354
+640,360,Left Bicep,634,356
+640,360,Left Bicep,639,358
+640,360,Left Bicep,639,358
+640,360,Left Bicep,637,358
+640,360,Left Bicep,638,359
+640,360,Left Bicep,639,359
+640,360,Left Bicep,640,360
+640,360,Left Bicep,640,362
+640,360,Left Bicep,641,363
+640,360,Left Bicep,641,363
+640,360,Left Bicep,641,363
+640,360,Left Bicep,641,364
+640,360,Left Bicep,642,365
+640,360,Left Bicep,641,365
+640,360,Left Bicep,641,365
+640,360,Left Bicep,641,365
+640,360,Left Bicep,641,364
+640,360,Left Bicep,641,364
+640,360,Left Bicep,641,365
+640,360,Left Bicep,641,366
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,366
+640,360,Left Bicep,641,366
+640,360,Left Bicep,641,366
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,641,367
+640,360,Left Bicep,642,367
+640,360,Left Bicep,643,367
+640,360,Left Bicep,644,367
+640,360,Left Bicep,644,367
+640,360,Left Bicep,645,367
+640,360,Left Bicep,645,368
+640,360,Left Bicep,646,368
+640,360,Left Bicep,646,367
+640,360,Left Bicep,646,367
+640,360,Left Bicep,646,367
+640,360,Left Bicep,646,367
+640,360,Left Bicep,647,366
+640,360,Left Bicep,647,367
+640,360,Left Bicep,647,367
+640,360,Left Bicep,647,367
+640,360,Left Bicep,647,365
+640,360,Left Bicep,647,365
+640,360,Left Bicep,647,365
+640,360,Left Bicep,647,368
+640,360,Left Bicep,647,370
+640,360,Left Bicep,648,371
+640,360,Left Bicep,648,373
+640,360,Left Bicep,648,375
+640,360,Left Bicep,648,374
+640,360,Left Bicep,648,374
+640,360,Left Bicep,648,374
+640,360,Left Bicep,648,373
+640,360,Left Bicep,648,372
+640,360,Left Bicep,648,372
+640,360,Left Bicep,648,369
+640,360,Left Bicep,648,368
+640,360,Left Bicep,647,368
+640,360,Left Bicep,646,366
+640,360,Left Bicep,645,364
+640,360,Left Bicep,645,365
+640,360,Left Bicep,645,366
+640,360,Left Bicep,645,369
+640,360,Left Bicep,644,371
+640,360,Left Bicep,643,373
+640,360,Left Bicep,643,379
+640,360,Left Bicep,642,385
+640,360,Left Bicep,641,386
+640,360,Left Bicep,641,386
+640,360,Left Bicep,640,389
+640,360,Left Bicep,638,388
+640,360,Left Bicep,638,389
+640,360,Left Bicep,638,389
+640,360,Left Bicep,638,391
+640,360,Left Bicep,638,393
+640,360,Left Bicep,638,395
+640,360,Left Bicep,638,395
+640,360,Left Bicep,638,399
+640,360,Left Shoulder,638,322
+640,360,Left Shoulder,638,323
+640,360,Left Shoulder,638,325
+640,360,Left Shoulder,637,327
+640,360,Left Shoulder,635,327
+640,360,Left Bicep,635,393
+640,360,Left Bicep,634,392
+640,360,Left Shoulder,634,329
+640,360,Left Shoulder,634,336
+640,360,Left Shoulder,633,339
+640,360,Left Shoulder,632,349
+640,360,Left Shoulder,631,350
+640,360,Left Shoulder,631,353
+640,360,Left Shoulder,629,355
+640,360,Left Shoulder,628,355
+640,360,Left Shoulder,628,354
+640,360,Left Shoulder,624,353
+640,360,Left Shoulder,621,353
+640,360,Left Shoulder,618,352
+640,360,Left Shoulder,617,352
+640,360,Left Shoulder,617,350
+640,360,Left Shoulder,616,348
+640,360,Left Shoulder,617,345
+640,360,Left Shoulder,617,344
+640,360,Left Shoulder,617,342
+640,360,Left Shoulder,617,338
+640,360,Left Shoulder,617,338
+640,360,Left Shoulder,617,338
+640,360,Left Shoulder,617,337
+640,360,Left Shoulder,617,335
+640,360,Left Shoulder,617,331
+640,360,Left Shoulder,617,327
+640,360,Left Shoulder,615,322
+640,360,Left Bicep,612,391
+640,360,Left Bicep,612,389
+640,360,Left Bicep,612,385
+640,360,Left Bicep,612,385
+640,360,Left Bicep,611,384
+640,360,Left Bicep,611,381
+640,360,Left Bicep,611,379
+640,360,Left Bicep,612,375
+640,360,Left Bicep,612,371
+640,360,Left Bicep,616,370
+640,360,Left Bicep,624,369
+640,360,Left Bicep,627,365
+640,360,Left Bicep,629,362
+640,360,Left Bicep,631,360
+640,360,Left Bicep,633,356
+640,360,Left Bicep,635,356
+640,360,Left Bicep,636,355
+640,360,Left Bicep,640,355
+640,360,Left Bicep,647,354
+640,360,Left Bicep,655,353
+640,360,Left Bicep,658,351
+640,360,Left Bicep,660,352
+640,360,Left Bicep,661,351
+640,360,Left Bicep,665,352
+640,360,Left Bicep,671,354
+640,360,Left Bicep,673,356
+640,360,Left Bicep,672,357
+640,360,Left Bicep,676,359
+640,360,Left Bicep,677,358
+640,360,Left Bicep,676,358
+640,360,Left Bicep,677,357
+640,360,Left Bicep,676,356
+640,360,Left Bicep,676,355
+640,360,Left Bicep,676,353
+640,360,Left Bicep,676,349
+640,360,Left Bicep,676,347
+640,360,Left Bicep,676,348
+640,360,Left Bicep,676,352
+640,360,Left Bicep,676,361
+640,360,Left Bicep,676,363
+640,360,Left Bicep,674,363
+640,360,Left Bicep,673,363
+640,360,Left Bicep,663,363
+640,360,Left Bicep,658,363
+640,360,Left Bicep,651,365
+640,360,Left Bicep,646,364
+640,360,Left Bicep,637,363
+640,360,Left Bicep,622,362
+640,360,Left Bicep,619,361
+640,360,Left Bicep,614,361
+640,360,Left Bicep,600,358
+640,360,Left Bicep,591,366
+640,360,Left Bicep,592,366
+640,360,Left Bicep,593,366
+640,360,Left Bicep,595,365
+640,360,Left Bicep,601,363
+640,360,Left Bicep,604,363
+640,360,Left Bicep,607,361
+640,360,Left Bicep,614,362
+640,360,Left Bicep,616,362
+640,360,Left Bicep,619,362
+640,360,Left Bicep,622,362
+640,360,Left Bicep,625,363
+640,360,Left Bicep,628,363
+640,360,Left Bicep,629,363
+640,360,Left Bicep,630,363
+640,360,Left Bicep,632,363
+640,360,Left Bicep,632,364
+640,360,Left Bicep,634,364
+640,360,Left Bicep,637,364
+640,360,Left Bicep,640,365
+640,360,Left Bicep,641,365
+640,360,Left Bicep,643,365
+640,360,Left Bicep,644,365
+640,360,Left Bicep,646,365
+640,360,Left Bicep,646,365
+640,360,Left Bicep,647,364
+640,360,Left Bicep,649,363
+640,360,Left Bicep,650,363
+640,360,Left Bicep,651,363
+640,360,Left Bicep,652,360
+640,360,Left Bicep,652,357
+640,360,Left Bicep,653,356
+640,360,Left Bicep,653,355
+640,360,Left Bicep,655,355
+640,360,Left Bicep,655,343
+640,360,Left Bicep,655,340
+640,360,Left Bicep,656,337
+640,360,Left Bicep,656,337
+640,360,Left Bicep,657,334
+640,360,Left Bicep,658,332
+640,360,Left Bicep,659,331
+640,360,Left Bicep,660,331
+640,360,Left Bicep,659,330
+640,360,Left Bicep,659,328
+640,360,Left Bicep,659,327
+640,360,Left Bicep,660,327
+640,360,Left Bicep,661,328
+640,360,Left Bicep,662,329
+640,360,Left Bicep,663,329
+640,360,Left Bicep,663,330
+640,360,Left Bicep,663,331
+640,360,Left Bicep,663,331
+640,360,Left Bicep,663,333
+640,360,Left Bicep,663,334
+640,360,Left Bicep,664,337
+640,360,Left Bicep,667,340
+640,360,Left Bicep,668,341
+640,360,Left Bicep,671,344
+640,360,Left Bicep,674,346
+640,360,Left Bicep,676,345
+640,360,Left Bicep,678,345
+640,360,Left Bicep,680,345
+640,360,Left Bicep,683,346
+640,360,Left Bicep,685,346
+640,360,Left Bicep,686,346
+640,360,Left Bicep,686,347
+640,360,Left Bicep,685,348
+640,360,Left Bicep,684,350
+640,360,Left Bicep,682,352
+640,360,Left Bicep,680,356
+640,360,Left Bicep,679,358
+640,360,Left Bicep,679,362
+640,360,Left Bicep,679,364
+640,360,Left Bicep,680,367
+640,360,Left Bicep,683,369
+640,360,Left Bicep,685,369
+640,360,Left Bicep,688,368
+640,360,Left Bicep,657,365
+640,360,Left Bicep,638,360
+640,360,Left Bicep,624,354
+640,360,Left Bicep,612,351
+640,360,Left Bicep,626,378
+640,360,Left Bicep,648,377
+802,598,Left Shoulder (Deltoid),844,586
+808,596,Left Shoulder (Deltoid),843,585
+802,601,Left Shoulder (Deltoid),843,585
+801,596,Left Shoulder (Deltoid),842,584
+800,597,Left Shoulder (Deltoid),842,584
+806,595,Left Shoulder (Deltoid),842,584
+802,601,Left Shoulder (Deltoid),840,585
+801,598,Left Shoulder (Deltoid),840,587
+800,597,Left Shoulder (Deltoid),840,587
+801,600,Left Shoulder (Deltoid),840,588
+800,599,Left Shoulder (Deltoid),840,587
+799,598,Left Shoulder (Deltoid),841,587
+800,597,Left Shoulder (Deltoid),841,588
+799,597,Left Shoulder (Deltoid),841,588
+803,598,Left Shoulder (Deltoid),841,588
+799,596,Left Shoulder (Deltoid),841,588
+799,598,Left Shoulder (Deltoid),841,589
+803,596,Left Shoulder (Deltoid),841,589
+805,598,Left Shoulder (Deltoid),841,589
+805,598,Left Shoulder (Deltoid),841,589
+803,596,Left Shoulder (Deltoid),841,589
+804,597,Left Shoulder (Deltoid),840,589
+803,598,Left Shoulder (Deltoid),840,589
+803,598,Left Shoulder (Deltoid),840,588
+804,595,Left Shoulder (Deltoid),840,588
+805,597,Left Shoulder (Deltoid),840,587
+804,596,Left Shoulder (Deltoid),840,587
+804,595,Left Shoulder (Deltoid),840,587
+809,587,Left Shoulder (Deltoid),839,587
+841,541,Left Shoulder (Deltoid),850,588
+842,542,Left Shoulder (Deltoid),851,588
+842,540,Left Shoulder (Deltoid),851,588
+843,567,Left Shoulder (Deltoid),850,588
+850,602,Left Shoulder (Deltoid),844,588
+520,547,Right Shoulder (Deltoid),536,587
+520,547,Right Shoulder (Deltoid),538,587
+516,545,Right Shoulder (Deltoid),538,587
+518,547,Right Shoulder (Deltoid),538,586
+520,549,Right Shoulder (Deltoid),538,586
+520,551,Right Shoulder (Deltoid),538,585
+517,551,Right Shoulder (Deltoid),537,585
+518,550,Right Shoulder (Deltoid),537,585
+518,551,Right Shoulder (Deltoid),537,584
+519,552,Right Shoulder (Deltoid),537,584
+518,552,Right Shoulder (Deltoid),537,583
+520,558,Right Shoulder (Deltoid),535,583
+522,559,Right Shoulder (Deltoid),535,583
+525,565,Right Shoulder (Deltoid),534,584
+537,592,Right Shoulder (Deltoid),534,585
+543,605,Right Shoulder (Deltoid),535,585
+545,613,Right Shoulder (Deltoid),534,584
+542,612,Right Shoulder (Deltoid),534,582
+552,617,Right Shoulder (Deltoid),534,582
+551,611,Right Shoulder (Deltoid),534,581
+555,606,Right Shoulder (Deltoid),534,581
+559,581,Right Shoulder (Deltoid),534,581
+569,582,Right Shoulder (Deltoid),533,581
+651,601,Chest (Pectorals),698,587
+659,610,Chest (Pectorals),697,587
+677,614,Chest (Pectorals),697,586
+678,613,Chest (Pectorals),697,584
+678,612,Chest (Pectorals),697,582
+676,613,Chest (Pectorals),698,582
+671,612,Chest (Pectorals),699,581
+666,614,Chest (Pectorals),699,581
+669,613,Chest (Pectorals),699,581
+669,612,Chest (Pectorals),699,581
+588,529,Right Shoulder (Deltoid),562,568
+582,528,Right Shoulder (Deltoid),556,569
+579,528,Right Shoulder (Deltoid),556,567
+577,528,Right Shoulder (Deltoid),557,570
+582,527,Right Shoulder (Deltoid),558,570
+584,529,Right Shoulder (Deltoid),559,571
+693,538,Chest (Pectorals),698,577
+728,503,Left Trapezius,697,464
+686,464,Left Trapezius,696,463
+676,464,Left Trapezius,696,463
+666,463,Left Trapezius,696,463
+652,456,Right Trapezius,696,454
+654,457,Right Trapezius,697,455
+653,457,Right Trapezius,697,456
+656,460,Left Trapezius,697,464
+652,459,Right Trapezius,697,456
+673,501,Left Trapezius,697,466
+674,509,Left Trapezius,697,466
+694,529,Chest (Pectorals),694,576
+691,528,Chest (Pectorals),694,576
+681,539,Chest (Pectorals),693,577
+682,543,Chest (Pectorals),693,577
+683,542,Chest (Pectorals),693,577
+686,549,Chest (Pectorals),693,577
+687,552,Chest (Pectorals),693,577
+688,550,Chest (Pectorals),693,577
+688,551,Chest (Pectorals),693,577
+687,550,Chest (Pectorals),694,577
+687,547,Chest (Pectorals),694,577
+687,548,Chest (Pectorals),695,577
+686,547,Chest (Pectorals),695,577
+687,547,Chest (Pectorals),695,578
+687,549,Chest (Pectorals),695,578
+686,547,Chest (Pectorals),696,577
+682,541,Chest (Pectorals),696,577
+680,540,Chest (Pectorals),696,577
+677,531,Chest (Pectorals),696,577
+677,535,Chest (Pectorals),695,578
+689,549,Chest (Pectorals),695,578
+694,557,Chest (Pectorals),695,578
+708,558,Chest (Pectorals),695,578
+712,554,Chest (Pectorals),695,578
+723,544,Chest (Pectorals),695,578
+723,539,Chest (Pectorals),695,578
+735,488,Left Trapezius,701,468
+732,489,Left Trapezius,701,468
+729,488,Left Trapezius,701,468
+728,489,Left Trapezius,701,468
+729,489,Left Trapezius,701,467
+728,489,Left Trapezius,701,467
+729,489,Left Trapezius,701,467
+729,488,Left Trapezius,701,467
+729,489,Left Trapezius,701,467
+731,492,Left Trapezius,701,467
+731,491,Left Trapezius,701,467
+730,490,Left Trapezius,701,467
+733,491,Left Trapezius,701,467
+731,493,Left Trapezius,701,467
+730,492,Left Trapezius,701,467
+718,493,Left Trapezius,700,467
+715,493,Left Trapezius,700,467
+699,493,Left Trapezius,699,467
+692,493,Left Trapezius,698,467
+686,494,Left Trapezius,697,467
+699,577,Chest (Pectorals),696,576
+661,492,Left Trapezius,696,468
+659,490,Left Trapezius,696,468
+678,490,Left Trapezius,696,468
+674,508,Left Trapezius,696,468
+668,506,Left Trapezius,695,468
+667,507,Left Trapezius,695,468
+666,507,Left Trapezius,694,468
+668,506,Left Trapezius,694,468
+666,507,Left Trapezius,694,468
+664,506,Left Trapezius,693,468
+666,506,Left Trapezius,692,468
+664,507,Left Trapezius,692,468
+662,506,Left Trapezius,691,468
+674,511,Left Trapezius,692,468
+674,536,Chest (Pectorals),695,578
+674,538,Chest (Pectorals),694,578
+675,540,Chest (Pectorals),694,578
+677,545,Chest (Pectorals),694,578
+677,548,Chest (Pectorals),693,578
+677,549,Chest (Pectorals),693,578
+678,548,Chest (Pectorals),693,578
+677,547,Chest (Pectorals),693,578
+677,547,Chest (Pectorals),692,578
+677,546,Chest (Pectorals),691,578
+672,542,Chest (Pectorals),691,578
+717,555,Chest (Pectorals),693,578
+693,510,Left Trapezius,697,467
+675,505,Left Trapezius,697,467
+664,502,Left Trapezius,697,467
+663,503,Left Trapezius,696,467
+663,503,Left Trapezius,696,467
+663,504,Left Trapezius,695,467
+664,504,Left Trapezius,695,467
+665,503,Left Trapezius,694,467
+667,504,Left Trapezius,694,467
+666,504,Left Trapezius,694,467
+667,503,Left Trapezius,694,467
+666,502,Left Trapezius,695,467
+666,503,Left Trapezius,695,466
+666,501,Left Trapezius,695,467
+666,503,Left Trapezius,695,467
+668,502,Left Trapezius,695,467
+666,502,Left Trapezius,695,467
+666,501,Left Trapezius,695,467
+666,502,Left Trapezius,694,467
+665,501,Left Trapezius,694,467
+666,501,Left Trapezius,694,467
+665,501,Left Trapezius,694,467
+663,501,Left Trapezius,694,467
+663,503,Left Trapezius,694,467
+663,501,Left Trapezius,693,467
+663,503,Left Trapezius,692,467
+662,502,Left Trapezius,692,467
+661,502,Left Trapezius,692,468
+661,503,Left Trapezius,692,468
+664,502,Left Trapezius,692,468
+663,501,Left Trapezius,692,468
+663,502,Left Trapezius,692,468
+663,503,Left Trapezius,692,468
+664,503,Left Trapezius,693,468
+663,503,Left Trapezius,693,468
+661,503,Left Trapezius,693,468
+661,502,Left Trapezius,692,468
+659,503,Left Trapezius,693,468
+679,509,Left Trapezius,693,468
+668,506,Left Trapezius,695,471
+675,508,Left Trapezius,695,471
+688,507,Left Trapezius,695,471
+693,508,Left Trapezius,695,470
+703,509,Left Trapezius,697,470
+715,509,Left Trapezius,697,470
+719,508,Left Trapezius,698,470
+724,508,Left Trapezius,698,471
+731,505,Left Trapezius,703,472
+734,507,Left Trapezius,702,471
+725,504,Left Trapezius,702,470
+825,543,Left Shoulder (Deltoid),847,584
+818,542,Left Shoulder (Deltoid),844,583
+821,542,Left Shoulder (Deltoid),844,582
+817,542,Left Shoulder (Deltoid),843,581
+820,544,Left Shoulder (Deltoid),839,578
+824,545,Left Shoulder (Deltoid),839,577
+831,549,Left Shoulder (Deltoid),838,576
+830,559,Left Shoulder (Deltoid),837,575
+824,539,Left Shoulder (Deltoid),833,575
+820,555,Left Shoulder (Deltoid),828,575
+816,613,Left Shoulder (Deltoid),824,575
+814,601,Left Shoulder (Deltoid),822,576
+814,540,Left Shoulder (Deltoid),819,576
+818,607,Left Shoulder (Deltoid),816,573
+778,552,Left Shoulder (Deltoid),818,566
+516,594,Right Shoulder (Deltoid),539,577
+670,500,Left Trapezius,693,471
+657,504,Left Trapezius,698,476
+650,502,Left Trapezius,692,476
+658,500,Left Trapezius,681,460
+660,499,Left Trapezius,681,463
+661,500,Left Trapezius,681,463
+658,501,Left Trapezius,681,464
+655,504,Left Trapezius,680,463
+654,505,Left Trapezius,679,463
+655,505,Left Trapezius,678,463
+655,505,Left Trapezius,677,463
+655,506,Left Trapezius,677,463
+655,507,Left Trapezius,676,463
+655,507,Left Trapezius,676,462
+655,507,Left Trapezius,676,462
+657,507,Left Trapezius,679,463
+804,522,Left Shoulder (Deltoid),822,564
+811,524,Left Shoulder (Deltoid),822,564
+814,525,Left Shoulder (Deltoid),823,564
+814,527,Left Shoulder (Deltoid),826,566
+816,527,Left Shoulder (Deltoid),827,568
+815,529,Left Shoulder (Deltoid),830,569
+815,527,Left Shoulder (Deltoid),832,570
+815,527,Left Shoulder (Deltoid),833,571
+815,527,Left Shoulder (Deltoid),835,571
+816,528,Left Shoulder (Deltoid),836,573
+816,529,Left Shoulder (Deltoid),837,574
+818,529,Left Shoulder (Deltoid),837,574
+813,596,Left Shoulder (Deltoid),837,580
+792,585,Left Shoulder (Deltoid),818,576
+835,584,Left Shoulder (Deltoid),817,571
+834,584,Left Shoulder (Deltoid),816,570
+834,584,Left Shoulder (Deltoid),815,570
+830,569,Left Shoulder (Deltoid),815,571
+827,559,Left Shoulder (Deltoid),816,571
+826,557,Left Shoulder (Deltoid),817,571
+828,561,Left Shoulder (Deltoid),817,572
+829,562,Left Shoulder (Deltoid),817,572
+827,566,Left Shoulder (Deltoid),817,572
+829,561,Left Shoulder (Deltoid),817,572
+828,560,Left Shoulder (Deltoid),818,572
+826,558,Left Shoulder (Deltoid),818,572
+824,568,Left Shoulder (Deltoid),818,572
+825,575,Left Shoulder (Deltoid),818,572
+826,596,Left Shoulder (Deltoid),817,572
+831,610,Left Shoulder (Deltoid),817,572
+833,621,Left Bicep,862,654
+837,643,Left Bicep,867,654
+831,664,Left Bicep,868,656
+501,584,Right Shoulder (Deltoid),542,603
+595,352,Chest (Pectorals),587,324
+585,358,Chest (Pectorals),595,326
+582,351,Chest (Pectorals),595,326
+582,341,Chest (Pectorals),595,326
+452,378,Right Bicep,467,383
+456,382,Right Bicep,462,368
+449,382,Right Bicep,461,365
+442,378,Right Bicep,461,366
+469,366,Right Bicep,447,348
+700,372,Left Bicep,688,394
+704,389,Left Bicep,688,395
+705,410,Left Bicep,687,395
+705,409,Left Bicep,688,407
+694,393,Left Bicep,690,394
+684,368,Left Bicep,713,386
+672,368,Left Shoulder (Deltoid),675,326
+664,351,Left Shoulder (Deltoid),666,322
+589,229,Right Shoulder (Deltoid),572,228
+593,239,Right Shoulder (Deltoid),572,230
+602,241,Right Shoulder (Deltoid),572,230
+668,468,Right Trapezius,713,465
+683,596,Chest (Pectorals),709,580
+656,476,Left Trapezius,676,492
+673,489,Right Trapezius,678,498
+697,529,Left Trapezius,685,512
+697,550,Left Trapezius,698,517
+702,554,Left Trapezius,702,518
+703,556,Left Trapezius,705,520
+702,554,Left Trapezius,707,519
+700,553,Left Trapezius,709,520
+734,550,Left Trapezius,714,519
+769,552,Left Trapezius,731,520
+768,549,Left Trapezius,730,521
+770,548,Left Trapezius,730,520
+766,547,Left Trapezius,728,520
+780,501,Left Trapezius,736,488
+784,503,Left Trapezius,737,490
+784,503,Left Trapezius,740,490
+785,503,Left Trapezius,740,490
+784,504,Left Trapezius,740,491
+782,502,Left Trapezius,741,491
+781,505,Left Trapezius,741,491
+782,504,Left Trapezius,741,491
+782,503,Left Trapezius,741,492
+781,504,Left Trapezius,741,492
+780,504,Left Trapezius,740,492
+781,504,Left Trapezius,739,492
+781,503,Left Trapezius,739,492
+781,503,Left Trapezius,739,492
+781,503,Left Trapezius,739,492
+781,503,Left Trapezius,739,492
+783,503,Left Trapezius,739,492
+784,504,Left Trapezius,739,492
+784,504,Left Trapezius,739,492
+784,503,Left Trapezius,738,492
+783,501,Left Trapezius,739,492
+783,502,Left Trapezius,738,492
+783,501,Left Trapezius,738,492
+785,502,Left Trapezius,737,493
+785,504,Left Trapezius,737,493
+784,498,Left Trapezius,738,494
+786,497,Left Trapezius,738,494
+743,516,Left Trapezius,708,496
+752,516,Left Trapezius,712,497
+755,512,Left Trapezius,716,497
+760,514,Left Trapezius,724,497
+765,518,Left Trapezius,724,497
+734,587,Chest (Pectorals),726,616
+783,512,Left Trapezius,783,496
+792,531,Left Trapezius,776,493
+762,553,Chest (Pectorals),775,598
+747,562,Chest (Pectorals),774,595
+823,496,Left Trapezius,774,496
+822,497,Left Trapezius,778,493
+811,500,Left Trapezius,777,493
+803,504,Left Trapezius,777,493
+798,502,Left Trapezius,776,493
+797,504,Left Trapezius,776,493
+799,504,Left Trapezius,774,493
+802,504,Left Trapezius,774,494
+804,503,Left Trapezius,774,494
+808,503,Left Trapezius,773,493
+808,504,Left Trapezius,773,493
+806,504,Left Trapezius,773,493
+806,504,Left Trapezius,773,493
+803,505,Left Trapezius,773,493
+806,503,Left Trapezius,773,492
+804,503,Left Trapezius,773,492
+816,499,Left Trapezius,772,492
+804,508,Left Trapezius,767,486
+803,508,Left Trapezius,767,486
+802,508,Left Trapezius,766,486
+802,509,Left Trapezius,766,486
+803,509,Left Trapezius,767,487
+803,507,Left Trapezius,768,487
+804,507,Left Trapezius,768,487
+804,508,Left Trapezius,767,486
+805,508,Left Trapezius,767,486
+807,510,Left Trapezius,766,486
+753,499,Left Trapezius,713,493
+775,485,Right Trapezius,730,481
+797,492,Left Trapezius,762,491
+787,502,Left Trapezius,762,491
+782,497,Left Trapezius,760,491
+784,492,Left Trapezius,754,490
+779,495,Left Trapezius,748,490
+776,496,Left Trapezius,744,488
+781,495,Left Trapezius,741,488
+778,498,Left Trapezius,741,488
+778,497,Left Trapezius,738,488
+778,497,Left Trapezius,737,488
+777,499,Left Trapezius,737,488
+780,492,Left Trapezius,737,489
+780,493,Left Trapezius,737,489
+780,493,Left Trapezius,737,490
+780,495,Left Trapezius,737,490
+778,496,Left Trapezius,737,490
+776,496,Left Trapezius,737,489
+771,498,Left Trapezius,736,489
+771,501,Left Trapezius,736,488
+754,519,Left Trapezius,732,488
+724,511,Right Trapezius,697,488
+780,514,Left Trapezius,741,492
+781,516,Left Trapezius,738,492
+780,516,Left Trapezius,738,492
+780,517,Left Trapezius,738,492
+781,513,Left Trapezius,738,493
+782,511,Left Trapezius,738,495
+777,500,Left Trapezius,732,491
+783,500,Left Trapezius,734,492
+783,500,Left Trapezius,735,492
+780,500,Left Trapezius,735,493
+781,499,Left Trapezius,735,494
+781,501,Left Trapezius,735,494
+780,500,Left Trapezius,735,494
+781,500,Left Trapezius,734,496
+782,499,Left Trapezius,734,496
+782,499,Left Trapezius,733,495
+781,500,Left Trapezius,733,495
+780,500,Left Trapezius,733,495
+781,500,Left Trapezius,733,495
+781,500,Left Trapezius,733,495
+780,501,Left Trapezius,733,495
+779,502,Left Trapezius,732,495
+776,504,Left Trapezius,732,495
+776,504,Left Trapezius,733,495
+776,503,Left Trapezius,733,495
+774,506,Left Trapezius,733,495
+775,505,Left Trapezius,733,494
+782,502,Left Trapezius,733,494
+783,501,Left Trapezius,734,494
+782,501,Left Trapezius,734,494
+783,502,Left Trapezius,734,494
+782,501,Left Trapezius,734,494
+782,502,Left Trapezius,734,494
+781,501,Left Trapezius,734,494
+782,501,Left Trapezius,734,494
+782,502,Left Trapezius,734,494
+781,501,Left Trapezius,734,494
+781,501,Left Trapezius,734,494
+782,501,Left Trapezius,735,494
+783,501,Left Trapezius,735,494
+783,501,Left Trapezius,735,494
+781,501,Left Trapezius,736,494
+782,500,Left Trapezius,736,494
+782,501,Left Trapezius,737,494
+782,500,Left Trapezius,738,494
+780,501,Left Trapezius,738,494
+778,501,Left Trapezius,737,494
+777,501,Left Trapezius,737,494
+777,502,Left Trapezius,737,495
+778,501,Left Trapezius,737,496
+778,502,Left Trapezius,737,496
+779,501,Left Trapezius,737,496
+777,501,Left Trapezius,736,496
+776,501,Left Trapezius,736,496
+777,502,Left Trapezius,737,496
+777,502,Left Trapezius,737,496
+776,502,Left Trapezius,737,496
+777,503,Left Trapezius,737,496
+777,503,Left Trapezius,737,496
+776,503,Left Trapezius,737,496
+776,504,Left Trapezius,738,495
+776,506,Left Trapezius,738,495
+777,505,Left Trapezius,738,495
+777,504,Left Trapezius,737,495
+778,505,Left Trapezius,737,495
+778,504,Left Trapezius,737,495
+777,503,Left Trapezius,737,496
+777,502,Left Trapezius,737,496
+778,502,Left Trapezius,737,496
+777,503,Left Trapezius,736,496
+778,502,Left Trapezius,736,496
+778,501,Left Trapezius,736,496
+778,501,Left Trapezius,736,496
+778,501,Left Trapezius,736,495
+781,500,Left Trapezius,736,493
+783,501,Left Trapezius,736,493
+780,503,Left Trapezius,737,493
+780,503,Left Trapezius,737,494
+780,505,Left Trapezius,737,496
+777,503,Left Trapezius,737,496
+776,503,Left Trapezius,737,496
+773,505,Left Trapezius,736,496
+774,505,Left Trapezius,736,496
+774,505,Left Trapezius,735,496
+771,506,Left Trapezius,734,496
+769,507,Left Trapezius,733,495
+769,505,Left Trapezius,732,495
+771,504,Left Trapezius,732,494
+770,504,Left Trapezius,732,494
+770,504,Left Trapezius,732,494
+772,504,Left Trapezius,733,494
+773,504,Left Trapezius,733,494
+774,504,Left Trapezius,733,494
+774,503,Left Trapezius,734,494
+774,503,Left Trapezius,735,494
+775,505,Left Trapezius,735,494
+775,504,Left Trapezius,735,494
+776,503,Left Trapezius,735,494
+775,502,Left Trapezius,736,494
+774,501,Left Trapezius,736,494
+775,501,Left Trapezius,736,494
+775,501,Left Trapezius,737,494
+774,501,Left Trapezius,737,494
+773,500,Left Trapezius,737,494
+772,501,Left Trapezius,737,494
+776,497,Left Trapezius,736,494
+774,499,Left Trapezius,736,493
+773,499,Left Trapezius,735,492
+774,499,Left Trapezius,734,492
+774,500,Left Trapezius,734,492
+774,501,Left Trapezius,734,492
+771,503,Left Trapezius,734,492
+771,504,Left Trapezius,735,492
+771,503,Left Trapezius,734,492
+770,503,Left Trapezius,734,492
+771,504,Left Trapezius,734,492
+771,504,Left Trapezius,734,492
+770,503,Left Trapezius,734,492
+772,503,Left Trapezius,734,491
+773,503,Left Trapezius,734,492
+773,503,Left Trapezius,734,492
+775,503,Left Trapezius,735,492
+776,503,Left Trapezius,735,492
+776,503,Left Trapezius,735,493
+778,503,Left Trapezius,735,493
+775,503,Left Trapezius,735,493
+773,501,Left Trapezius,735,493
+771,504,Left Trapezius,735,493
+772,504,Left Trapezius,735,493
+771,502,Left Trapezius,735,493
+773,504,Left Trapezius,735,493
+774,505,Left Trapezius,734,492
+775,503,Left Trapezius,734,492
+778,503,Left Trapezius,734,493
+778,502,Left Trapezius,736,493
+781,502,Left Trapezius,735,493
+783,496,Left Trapezius,734,492
+780,507,Left Trapezius,734,492
+775,505,Left Trapezius,734,492
+777,504,Left Trapezius,734,492
+781,500,Left Trapezius,734,492
+780,501,Left Trapezius,735,493
+779,500,Left Trapezius,735,493
+780,500,Left Trapezius,735,493
+779,501,Left Trapezius,735,493
+776,501,Left Trapezius,735,493
+777,503,Left Trapezius,734,493
+780,506,Left Trapezius,734,493
+651,502,Right Trapezius,682,488
+663,564,Chest (Pectorals),671,608
+690,593,Chest (Pectorals),667,608
+702,600,Chest (Pectorals),668,614
+697,603,Chest (Pectorals),667,613
+683,607,Chest (Pectorals),666,613
+704,613,Chest (Pectorals),666,613
+702,616,Chest (Pectorals),665,612
+691,618,Chest (Pectorals),665,610
+705,617,Chest (Pectorals),665,610
+696,616,Chest (Pectorals),665,609
+704,616,Chest (Pectorals),665,609
+707,616,Chest (Pectorals),665,608
+700,614,Chest (Pectorals),665,607
+705,612,Chest (Pectorals),663,607
+700,610,Chest (Pectorals),664,607
+698,605,Chest (Pectorals),664,606
+701,609,Chest (Pectorals),664,606
+696,608,Chest (Pectorals),664,606
+689,601,Chest (Pectorals),665,606
+691,605,Chest (Pectorals),665,604
+696,608,Chest (Pectorals),665,603
+693,604,Chest (Pectorals),664,600
+686,598,Chest (Pectorals),664,597
+690,600,Chest (Pectorals),662,595
+695,604,Chest (Pectorals),664,594
+692,603,Chest (Pectorals),666,594
+691,599,Chest (Pectorals),666,593
+692,601,Chest (Pectorals),666,593
+689,597,Chest (Pectorals),666,593
+698,603,Chest (Pectorals),667,593
+693,602,Chest (Pectorals),667,593
+697,602,Chest (Pectorals),667,593
+695,601,Chest (Pectorals),667,593
+696,600,Chest (Pectorals),667,593
+694,599,Chest (Pectorals),668,593
+702,603,Chest (Pectorals),668,592
+696,601,Chest (Pectorals),666,591
+696,603,Chest (Pectorals),666,591
+696,602,Chest (Pectorals),666,591
+696,604,Chest (Pectorals),665,591
+700,603,Chest (Pectorals),667,590
+698,601,Chest (Pectorals),669,591
+697,597,Chest (Pectorals),669,591
+702,600,Chest (Pectorals),669,592
+698,599,Chest (Pectorals),668,593
+702,602,Chest (Pectorals),668,593
+699,600,Chest (Pectorals),668,594
+704,601,Chest (Pectorals),670,596
+716,604,Chest (Pectorals),671,598
+704,601,Chest (Pectorals),671,598
+707,601,Chest (Pectorals),671,599
+707,603,Chest (Pectorals),671,599
+704,604,Chest (Pectorals),671,600
+694,477,Left Trapezius,686,493
+683,455,Left Trapezius,685,488
+688,447,Left Trapezius,685,486
+663,447,Left Trapezius,682,488
+660,464,Left Trapezius,679,490
+676,493,Left Trapezius,722,496
+676,511,Left Trapezius,722,496
+724,457,Right Trapezius,689,478
+692,457,Right Trapezius,685,480
+697,421,Right Trapezius,692,467
+712,426,Right Trapezius,698,463
+710,415,Left Trapezius,704,452
+712,415,Left Trapezius,713,451
+668,432,Left Trapezius,661,447
+655,454,Left Trapezius,656,452
+732,550,Left Trapezius,692,524
+726,549,Left Trapezius,693,524
+725,550,Left Trapezius,695,524
+728,548,Left Trapezius,696,524
+728,550,Left Trapezius,696,524
+728,550,Left Trapezius,698,524
+726,550,Left Trapezius,699,523
+727,553,Left Trapezius,698,522
+723,559,Left Trapezius,698,522
+721,560,Left Trapezius,699,522
+722,559,Left Trapezius,699,522
+732,559,Left Trapezius,699,525
+727,564,Left Trapezius,697,525
+714,569,Left Trapezius,692,525
+711,570,Left Trapezius,692,524
+704,570,Left Trapezius,696,523
+695,569,Left Trapezius,693,520
+695,569,Left Trapezius,691,520
+698,584,Chest (Pectorals),694,629
+696,586,Chest (Pectorals),693,628
+700,588,Chest (Pectorals),693,627
+701,584,Chest (Pectorals),693,626
+704,586,Chest (Pectorals),691,626
+706,582,Chest (Pectorals),691,626
+721,548,Left Trapezius,682,517
+723,548,Left Trapezius,683,520
+722,552,Left Trapezius,688,522
+721,554,Left Trapezius,690,523
+722,552,Left Trapezius,692,523
+716,564,Left Trapezius,691,523
+701,582,Chest (Pectorals),689,630
+724,510,Left Trapezius,696,503
+633,504,Left Trapezius,664,487
+595,480,Right Trapezius,638,472
+625,470,Right Trapezius,652,478
+613,465,Right Trapezius,650,477
+610,456,Right Trapezius,647,481
+711,448,Right Trapezius,688,483
+711,447,Right Trapezius,688,482
+734,473,Right Trapezius,686,478
+725,494,Left Trapezius,686,494
+664,267,Chest (Pectorals),653,262
+673,243,Chest (Pectorals),645,261
+713,261,Left Shoulder (Deltoid),741,263
+706,270,Left Shoulder (Deltoid),737,264
+668,450,Right Shoulder (Deltoid),640,473
+861,566,Chest (Pectorals),857,591
+877,597,Left Bicep,899,581
+897,621,Left Tricep,887,655
+897,621,Left Bicep,885,588
+869,594,Chest (Pectorals),868,576
+876,595,Left Bicep,844,559
+868,591,Left Bicep,888,592
+865,591,Chest (Pectorals),894,581
+882,605,Chest (Pectorals),890,592
+875,599,Chest (Pectorals),868,570
+890,606,Chest (Pectorals),880,570
+685,435,Left Bicep,728,420
+683,435,Left Bicep,721,416
+682,438,Left Bicep,712,413
+683,440,Left Bicep,699,412
+683,439,Left Bicep,692,413
+680,431,Left Bicep,680,409
+681,431,Left Bicep,672,411
+685,434,Left Bicep,655,432
+682,437,Left Bicep,657,429
+683,436,Left Bicep,660,425
+685,435,Left Bicep,655,427
+686,434,Left Bicep,658,437
+689,439,Left Bicep,657,433
+687,443,Left Bicep,654,432
+689,451,Left Bicep,656,439
+689,447,Left Bicep,656,445
+688,447,Left Bicep,656,444
+691,445,Left Bicep,647,443
+697,446,Left Bicep,648,438
+694,443,Left Bicep,645,439
+694,443,Left Bicep,646,438
+692,443,Left Bicep,645,441
+669,442,Left Bicep,629,419
+676,447,Left Bicep,638,436
+571,338,Right Bicep,564,354
+588,329,Right Bicep,581,356
+762,424,Left Tricep,801,394
+764,395,Left Tricep,753,380
+654,247,Chest (Pectorals),626,236
+960,419,Left Bicep,954,401
+939,410,Left Bicep,892,400
+930,431,Left Bicep,906,406
+1068,440,Left Bicep,1073,424
+1081,450,Left Bicep,1077,418
+1066,487,Left Tricep,1090,478
+663,254,Chest (Pectorals),651,245
+665,245,Chest (Pectorals),663,261
+701,267,Chest (Pectorals),694,286
+674,343,Left Shoulder (Deltoid),699,302
+676,341,Left Shoulder (Deltoid),691,302
+677,340,Left Shoulder (Deltoid),685,300
+689,340,Left Bicep,724,358
+698,339,Left Bicep,722,357
+708,341,Left Bicep,724,354
+719,358,Left Bicep,724,351
+721,357,Left Bicep,726,351
+722,359,Left Bicep,725,352
+722,360,Left Bicep,725,353
+723,360,Left Bicep,725,353
+721,359,Left Bicep,725,353
+719,360,Left Bicep,725,351
+719,360,Left Bicep,724,352
+718,360,Left Bicep,724,352
+715,361,Left Bicep,723,352
+714,361,Left Bicep,723,352
+712,360,Left Bicep,722,351
+711,360,Left Bicep,721,349
+711,359,Left Bicep,719,349
+711,358,Left Bicep,718,350
+710,358,Left Bicep,717,350
+711,358,Left Bicep,715,350
+710,357,Left Bicep,714,350
+710,358,Left Bicep,714,350
+710,358,Left Bicep,715,349
+710,357,Left Bicep,715,349
+711,357,Left Bicep,715,349
+710,358,Left Bicep,715,348
+710,357,Left Bicep,715,347
+711,356,Left Bicep,715,346
+711,356,Left Bicep,715,345
+709,356,Left Bicep,715,344
+709,355,Left Bicep,715,344
+708,354,Left Bicep,715,344
+708,355,Left Bicep,715,343
+708,353,Left Bicep,715,343
+708,353,Left Bicep,715,343
+708,354,Left Bicep,715,343
+706,352,Left Bicep,715,343
+705,353,Left Bicep,714,343
+706,352,Left Bicep,714,343
+706,352,Left Bicep,714,344
+705,352,Left Bicep,715,345
+706,352,Left Bicep,716,345
+706,352,Left Bicep,716,345
+706,352,Left Bicep,716,345
+706,352,Left Bicep,716,345
+707,352,Left Bicep,716,345
+708,352,Left Bicep,717,345
+708,353,Left Bicep,717,345
+709,353,Left Bicep,717,346
+709,353,Left Bicep,717,346
+709,353,Left Bicep,717,346
+708,352,Left Bicep,717,346
+708,352,Left Bicep,717,346
+709,352,Left Bicep,718,346
+708,352,Left Bicep,717,347
+709,352,Left Bicep,717,347
+709,352,Left Bicep,718,347
+709,352,Left Bicep,718,347
+709,352,Left Bicep,718,347
+709,352,Left Bicep,718,347
+709,352,Left Bicep,718,347
+709,352,Left Bicep,718,347
+708,352,Left Bicep,717,348
+708,351,Left Bicep,717,348
+709,351,Left Bicep,717,348
+709,351,Left Bicep,717,347
+710,351,Left Bicep,717,347
+710,351,Left Bicep,717,347
+709,352,Left Bicep,716,346
+709,352,Left Bicep,716,345
+709,354,Left Bicep,716,345
+709,353,Left Bicep,715,345
+709,353,Left Bicep,715,345
+709,353,Left Bicep,715,345
+709,353,Left Bicep,715,345
+709,352,Left Bicep,715,345
+709,353,Left Bicep,715,345
+709,352,Left Bicep,715,345
+708,353,Left Bicep,715,345
+708,352,Left Bicep,715,345
+707,353,Left Bicep,716,346
+705,356,Left Bicep,714,348
+702,359,Left Bicep,713,348
+655,490,Left Tricep,669,495
+666,516,Left Tricep,652,492
+620,519,Left Tricep,616,505
+597,537,Left Tricep,603,512
+585,548,Left Tricep,603,504
+640,425,Left Bicep,639,382
+660,219,Left Trapezius,662,261
+649,229,Left Trapezius,667,269
+587,307,Right Shoulder (Deltoid),558,304
+587,254,Right Shoulder (Deltoid),570,301
+583,282,Right Shoulder (Deltoid),569,302
+580,289,Right Shoulder (Deltoid),568,308
+584,300,Right Shoulder (Deltoid),562,310
+646,314,Chest (Pectorals),691,305
+677,307,Chest (Pectorals),689,303
+681,306,Chest (Pectorals),686,305
+681,307,Chest (Pectorals),684,306
+680,307,Chest (Pectorals),685,307
+679,307,Chest (Pectorals),685,307
+679,307,Chest (Pectorals),685,307
+678,307,Chest (Pectorals),685,306
+684,308,Chest (Pectorals),685,306
+685,304,Chest (Pectorals),685,303
+673,303,Chest (Pectorals),684,301
+654,300,Chest (Pectorals),684,301
+584,301,Right Shoulder (Deltoid),546,318
+573,300,Right Shoulder (Deltoid),549,318
+562,300,Right Shoulder (Deltoid),552,318
+559,301,Right Shoulder (Deltoid),554,318
+559,301,Right Shoulder (Deltoid),557,318
+558,304,Right Shoulder (Deltoid),558,318
+559,305,Right Shoulder (Deltoid),559,318
+560,303,Right Shoulder (Deltoid),560,318
+554,298,Right Shoulder (Deltoid),563,317
+538,319,Right Shoulder (Deltoid),563,312
+545,331,Right Shoulder (Deltoid),556,316
+553,342,Right Shoulder (Deltoid),553,318
+564,350,Right Shoulder (Deltoid),550,319
+515,405,Right Bicep,507,442
+796,409,Left Bicep,837,407
+810,397,Left Bicep,835,407
+809,401,Left Bicep,834,407
+810,403,Left Bicep,832,408
+814,399,Left Bicep,831,412
+815,399,Left Bicep,830,412
+813,402,Left Bicep,830,411
+814,401,Left Bicep,831,409
+818,396,Left Bicep,831,409
+812,389,Left Bicep,831,409
+790,326,Left Shoulder (Deltoid),804,295
+785,309,Left Shoulder (Deltoid),803,294
+776,284,Left Shoulder (Deltoid),805,294
+767,280,Left Shoulder (Deltoid),804,294
+766,277,Left Shoulder (Deltoid),804,294
+761,283,Left Shoulder (Deltoid),804,294
+767,279,Left Shoulder (Deltoid),804,294
+762,281,Left Shoulder (Deltoid),804,296
+767,285,Left Shoulder (Deltoid),804,296
+779,283,Left Shoulder (Deltoid),804,296
+797,319,Left Shoulder (Deltoid),804,295
+745,298,Chest (Pectorals),700,301
+789,230,Left Trapezius,745,232
+817,206,Left Trapezius,790,228
+683,275,Right Shoulder (Deltoid),637,292
+622,327,Right Shoulder (Deltoid),631,290
+590,324,Right Shoulder (Deltoid),622,287
+594,309,Right Shoulder (Deltoid),622,287
+617,298,Right Shoulder (Deltoid),622,287
+617,268,Right Shoulder (Deltoid),622,287
+618,269,Right Shoulder (Deltoid),621,287
+620,272,Right Shoulder (Deltoid),621,286
+613,275,Right Shoulder (Deltoid),621,287
+613,279,Right Shoulder (Deltoid),621,287
+597,415,Right Bicep,582,403
+595,422,Right Bicep,582,403
+603,426,Right Bicep,582,403
+600,431,Right Bicep,582,402
+600,429,Right Bicep,581,403
+586,550,Right Tricep,594,517
+750,560,Right Tricep,728,519
+706,560,Right Tricep,683,522
+708,551,Right Tricep,679,524
+1163,368,Left Bicep,1189,376
+1219,450,Left Tricep,1191,480
+1175,508,Left Tricep,1196,479
+733,459,Left Bicep,711,468
+542,292,Left Trapezius,551,285
+532,279,Left Trapezius,551,282
+527,282,Left Trapezius,553,281
+546,274,Left Trapezius,554,281
+555,266,Left Trapezius,554,279
+545,273,Left Trapezius,555,279
+518,291,Left Trapezius,554,279
+597,357,Chest (Pectorals),555,335
+570,340,Chest (Pectorals),555,336
+573,309,Left Trapezius,555,285
+576,297,Left Trapezius,556,285
+568,289,Left Trapezius,556,285
+564,285,Left Trapezius,557,285
+570,284,Left Trapezius,557,285
+573,287,Left Trapezius,556,285
+554,319,Chest (Pectorals),556,335
+577,347,Chest (Pectorals),556,335
+578,353,Chest (Pectorals),556,336
+587,358,Chest (Pectorals),556,336
+585,354,Chest (Pectorals),556,337
+587,350,Chest (Pectorals),556,337
+580,352,Chest (Pectorals),556,338
+584,350,Chest (Pectorals),556,338
+585,351,Chest (Pectorals),556,338
+584,350,Chest (Pectorals),556,339
+588,347,Chest (Pectorals),556,338
+585,347,Chest (Pectorals),556,338
+583,348,Chest (Pectorals),555,338
+586,345,Chest (Pectorals),556,336
+587,344,Chest (Pectorals),556,335
+590,350,Chest (Pectorals),556,335
+534,317,Chest (Pectorals),555,329
+554,307,Chest (Pectorals),554,326
+517,307,Chest (Pectorals),552,324
+520,338,Chest (Pectorals),550,323
+507,312,Chest (Pectorals),550,323
+508,285,Left Trapezius,549,266
+509,305,Chest (Pectorals),549,323
+506,310,Chest (Pectorals),549,323
+656,333,Left Shoulder (Deltoid),694,358
+650,336,Left Shoulder (Deltoid),694,359
+656,334,Left Shoulder (Deltoid),697,361
+655,335,Left Shoulder (Deltoid),697,361
+659,333,Left Shoulder (Deltoid),697,362
+651,342,Left Shoulder (Deltoid),694,360
+651,341,Left Shoulder (Deltoid),694,358
+655,338,Left Shoulder (Deltoid),694,358
+655,341,Left Shoulder (Deltoid),694,358
+656,342,Left Shoulder (Deltoid),694,358
+655,338,Left Shoulder (Deltoid),694,360
+656,338,Left Shoulder (Deltoid),693,361
+582,341,Chest (Pectorals),561,338
+524,285,Left Trapezius,562,291
+472,285,Right Shoulder (Deltoid),432,314
+465,293,Right Shoulder (Deltoid),432,314
+467,292,Right Shoulder (Deltoid),432,314
+470,295,Right Shoulder (Deltoid),431,315
+465,296,Right Shoulder (Deltoid),427,316
+465,299,Right Shoulder (Deltoid),424,316
+466,302,Right Shoulder (Deltoid),423,317
+465,299,Right Shoulder (Deltoid),422,317
+464,296,Right Shoulder (Deltoid),421,318
+549,361,Chest (Pectorals),559,340
+579,370,Chest (Pectorals),559,340
+688,494,Left Bicep,723,483
+682,507,Left Bicep,723,483
+674,404,Left Shoulder (Deltoid),699,366
+432,319,Right Shoulder (Deltoid),424,310
+401,393,Right Bicep,364,418
+438,337,Right Shoulder (Deltoid),431,306
+429,329,Right Shoulder (Deltoid),431,307
+436,338,Right Shoulder (Deltoid),431,307
+426,326,Right Shoulder (Deltoid),431,307
+422,319,Right Shoulder (Deltoid),431,307
+417,324,Right Shoulder (Deltoid),429,307
+417,332,Right Shoulder (Deltoid),429,307
+416,346,Right Shoulder (Deltoid),429,307
+407,397,Right Bicep,365,420
+409,405,Right Bicep,365,420
+411,408,Right Bicep,365,420
+450,306,Right Shoulder (Deltoid),428,311
+448,303,Right Shoulder (Deltoid),428,312
+535,340,Chest (Pectorals),566,335
+756,350,Left Shoulder (Deltoid),724,352
+731,356,Left Shoulder (Deltoid),737,352
+479,295,Right Shoulder (Deltoid),479,306
+634,231,Right Trapezius,610,240
+603,274,Left Trapezius,599,284
+787,414,Left Shoulder (Deltoid),762,373
+786,415,Left Shoulder (Deltoid),761,374
+774,403,Left Shoulder (Deltoid),760,374
+771,398,Left Shoulder (Deltoid),760,373
+601,185,Right Trapezius,614,220
+413,415,Right Bicep,375,412
+412,409,Right Bicep,384,415
+414,397,Right Bicep,400,419
+451,390,Right Bicep,412,419
+498,324,Right Shoulder (Deltoid),486,306
+483,336,Right Shoulder (Deltoid),487,304
+483,331,Right Shoulder (Deltoid),488,298
+473,343,Right Shoulder (Deltoid),488,297
+757,463,Left Bicep,768,478
+760,460,Left Bicep,769,474
+529,255,Right Shoulder (Deltoid),497,288
+524,296,Right Shoulder (Deltoid),497,288
+532,318,Right Shoulder (Deltoid),498,288
+519,331,Right Shoulder (Deltoid),498,288
+516,315,Right Shoulder (Deltoid),492,289
+531,310,Right Shoulder (Deltoid),486,290
+581,283,Left Trapezius,606,276
+638,279,Left Trapezius,604,278
+477,290,Right Shoulder (Deltoid),473,303
+603,290,Left Trapezius,601,280
+505,320,Right Shoulder (Deltoid),467,311
+618,295,Left Trapezius,600,283
+595,254,Right Trapezius,608,241
+563,314,Chest (Pectorals),608,330
+514,316,Right Shoulder (Deltoid),474,305
+618,296,Left Trapezius,609,285
+651,311,Chest (Pectorals),610,328
+599,372,Chest (Pectorals),606,327
+571,339,Chest (Pectorals),605,326
+587,344,Chest (Pectorals),598,339
+575,352,Chest (Pectorals),601,345
+582,357,Chest (Pectorals),601,350
+583,360,Chest (Pectorals),602,350
+575,366,Chest (Pectorals),602,353
+585,365,Chest (Pectorals),602,354
+584,369,Chest (Pectorals),603,354
+590,363,Chest (Pectorals),603,354
+527,265,Right Shoulder (Deltoid),489,295
+536,290,Right Shoulder (Deltoid),490,295
+532,287,Right Shoulder (Deltoid),491,295
+522,281,Right Shoulder (Deltoid),492,295
+473,397,Right Bicep,441,420
+455,414,Right Bicep,444,416
+436,511,Right Tricep,403,526
+436,513,Right Tricep,406,526
+441,461,Right Bicep,459,431
+580,395,Left Shoulder (Deltoid),599,404
+557,347,Left Shoulder (Deltoid),518,361
+736,351,Left Shoulder (Deltoid),776,334
+827,381,Left Bicep,832,422
+824,379,Left Bicep,837,423
+829,391,Left Bicep,836,434
+834,403,Left Bicep,836,435
+837,412,Left Bicep,836,435
+846,437,Left Bicep,834,434
+848,448,Left Bicep,834,437
+849,458,Left Bicep,834,438
+853,480,Left Bicep,833,437
+853,501,Left Tricep,893,530
+851,516,Left Tricep,893,534
+850,523,Left Tricep,892,536
+848,538,Left Tricep,892,540
+850,542,Left Tricep,891,540
+845,561,Left Tricep,891,547
+845,567,Left Tricep,891,550
+674,610,Right Shoulder (Deltoid),687,650
+597,555,Right Trapezius,616,520
+584,539,Right Trapezius,617,520
+573,533,Right Trapezius,619,516
+595,536,Left Trapezius,625,506
+598,538,Left Trapezius,621,506
+602,540,Right Trapezius,620,507
+606,544,Right Trapezius,620,509
+608,543,Right Trapezius,619,511
+608,546,Right Trapezius,619,511
+609,545,Right Trapezius,619,511
+610,546,Right Trapezius,619,511
+610,547,Right Trapezius,620,511
+609,549,Right Trapezius,620,511
+611,548,Right Trapezius,620,511
+611,550,Right Trapezius,620,511
+611,550,Right Trapezius,620,511
+610,550,Right Trapezius,621,511
+610,550,Right Trapezius,621,511
+611,551,Right Trapezius,621,511
+611,552,Right Trapezius,621,511
+613,552,Right Trapezius,621,511
+612,553,Right Trapezius,622,511
+613,553,Right Trapezius,622,511
+613,553,Right Trapezius,623,511
+611,554,Right Trapezius,623,511
+612,555,Right Trapezius,623,510
+614,554,Right Trapezius,623,510
+614,555,Right Trapezius,623,510
+616,554,Right Trapezius,623,510
+614,556,Right Trapezius,623,510
+615,556,Right Trapezius,623,511
+616,559,Right Trapezius,623,511
+615,560,Right Trapezius,623,512
+615,560,Right Trapezius,623,512
+616,561,Right Trapezius,623,512
+615,560,Right Trapezius,624,511
+614,556,Right Trapezius,624,511
+610,554,Right Trapezius,624,511
+609,547,Right Trapezius,624,511
+613,545,Right Trapezius,624,511
+612,548,Right Trapezius,624,511
+612,549,Right Trapezius,624,511
+611,550,Right Trapezius,624,511
+611,549,Right Trapezius,624,511
+611,550,Right Trapezius,624,511
+611,550,Right Trapezius,624,511
+612,550,Right Trapezius,624,511
+613,549,Right Trapezius,624,511
+613,550,Right Trapezius,624,511
+614,549,Right Trapezius,623,511
+615,549,Right Trapezius,624,512
+615,549,Right Trapezius,624,511
+616,549,Right Trapezius,624,511
+616,550,Right Trapezius,624,511
+618,553,Right Trapezius,624,511
+615,554,Right Trapezius,624,511
+615,553,Right Trapezius,624,511
+583,582,Chest (Pectorals),611,606
+589,586,Chest (Pectorals),609,609
+590,591,Chest (Pectorals),608,610
+589,589,Chest (Pectorals),608,610
+588,594,Chest (Pectorals),607,610
+591,597,Chest (Pectorals),607,609
+591,596,Chest (Pectorals),607,609
+587,594,Chest (Pectorals),607,609
+585,593,Chest (Pectorals),607,609
+584,592,Chest (Pectorals),607,609
+578,592,Chest (Pectorals),607,609
+575,593,Chest (Pectorals),606,609
+568,600,Chest (Pectorals),606,609
+565,599,Chest (Pectorals),606,609
+562,600,Chest (Pectorals),606,609
+561,602,Chest (Pectorals),607,609
+616,531,Right Trapezius,606,496
+581,524,Right Trapezius,607,493
+594,573,Chest (Pectorals),607,607
+592,579,Chest (Pectorals),605,609
+593,599,Chest (Pectorals),601,612
+564,539,Right Trapezius,595,528
+650,500,Right Trapezius,685,507
+649,508,Right Trapezius,685,491
+634,526,Right Shoulder (Deltoid),597,557
+699,547,Right Shoulder (Deltoid),699,579
+727,543,Right Trapezius,770,524
+706,497,Left Trapezius,671,500
+647,500,Right Trapezius,645,512
+596,537,Left Trapezius,599,535
+605,536,Left Trapezius,599,534
+580,544,Left Trapezius,600,533
+561,541,Left Trapezius,601,532
+641,552,Left Trapezius,605,530
+633,560,Left Trapezius,606,531
+631,558,Left Trapezius,606,532
+626,557,Left Trapezius,606,533
+621,552,Left Trapezius,606,533
+619,553,Left Trapezius,607,534
+619,552,Left Trapezius,607,533
+617,553,Left Trapezius,607,533
+619,556,Left Trapezius,607,533
+617,553,Left Trapezius,608,533
+616,551,Left Trapezius,608,533
+617,554,Left Trapezius,608,533
+616,554,Left Trapezius,608,533
+615,558,Left Trapezius,608,533
+613,559,Left Trapezius,608,533
+610,568,Left Trapezius,608,533
+890,620,Left Bicep,859,657
+886,610,Left Bicep,864,650
+898,598,Left Bicep,862,627
+889,603,Left Bicep,862,627
+879,606,Left Bicep,859,627
+895,641,Left Bicep,856,630
+902,647,Left Bicep,856,631
+898,645,Left Bicep,856,633
+850,627,Left Bicep,891,621
+854,629,Left Bicep,892,622
+855,631,Left Bicep,892,623
+853,628,Left Bicep,892,622
+850,624,Left Bicep,890,616
+848,624,Left Bicep,885,614
+848,623,Left Bicep,885,613
+848,623,Left Bicep,885,612
+848,623,Left Bicep,885,612
+849,624,Left Bicep,885,612
+849,624,Left Bicep,887,614
+852,624,Left Bicep,888,615
+850,623,Left Bicep,890,618
+850,624,Left Bicep,891,619
+849,622,Left Bicep,892,619
+851,621,Left Bicep,893,619
+869,644,Left Bicep,882,622
+864,674,Left Bicep,873,640
+832,607,Left Bicep,853,590
+831,606,Left Bicep,853,593
+832,607,Left Bicep,851,594
+829,602,Left Bicep,846,596
+831,607,Left Bicep,845,597
+831,607,Left Bicep,842,596
+832,606,Left Bicep,842,597
+832,606,Left Bicep,842,598
+833,606,Left Bicep,843,598
+832,605,Left Bicep,843,597
+833,605,Left Bicep,846,596
+833,604,Left Bicep,847,595
+832,605,Left Bicep,847,595
+830,605,Left Bicep,847,595
+831,604,Left Bicep,845,595
+831,604,Left Bicep,845,596
+832,603,Left Bicep,849,596
+832,604,Left Bicep,850,596
+832,604,Left Bicep,850,596
+832,602,Left Bicep,850,596
+832,603,Left Bicep,850,597
+832,603,Left Bicep,850,597
+831,603,Left Bicep,850,597
+831,603,Left Bicep,850,598
+831,603,Left Bicep,851,598
+831,602,Left Bicep,852,598
+830,601,Left Bicep,851,598
+829,602,Left Bicep,849,597
+829,602,Left Bicep,849,597
+830,602,Left Bicep,849,598
+830,602,Left Bicep,849,598
+830,602,Left Bicep,850,598
+831,603,Left Bicep,850,597
+831,603,Left Bicep,850,597
+832,603,Left Bicep,850,597
+833,605,Left Bicep,850,598
+832,605,Left Bicep,850,597
+833,605,Left Bicep,850,597
+832,606,Left Bicep,849,597
+832,606,Left Bicep,849,597
+833,608,Left Bicep,849,598
+833,606,Left Bicep,849,598
+834,605,Left Bicep,849,598
+834,605,Left Bicep,849,598
+834,605,Left Bicep,849,598
+834,606,Left Bicep,849,598
+834,605,Left Bicep,849,599
+834,605,Left Bicep,849,598
+833,606,Left Bicep,849,598
+834,606,Left Bicep,850,599
+835,607,Left Bicep,850,599
+834,606,Left Bicep,850,599
+834,606,Left Bicep,849,600
+834,606,Left Bicep,849,600
+833,606,Left Bicep,850,600
+834,605,Left Bicep,850,599
+834,605,Left Bicep,850,599
+833,606,Left Bicep,850,600
+832,604,Left Bicep,849,600
+831,603,Left Bicep,848,600
+831,604,Left Bicep,847,599
+832,604,Left Bicep,847,599
+831,602,Left Bicep,848,599
+833,599,Left Bicep,850,597
+834,601,Left Bicep,850,596
+630,406,Left Tricep,664,436
+655,429,Right Trapezius,620,448
+572,556,Chest (Pectorals),582,515
+569,538,Chest (Pectorals),589,499
+556,509,Chest (Pectorals),590,499
+562,422,Left Trapezius,589,408
+613,429,Left Trapezius,589,408
+625,429,Left Trapezius,589,408
+594,423,Left Trapezius,589,408
+576,414,Left Trapezius,589,410
+566,407,Left Trapezius,586,411
+578,463,Chest (Pectorals),570,495
+602,475,Chest (Pectorals),565,495
+702,542,Left Shoulder (Deltoid),720,496
+776,564,Left Bicep,809,538
+779,562,Left Bicep,810,537
+780,558,Left Bicep,810,538
+780,555,Left Bicep,811,537
+783,549,Left Bicep,812,536
+786,548,Left Bicep,812,536
+787,547,Left Bicep,813,536
+787,547,Left Bicep,813,536
+785,548,Left Bicep,813,536
+785,547,Left Bicep,813,536
+786,548,Left Bicep,813,536
+787,548,Left Bicep,813,536
+786,547,Left Bicep,814,536
+786,546,Left Bicep,814,536
+786,546,Left Bicep,814,536
+787,545,Left Bicep,814,536
+787,545,Left Bicep,814,536
+785,544,Left Bicep,814,536
+785,544,Left Bicep,814,536
+784,543,Left Bicep,814,536
+783,545,Left Bicep,812,536
+782,545,Left Bicep,809,536
+781,546,Left Bicep,807,537
+782,546,Left Bicep,805,537
+779,553,Left Bicep,804,538
+780,555,Left Bicep,804,539
+778,554,Left Bicep,804,539
+778,554,Left Bicep,804,539
+777,554,Left Bicep,803,538
+777,555,Left Bicep,803,538
+776,554,Left Bicep,803,538
+773,555,Left Bicep,803,538
+773,555,Left Bicep,801,540
+773,555,Left Bicep,801,541
+761,553,Left Bicep,798,542
+712,579,Left Bicep,744,616
+739,585,Left Bicep,765,603
+766,590,Left Bicep,802,581
+772,598,Left Bicep,811,568
+776,545,Left Bicep,818,536
+779,547,Left Bicep,818,535
+788,553,Left Bicep,818,534
+792,557,Left Bicep,818,535
+791,556,Left Bicep,818,535
+788,552,Left Bicep,818,535
+789,551,Left Bicep,818,535
+790,552,Left Bicep,818,536
+790,552,Left Bicep,817,536
+790,551,Left Bicep,817,535
+789,552,Left Bicep,817,535
+789,553,Left Bicep,817,535
+789,553,Left Bicep,816,534
+789,553,Left Bicep,815,534
+789,554,Left Bicep,814,534
+789,556,Left Bicep,814,534
+789,556,Left Bicep,814,534
+789,556,Left Bicep,814,534
+790,556,Left Bicep,814,535
+789,557,Left Bicep,813,535
+790,556,Left Bicep,815,536
+795,560,Left Bicep,815,536
+795,559,Left Bicep,815,536
+795,560,Left Bicep,816,536
+793,561,Left Bicep,816,536
+793,561,Left Bicep,817,537
+793,561,Left Bicep,817,537
+793,560,Left Bicep,817,537
+791,559,Left Bicep,818,537
+793,557,Left Bicep,818,537
+790,559,Left Bicep,818,537
+790,560,Left Bicep,817,538
+791,559,Left Bicep,817,538
+791,559,Left Bicep,817,538
+795,562,Left Bicep,818,538
+791,562,Left Bicep,818,538
+793,561,Left Bicep,818,538
+792,561,Left Bicep,817,537
+789,558,Left Bicep,817,536
+789,558,Left Bicep,816,535
+786,559,Left Bicep,815,535
+787,556,Left Bicep,815,533
+781,554,Left Bicep,814,532
+778,549,Left Bicep,811,532
+769,541,Left Bicep,807,531
+766,542,Left Bicep,803,535
+763,543,Left Bicep,799,538
+764,542,Left Bicep,795,540
+769,542,Left Bicep,794,540
+770,554,Left Bicep,790,544
+762,586,Left Bicep,784,562
+756,599,Left Bicep,776,571
+728,629,Left Bicep,740,585
+722,645,Left Bicep,727,597
+696,449,Left Shoulder (Deltoid),695,468
+693,459,Left Shoulder (Deltoid),685,461
+687,464,Left Shoulder (Deltoid),688,465
+689,482,Left Shoulder (Deltoid),680,479
+709,471,Left Shoulder (Deltoid),683,484
+705,459,Left Shoulder (Deltoid),684,484
+669,446,Left Shoulder (Deltoid),692,490
+570,525,Chest (Pectorals),553,493
+732,519,Left Shoulder (Deltoid),721,500
+758,517,Left Shoulder (Deltoid),721,495
+747,515,Left Shoulder (Deltoid),724,476
+748,508,Left Shoulder (Deltoid),724,476
+747,504,Left Shoulder (Deltoid),724,476
+744,491,Left Shoulder (Deltoid),724,476
+744,491,Left Shoulder (Deltoid),724,476
+745,492,Left Shoulder (Deltoid),724,476
+741,493,Left Shoulder (Deltoid),724,476
+741,494,Left Shoulder (Deltoid),724,477
+739,493,Left Shoulder (Deltoid),724,477
+737,493,Left Shoulder (Deltoid),724,477
+737,493,Left Shoulder (Deltoid),723,477
+737,494,Left Shoulder (Deltoid),723,477
+736,495,Left Shoulder (Deltoid),722,477
+736,496,Left Shoulder (Deltoid),722,477
+734,494,Left Shoulder (Deltoid),722,478
+735,493,Left Shoulder (Deltoid),722,478
+734,493,Left Shoulder (Deltoid),722,478
+734,492,Left Shoulder (Deltoid),721,479
+734,493,Left Shoulder (Deltoid),721,479
+733,493,Left Shoulder (Deltoid),721,479
+732,493,Left Shoulder (Deltoid),721,479
+731,493,Left Shoulder (Deltoid),720,480
+731,492,Left Shoulder (Deltoid),720,480
+730,492,Left Shoulder (Deltoid),720,480
+730,491,Left Shoulder (Deltoid),719,480
+729,491,Left Shoulder (Deltoid),719,480
+727,492,Left Shoulder (Deltoid),718,480
+727,493,Left Shoulder (Deltoid),718,480
+727,493,Left Shoulder (Deltoid),718,480
+728,494,Left Shoulder (Deltoid),717,480
+728,495,Left Shoulder (Deltoid),717,480
+728,494,Left Shoulder (Deltoid),717,480
+728,494,Left Shoulder (Deltoid),717,480
+728,494,Left Shoulder (Deltoid),717,480
+728,494,Left Shoulder (Deltoid),717,479
+728,494,Left Shoulder (Deltoid),717,479
+727,494,Left Shoulder (Deltoid),717,479
+728,494,Left Shoulder (Deltoid),717,479
+729,495,Left Shoulder (Deltoid),717,479
+729,496,Left Shoulder (Deltoid),717,479
+728,496,Left Shoulder (Deltoid),716,479
+728,497,Left Shoulder (Deltoid),715,479
+728,498,Left Shoulder (Deltoid),715,479
+728,498,Left Shoulder (Deltoid),715,479
+728,499,Left Shoulder (Deltoid),714,479
+727,499,Left Shoulder (Deltoid),714,479
+727,499,Left Shoulder (Deltoid),713,479
+727,500,Left Shoulder (Deltoid),713,479
+726,498,Left Shoulder (Deltoid),713,479
+727,498,Left Shoulder (Deltoid),713,479
+726,499,Left Shoulder (Deltoid),714,479
+726,498,Left Shoulder (Deltoid),714,479
+727,498,Left Shoulder (Deltoid),713,479
+727,498,Left Shoulder (Deltoid),714,479
+727,498,Left Shoulder (Deltoid),713,479
+726,498,Left Shoulder (Deltoid),713,479
+726,499,Left Shoulder (Deltoid),713,479
+726,498,Left Shoulder (Deltoid),713,479
+724,498,Left Shoulder (Deltoid),713,479
+725,498,Left Shoulder (Deltoid),713,479
+724,499,Left Shoulder (Deltoid),713,479
+725,499,Left Shoulder (Deltoid),713,480
+723,499,Left Shoulder (Deltoid),713,480
+722,499,Left Shoulder (Deltoid),713,480
+722,499,Left Shoulder (Deltoid),713,480
+721,498,Left Shoulder (Deltoid),713,480
+721,499,Left Shoulder (Deltoid),713,480
+720,498,Left Shoulder (Deltoid),713,480
+720,498,Left Shoulder (Deltoid),713,480
+720,498,Left Shoulder (Deltoid),712,480
+721,497,Left Shoulder (Deltoid),712,480
+722,496,Left Shoulder (Deltoid),712,480
+723,496,Left Shoulder (Deltoid),712,480
+720,494,Left Shoulder (Deltoid),711,480
+721,494,Left Shoulder (Deltoid),711,480
+719,492,Left Shoulder (Deltoid),710,480
+717,491,Left Shoulder (Deltoid),710,480
+718,491,Left Shoulder (Deltoid),709,479
+719,491,Left Shoulder (Deltoid),708,478
+718,491,Left Shoulder (Deltoid),707,477
+717,491,Left Shoulder (Deltoid),706,477
+714,493,Left Shoulder (Deltoid),701,477
+714,495,Left Shoulder (Deltoid),697,477
+716,497,Left Shoulder (Deltoid),696,477
+714,497,Left Shoulder (Deltoid),696,478
+714,497,Left Shoulder (Deltoid),696,478
+713,498,Left Shoulder (Deltoid),696,478
+714,498,Left Shoulder (Deltoid),695,478
+712,499,Left Shoulder (Deltoid),695,478
+709,498,Left Shoulder (Deltoid),695,477
+707,501,Left Shoulder (Deltoid),695,477
+706,501,Left Shoulder (Deltoid),695,478
+705,504,Left Shoulder (Deltoid),693,478
+704,504,Left Shoulder (Deltoid),690,478
+703,506,Left Shoulder (Deltoid),688,479
+705,509,Left Shoulder (Deltoid),685,479
+705,509,Left Shoulder (Deltoid),684,479
+704,509,Left Shoulder (Deltoid),684,479
+705,510,Left Shoulder (Deltoid),684,479
+706,510,Left Shoulder (Deltoid),684,479
+709,512,Left Shoulder (Deltoid),684,480
+708,511,Left Shoulder (Deltoid),684,482
+708,512,Left Shoulder (Deltoid),684,482
+709,511,Left Shoulder (Deltoid),685,482
+709,511,Left Shoulder (Deltoid),685,483
+711,512,Left Shoulder (Deltoid),685,483
+712,512,Left Shoulder (Deltoid),685,483
+711,512,Left Shoulder (Deltoid),685,483
+712,513,Left Shoulder (Deltoid),685,483
+710,511,Left Shoulder (Deltoid),685,483
+709,509,Left Shoulder (Deltoid),685,483
+709,510,Left Shoulder (Deltoid),685,483
+708,509,Left Shoulder (Deltoid),685,484
+709,509,Left Shoulder (Deltoid),685,484
+709,509,Left Shoulder (Deltoid),684,484
+708,508,Left Shoulder (Deltoid),684,484
+706,508,Left Shoulder (Deltoid),684,484
+706,501,Left Shoulder (Deltoid),684,484
+705,501,Left Shoulder (Deltoid),684,484
+704,501,Left Shoulder (Deltoid),684,484
+704,498,Left Shoulder (Deltoid),685,484
+705,497,Left Shoulder (Deltoid),685,484
+705,496,Left Shoulder (Deltoid),685,485
+705,495,Left Shoulder (Deltoid),685,485
+705,495,Left Shoulder (Deltoid),685,486
+705,496,Left Shoulder (Deltoid),685,486
+705,495,Left Shoulder (Deltoid),686,487
+705,496,Left Shoulder (Deltoid),686,488
+705,496,Left Shoulder (Deltoid),687,489
+704,496,Left Shoulder (Deltoid),687,490
+704,494,Left Shoulder (Deltoid),686,490
+704,494,Left Shoulder (Deltoid),686,490
+703,491,Left Shoulder (Deltoid),685,490
+701,491,Left Shoulder (Deltoid),685,490
+701,492,Left Shoulder (Deltoid),686,489
+700,492,Left Shoulder (Deltoid),686,489
+700,495,Left Shoulder (Deltoid),686,489
+700,496,Left Shoulder (Deltoid),686,489
+701,499,Left Shoulder (Deltoid),685,490
+703,499,Left Shoulder (Deltoid),685,491
+706,497,Left Shoulder (Deltoid),685,491
+706,496,Left Shoulder (Deltoid),686,491
+706,496,Left Shoulder (Deltoid),686,491
+705,496,Left Shoulder (Deltoid),687,493
+704,496,Left Shoulder (Deltoid),687,494
+704,496,Left Shoulder (Deltoid),687,494
+705,497,Left Shoulder (Deltoid),688,494
+706,497,Left Shoulder (Deltoid),689,494
+705,496,Left Shoulder (Deltoid),689,494
+706,496,Left Shoulder (Deltoid),689,493
+706,496,Left Shoulder (Deltoid),689,493
+706,495,Left Shoulder (Deltoid),689,493
+706,495,Left Shoulder (Deltoid),689,493
+707,494,Left Shoulder (Deltoid),689,492
+707,493,Left Shoulder (Deltoid),689,492
+707,492,Left Shoulder (Deltoid),689,490
+707,494,Left Shoulder (Deltoid),689,489
+711,492,Left Shoulder (Deltoid),689,489
+713,489,Left Shoulder (Deltoid),688,489
+712,490,Left Shoulder (Deltoid),688,489
+712,492,Left Shoulder (Deltoid),688,489
+711,489,Left Shoulder (Deltoid),689,488
+709,488,Left Shoulder (Deltoid),689,488
+704,481,Left Shoulder (Deltoid),689,489
+703,481,Left Shoulder (Deltoid),689,489
+701,484,Left Shoulder (Deltoid),689,484
+696,490,Left Shoulder (Deltoid),689,484
+695,492,Left Shoulder (Deltoid),682,474
+693,497,Left Shoulder (Deltoid),683,475
+704,502,Left Shoulder (Deltoid),682,474
+705,503,Left Shoulder (Deltoid),683,475
+702,550,Left Bicep,735,570
+301,597,Right Bicep,347,600
+331,507,Right Shoulder (Deltoid),380,516
+319,599,Right Bicep,337,595
+322,622,Right Bicep,341,592
